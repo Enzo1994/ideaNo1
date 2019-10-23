@@ -1,0 +1,45 @@
+<!-- miniprogram/pages/create-diary-book/create-diary-book.wxml -->
+<text style="font-size:60rpx;font-weight:bold">新建日记本</text>
+
+<view class="container">
+  <form bindsubmit="formSubmit">
+    <view class="form-item">
+      <label for="name">宠物爱称：</label>
+      <input id="name" type="text" name="name"></input>
+    </view>
+    <view class="form-item">
+      <label for="sex">宠物性别：</label>
+      <radio-group class="radio-group" bindchange="radioChange" name="sex">
+        <radio class="radio" wx:for-items="{{[{name:'male',value:'男孩'},{name:'female',value:'女孩'}]}}" wx:key="name" value="{{item.name}}" >
+          <text>{{item.value}}</text>
+        </radio>
+      </radio-group>
+    </view>
+    <view class="form-item">
+      <label for="breed">宠物品种：</label>
+      <input id="breed" type="text" name="breed"></input>
+    </view>
+    <view class="form-item">
+      <label for="hairColor">宠物毛色：</label>
+      <input id="hairColor" type="text" name="hairColor"></input>
+    </view>
+    <view class="form-item">
+      <label for="metDate">和主人第一次见面日期：</label>
+      <picker id="metDate" name="metDate" bindtap="test" mode="date" value="{{date}}" start="2015-09-01" end="2017-09-01" bindchange="bindDateChange">
+        <text class="picker">{{date===""?'请选择':date}}</text>
+      </picker>
+    </view>
+    <view class="form-item">
+      <label for="weight">宠物体重（选填）：</label>
+      <input id="weight" type="text" name="weight"></input>
+    </view>
+    <view class="form-item">
+      <label for="bodyLength">宠物身长（选填）：</label>
+      <input id="bodyLength" type="text" name="bodyLength"></input>
+    </view>
+    <button form-type="submit">提交</button>
+    <button form-type="reset">清空</button>
+  </form>
+</view>
+
+<view bindtap="chooseImages">上传图片</view>

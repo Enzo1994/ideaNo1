@@ -1,0 +1,41 @@
+/* miniprogram/pages/create-diary-book/create-diary-book.wxss */
+.container {
+  /* display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; */
+  box-sizing:border-box;
+  width: 100%;
+  border: 1px solid red;
+}
+
+.form-item {
+  display: flex;
+  flex-wrap: nowrap;
+
+}
+.form-item label {
+  /* flex-grow: 1; */
+  white-space: nowrap;
+}
+.form-item input {
+  flex-grow: 1;
+}
+
+picker,.picker{
+  position: relative;
+  display: block;
+  flex-grow: 1;
+  border: 1px solid black;
+  z-index:9999;
+
+
+}
+/* .picker{
+  position: relative;
+  display: block;
+  flex-grow: 1;
+  border: 1px solid black;
+  z-index:9999;
+
+
+} */
