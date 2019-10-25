@@ -23,7 +23,10 @@
   background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
   box-shadow: 20rpx 10px 20rpx #eee;
 }
-
+.pet-avatar{
+  width: 200rpx;
+  height: 200rpx;
+}
 
 .timeline {
   width: 100%;

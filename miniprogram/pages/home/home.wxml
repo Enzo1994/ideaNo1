@@ -1,10 +1,13 @@
 <!--miniprogram/pages/home/home.wxml-->
 <scroll-view scroll-y="true" class="container">
   <view class="label-card">
-    <view class="label-card__body"></view>
+    <view class="label-card__body">
+
+      <view class="pet-avatar"></view>
+    </view>
 
   </view>
-  <view class="timeline">
+  <view class="timeline" wx:if="{{isLogin}}">
     <view wx:for="{{diaryData}}" wx:for-item="diary" class="item">
       <view class="line"></view>
       <icon class="icon"></icon>
@@ -23,5 +26,7 @@
 
     </view>
   </view>
-
+  <view wx:else>
+    <button open-type="getUserInfo" type="primary" size="default" bindgetuserinfo="onGetUserInfo">点击登陆</button>
+  </view>
 </scroll-view>

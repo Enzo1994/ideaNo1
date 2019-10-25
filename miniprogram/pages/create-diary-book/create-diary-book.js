@@ -18,8 +18,6 @@ Page({
         const FileSystemManager = wx.getFileSystemManager();
         const base64Images = [];
         res.tempFilePaths.forEach(tempUrl => {
-
-          // const file = 
           base64Images.push({
             suffix: /\.[^\.]+$/.exec(tempUrl)[0],
             base64: FileSystemManager.readFileSync(tempUrl, "base64"),
@@ -64,6 +62,7 @@ Page({
       date: e.detail.value
     });
   },
+  
   test() {
     console.log(2);
   },

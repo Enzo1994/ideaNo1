@@ -1,7 +1,8 @@
 //app.js
 App({
-  onLaunch: function () {
-    
+
+  onLaunch: async function() {
+
     if (!wx.cloud) {
       console.error('请使用 2.2.3 或以上的基础库以使用云能力')
     } else {
@@ -15,6 +16,47 @@ App({
       })
     }
 
-    this.globalData = {}
+    this.globalData = {
+      hasUser: false,
+      userInfo: {},
+      hasUserInfo: false,
+      hasUnionid: false,
+      isLogin: false,
+    }
+
+    // ①查看用户是否授权：
+    // 获取用户信息
+    wx.getSetting({
+      success: res => {
+        if (res.authSetting['scope.userInfo']) {
+          // 已经授权，可以直接调用 getUserInfo 获取头像昵称，不会弹框
+          wx.getUserInfo({
+            success: res => {
+              this.globalData.userInfo = res.userInfo
+              // 由于 getUserInfo 是网络请求，可能会在 Page.onLoad 之后才返回
+              // 所以此处加入 callback 以防止这种情况
+              if (this.userInfoReadyCallback) {
+                this.userInfoReadyCallback(res)
+              }
+            }
+          })
+        }
+      }
+    })
+
+    // ②去数据库查看是否已经存储了用户信息：
+    const db = wx.cloud.database()
+    const user = db.collection('user').get().then(res => {
+      if (res.data.length != 0) {
+        this.globalData.hasUser = true;
+        if (!res.data[0].unionid) {
+          console.log('未记录unionid')
+          this.globalData.hasUnionid = false;
+        }
+      }
+      console.log(res)
+    });
+
+
   }
 })
