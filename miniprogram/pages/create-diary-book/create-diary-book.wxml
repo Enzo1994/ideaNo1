@@ -60,7 +60,12 @@
         </view>
       </picker>
     </view>
-    <text style="line-height:60rpx;padding-left:30rpx">以下内容为选填：</text>
+    <view class="cu-bar margin-top bg-white">
+  <view class="action">
+    <text class="cuIcon-title text-blue"></text>以下内容为选填：
+  </view>
+</view>
+    <!-- <text style="line-height:60rpx;padding-left:30rpx">以下内容为选填：</text> -->
     <view class="cu-form-group">
       <view class="title">宠物体重（选填）：</view>
 
