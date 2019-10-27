@@ -3,18 +3,26 @@
 
 <view class="container">
   <form bindsubmit="formSubmit">
-    <view class="form-item">
-      <label for="name">宠物爱称：</label>
-      <input id="name" type="text" name="name"></input>
-    </view>
-    <view class="form-item">
-      <label for="sex">宠物性别：</label>
-      <radio-group class="radio-group" bindchange="radioChange" name="sex">
-        <radio class="radio" wx:for-items="{{[{name:'male',value:'男孩'},{name:'female',value:'女孩'}]}}" wx:key="name" value="{{item.name}}" >
-          <text>{{item.value}}</text>
-        </radio>
-      </radio-group>
-    </view>
+    <cells title =  "title">
+      <cell class="form-item" style="width:100%">
+        <view class="form-item">
+          <label for="name">宠物爱称：</label>
+          <input id="name" type="text" name="name"></input>
+        </view>
+      </cell>
+    </cells>
+    <cells title=" ">
+
+      <cell>
+        <label for="sex">宠物性别：</label>
+        <radio-group class="radio-group" bindchange="radioChange" name="sex">
+          <radio class="radio" wx:for-items="{{[{name:'male',value:'男孩'},{name:'female',value:'女孩'}]}}" wx:key="name" value="{{item.name}}">
+            <text>{{item.value}}</text>
+          </radio>
+        </radio-group>
+      </cell>
+    </cells>
+
     <view class="form-item">
       <label for="breed">宠物品种：</label>
       <input id="breed" type="text" name="breed"></input>

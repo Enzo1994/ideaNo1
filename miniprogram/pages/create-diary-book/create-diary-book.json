@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "cell":"../../components/weui-cells/cell/cell",
+    "cells":"../../components/weui-cells/cells/cells"
+  }
 }

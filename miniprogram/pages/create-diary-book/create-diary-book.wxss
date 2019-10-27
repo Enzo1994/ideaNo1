@@ -1,26 +1,30 @@
-/* miniprogram/pages/create-diary-book/create-diary-book.wxss */
-.container {
+/* miniprogram/pages/create-diary-book/create-diary-book.wxss */ 
+/* .container { */
   /* display: flex;
   flex-direction: row;
   flex-wrap: wrap; */
-  box-sizing:border-box;
+  /* box-sizing:border-box;
   width: 100%;
   border: 1px solid red;
 }
-
+*/
+page{
+  background-color: #F2F2F2;
+}
 .form-item {
   display: flex;
   flex-wrap: nowrap;
+  width: 100%;
 
 }
 .form-item label {
-  /* flex-grow: 1; */
   white-space: nowrap;
 }
 .form-item input {
   flex-grow: 1;
 }
 
+/*
 picker,.picker{
   position: relative;
   display: block;
@@ -29,7 +33,7 @@ picker,.picker{
   z-index:9999;
 
 
-}
+} */
 /* .picker{
   position: relative;
   display: block;
@@ -38,4 +42,4 @@ picker,.picker{
   z-index:9999;
 
 
-} */
+}
