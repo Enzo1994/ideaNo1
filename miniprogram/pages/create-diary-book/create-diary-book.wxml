@@ -1,53 +1,80 @@
 <!-- miniprogram/pages/create-diary-book/create-diary-book.wxml -->
-<text style="font-size:60rpx;font-weight:bold">新建日记本</text>
+
+<cu-custom bgColor="bg-gradual-pink" isBack="{{true}}">
+  <view slot="backText">返回</view>
+  <view slot="content">表单</view>
+</cu-custom>
+
+<!-- <text style="font-size:60rpx;font-weight:bold">新建日记本</text> -->
 
 <view class="container">
   <form bindsubmit="formSubmit">
-    <cells title =  "title">
-      <cell class="form-item" style="width:100%">
-        <view class="form-item">
-          <label for="name">宠物爱称：</label>
-          <input id="name" type="text" name="name"></input>
-        </view>
-      </cell>
-    </cells>
-    <cells title=" ">
+    <view class="cu-form-group margin-top">
 
-      <cell>
-        <label for="sex">宠物性别：</label>
-        <radio-group class="radio-group" bindchange="radioChange" name="sex">
-          <radio class="radio" wx:for-items="{{[{name:'male',value:'男孩'},{name:'female',value:'女孩'}]}}" wx:key="name" value="{{item.name}}">
-            <text>{{item.value}}</text>
-          </radio>
+      <!-- <view class="form-item"> -->
+      <view class="title">宠物爱称：</view>
+      <input id="name" type="text" name="name" placeholder="请输入爱宠名称（十个字符以内）"></input>
+      <!-- </view> -->
+    </view>
+
+    <view class="cu-form-group">
+      <view class="title">宠物性别：</view>
+      <!-- <radio-group class="block" bindchange="radioChange" name="sex">
+        <radio wx:for-items="{{[{name:'male',value:'男孩',color:'blue'},{name:'female',value:'女孩',color:'red'}]}}" wx:key="name" value="{{item.name}}" class="{{item.color}} margin-left-xl">
+        <text style="position:absolute">{{item.name}}</text>
+        </radio>
+       
+      </radio-group> -->
+      <view class="action">
+        <radio-group bindchange="SetBorderSize">
+          <label class="margin-left-sm">
+            <radio class="blue sm" value="female" checked></radio>
+            <text> 小王子</text>
+          </label>
+          <label class="margin-left-sm">
+            <radio class="red sm" value="male"></radio>
+            <text> 小公主</text>
+          </label>
         </radio-group>
-      </cell>
-    </cells>
+      </view>
 
-    <view class="form-item">
-      <label for="breed">宠物品种：</label>
+      <!-- <picker bindchange="PickerChange" value="{{index}}" range="{{picker}}">
+        <view class="picker" style="color:#555">
+          {{index?picker[index]:'请选择性别'}}
+        </view>
+      </picker> -->
+    </view>
+    <view class="cu-form-group">
+      <view class="title">宠物品种：</view>
       <input id="breed" type="text" name="breed"></input>
     </view>
-    <view class="form-item">
-      <label for="hairColor">宠物毛色：</label>
-      <input id="hairColor" type="text" name="hairColor"></input>
-    </view>
-    <view class="form-item">
-      <label for="metDate">和主人第一次见面日期：</label>
-      <picker id="metDate" name="metDate" bindtap="test" mode="date" value="{{date}}" start="2015-09-01" end="2017-09-01" bindchange="bindDateChange">
+
+    <view class="cu-form-group">
+      <view class="title">和主人第一次见面日期：</view>
+      <!-- <picker id="metDate" name="metDate" bindtap="test" mode="date" value="{{date}}" start="2015-09-01" end="2017-09-01" bindchange="bindDateChange">
         <text class="picker">{{date===""?'请选择':date}}</text>
+      </picker> -->
+      <picker mode="date" value="{{date}}" start="2015-09-01" end="2020-09-01" bindchange="DateChange">
+        <view class="picker">
+          {{date===""?'请选择日期':date}}
+        </view>
       </picker>
     </view>
-    <view class="form-item">
-      <label for="weight">宠物体重（选填）：</label>
+    <text style="line-height:60rpx;padding-left:30rpx">以下内容为选填：</text>
+    <view class="cu-form-group">
+      <view class="title">宠物体重（选填）：</view>
+
       <input id="weight" type="text" name="weight"></input>
     </view>
-    <view class="form-item">
-      <label for="bodyLength">宠物身长（选填）：</label>
+    <view class="cu-form-group ">
+      <view class="title">宠物身长（选填）：</view>
       <input id="bodyLength" type="text" name="bodyLength"></input>
     </view>
-    <button form-type="submit">提交</button>
-    <button form-type="reset">清空</button>
+    <view class="padding flex flex-direction">
+      <button form-type="submit" class="cu-btn bg-red lg shadow">提交</button>
+      <button form-type="reset"  class="cu-btn bg-grey  margin-tb-sm lg">清空</button>
+    </view>
   </form>
 </view>
 
-<view bindtap="chooseImages">上传图片</view>
+<!-- <view bindtap="chooseImages">上传图片</view> -->

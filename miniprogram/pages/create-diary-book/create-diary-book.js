@@ -6,7 +6,20 @@ Page({
    * 页面的初始数据
    */
   data: {
-    date: ""
+    date: "",
+    index:null,
+    picker: ['小公主', '小王子']
+  },
+  PickerChange(e) {
+    console.log(e);
+    this.setData({
+      index: e.detail.value
+    })
+  },
+  DateChange(e) {
+    this.setData({
+      date: e.detail.value
+    })
   },
   chooseImages() {
     wx.chooseImage({

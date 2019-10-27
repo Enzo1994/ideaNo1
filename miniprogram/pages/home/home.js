@@ -7,7 +7,7 @@ Page({
    */
   data: {
     userInfo: {},
-    hasUserInfo: false,
+    hasUserInfo: true,
     canIUse: wx.canIUse(),
     diaryData: [{
       time: '2019年10月14日',

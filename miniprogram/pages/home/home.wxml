@@ -1,4 +1,8 @@
 <!--miniprogram/pages/home/home.wxml-->
+<cu-custom bgColor="bg-gradual-pink" isBack="{{true}}">
+	<view slot="backText">返回</view>
+	<view slot="content">导航栏</view>
+</cu-custom>
 <scroll-view scroll-y="true" class="container">
   <view class="label-card">
     <view class="label-card__body">
@@ -7,7 +11,7 @@
     </view>
 
   </view>
-  <view class="timeline" wx:if="{{isLogin}}">
+  <view class="timeline" wx:if="{{hasUserInfo}}">
     <view wx:for="{{diaryData}}" wx:for-item="diary" class="item">
       <view class="line"></view>
       <icon class="icon"></icon>

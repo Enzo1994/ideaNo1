@@ -3,6 +3,14 @@ App({
 
   onLaunch: async function() {
 
+    this.globalData = {
+      hasUser: false,
+      userInfo: {},
+      hasUserInfo: false,
+      hasUnionid: false,
+      isLogin: false,
+      StatusBar:0
+    }
     wx.getSystemInfo({
       success: e => {
         this.globalData.StatusBar = e.statusBarHeight;
@@ -26,13 +34,7 @@ App({
       })
     }
 
-    this.globalData = {
-      hasUser: false,
-      userInfo: {},
-      hasUserInfo: false,
-      hasUnionid: false,
-      isLogin: false,
-    }
+
 
     // ①查看用户是否授权：
     // 获取用户信息
