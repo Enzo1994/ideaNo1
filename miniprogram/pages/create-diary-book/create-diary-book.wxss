@@ -11,7 +11,7 @@
 page{
   background-color: #F2F2F2;
 }
-.form-item {
+/* .form-item {
   display: flex;
   flex-wrap: nowrap;
   width: 100%;
@@ -22,7 +22,7 @@ page{
 }
 .form-item input {
   flex-grow: 1;
-}
+} */
 
 /*
 picker,.picker{
@@ -43,3 +43,4 @@ picker,.picker{
 
 
 }
+*/
