@@ -1,74 +1,47 @@
 <!-- miniprogram/pages/create-diary-book/create-diary-book.wxml -->
-
-<!-- <cu-custom bgColor="bg-gradual-pink" isBack="{{true}}">
-  <view slot="backText">返回</view>
-  <view slot="content">表单</view>
-</cu-custom> -->
-
-<!-- <text style="font-size:60rpx;font-weight:bold">新建日记本</text> -->
-
 <view class="container">
   <form bindsubmit="formSubmit">
     <view class="cu-form-group margin-top">
-
-      <!-- <view class="form-item"> -->
+      <view class="title">宠物头像</view>
+      <view class="cu-avatar radius bg-gray"></view>
+    </view>
+    <view class="cu-form-group margin-top">
       <view class="title">宠物爱称：</view>
       <input id="name" type="text" name="name" placeholder="请输入爱宠名称（十个字符以内）"></input>
-      <!-- </view> -->
     </view>
-
     <view class="cu-form-group">
       <view class="title">宠物性别：</view>
-      <!-- <radio-group class="block" bindchange="radioChange" name="sex">
-        <radio wx:for-items="{{[{name:'male',value:'男孩',color:'blue'},{name:'female',value:'女孩',color:'red'}]}}" wx:key="name" value="{{item.name}}" class="{{item.color}} margin-left-xl">
-        <text style="position:absolute">{{item.name}}</text>
-        </radio>
-       
-      </radio-group> -->
       <view class="action">
         <radio-group bindchange="SetBorderSize">
           <label class="margin-left-sm">
             <radio class="blue sm" value="female" checked></radio>
-            <text> 小王子</text>
+            <text>小王子</text>
           </label>
           <label class="margin-left-sm">
             <radio class="red sm" value="male"></radio>
-            <text> 小公主</text>
+            <text>小公主</text>
           </label>
         </radio-group>
       </view>
-
-      <!-- <picker bindchange="PickerChange" value="{{index}}" range="{{picker}}">
-        <view class="picker" style="color:#555">
-          {{index?picker[index]:'请选择性别'}}
-        </view>
-      </picker> -->
     </view>
     <view class="cu-form-group">
       <view class="title">宠物品种：</view>
       <input id="breed" type="text" name="breed"></input>
     </view>
-
-    <view class="cu-form-group">
+     <view class="cu-form-group">
       <view class="title">和主人第一次见面日期：</view>
-      <!-- <picker id="metDate" name="metDate" bindtap="test" mode="date" value="{{date}}" start="2015-09-01" end="2017-09-01" bindchange="bindDateChange">
-        <text class="picker">{{date===""?'请选择':date}}</text>
-      </picker> -->
       <picker mode="date" value="{{date}}" start="2015-09-01" end="2020-09-01" bindchange="DateChange">
-        <view class="picker">
-          {{date===""?'请选择日期':date}}
-        </view>
+        <view class="picker">{{date===""?'请选择日期':date}}</view>
       </picker>
     </view>
     <view class="cu-bar margin-top bg-white">
       <view class="action">
-        <text class="cuIcon-title text-blue"></text>以下内容为选填：
+        <text class="cuIcon-title text-blue"></text>
+        以下内容为选填：
       </view>
     </view>
-    <!-- <text style="line-height:60rpx;padding-left:30rpx">以下内容为选填：</text> -->
     <view class="cu-form-group">
       <view class="title">宠物体重（选填）：</view>
-
       <input id="weight" type="text" name="weight"></input>
     </view>
     <view class="cu-form-group ">
@@ -81,5 +54,3 @@
     </view>
   </form>
 </view>
-
-<!-- <view bindtap="chooseImages">上传图片</view> -->
