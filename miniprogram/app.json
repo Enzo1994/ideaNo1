@@ -1,8 +1,7 @@
 {
   "pages": [
     "pages/home/home",
-    "pages/create-diary-book/create-diary-book"
-  ],
+    "pages/create-diary-book/create-diary-book"  ],
   "usingComponents": {
     "cu-custom": "/colorui/components/cu-custom"
   },

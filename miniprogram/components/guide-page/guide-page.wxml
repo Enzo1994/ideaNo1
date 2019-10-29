@@ -1,0 +1,16 @@
+<!--miniprogram/components/guide-page/gide-page.wxml-->
+<view class="guide-page__container" animation="{{animationData}}">
+  <!-- <view wx:if="{{showPart===1}}" class="guide-page__firstpart"> -->
+  <view animation="{{animationData1}}" class="guide-page__firstpart">
+    <!-- 上半部分内容 -->
+    <view class="guide-page__firstpart--content">
+      <view class="guide-page__firstpart--logo"> <image src="./logo.jpg"></image></view>
+      <text>欢迎来到毛球社区！</text>
+      <text>在这里，您可以记录心爱宠物的生活点滴</text>
+    </view>
+  </view>
+  <!-- <view wx:elif="{{showPart===2}}" class="guide-page__secondpart"> -->
+  <view animation="{{animationData2}}" style="opacity:0" class="guide-page__secondpart">
+    22222222222222222222asdfasdfasdffasdfasdfasdasdf</view>
+  <button bindtap="tap">点击切换</button>
+</view>

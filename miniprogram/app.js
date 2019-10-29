@@ -58,17 +58,17 @@ App({
     })
 
     // // ②去数据库查看是否已经存储了用户信息：
-    // const db = wx.cloud.database()
-    // const user = db.collection('user').get().then(res => {
-    //   if (res.data.length != 0) {
-    //     this.globalData.hasUser = true;
-    //     if (!res.data[0].unionid) {
-    //       console.log('未记录unionid')
-    //       this.globalData.hasUnionid = false;
-    //     }
-    //   }
-    //   console.log(res)
-    // });
+    const db = wx.cloud.database()
+    const user = db.collection('user').get().then(res => {
+      if (res.data.length != 0) {
+        this.globalData.hasUser = true;
+        if (!res.data[0].unionid) {
+          console.log('未记录unionid')
+          this.globalData.hasUnionid = false;
+        }
+      }
+      console.log(res)
+    });
 
 
   }

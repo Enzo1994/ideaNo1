@@ -1,4 +1,5 @@
 {
   "disableScroll":true,
-  "usingComponents": {}
+  "usingComponents": {"guide-page":"../../components/guide-page/guide-page"},
+  "enablePullDownRefresh":true
 }
