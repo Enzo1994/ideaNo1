@@ -1,5 +1,8 @@
 {
   "disableScroll":true,
-  "usingComponents": {"guide-page":"../../components/guide-page/guide-page"},
+  "usingComponents": {
+    "guide-page":"../../components/guide-page/guide-page",
+    "loading":"../../weui/loading/loading"
+  },
   "enablePullDownRefresh":true
 }

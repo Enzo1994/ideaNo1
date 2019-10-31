@@ -39,3 +39,9 @@
     <button open-type="getUserInfo" type="primary" size="default" bindgetuserinfo="onGetUserInfo">点击登陆</button>
   </view>
 </scroll-view>
+
+
+<view class='cu-load load-modal' wx:if="{{loadModal}}">
+  <image src='../../components/guide-page/logo.jpg' class='png' style="border-radius:50%" mode='aspectFit'></image>
+  <view class='gray-text'>加载中...</view>
+</view>

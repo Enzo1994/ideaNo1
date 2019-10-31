@@ -1,5 +1,13 @@
 // miniprogram/pages/home/home.js
 const app = getApp()
+
+const sleep = (time) => {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      resolve()
+    }, time);
+  })
+}
 Page({
 
   /**
@@ -9,46 +17,52 @@ Page({
     userInfo: {},
     hasUserInfo: false,
     hasUser: false,
+    loadModal: false,
     canIUse: wx.canIUse("button.open-type.getUserInfo"),
-    diaryData: [{
+    diaryData: []
+  },
+
+  getDiaryData: async function () {
+    this.setData({ loadModal: true })
+    const diaryData = [{
       time: '2019年10月14日',
       media: 'image',
       count: 9,
       images: [{
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        }
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      }
       ],
       desc: '这是一个测试语句'
     }]
+    await sleep(1000)
+    this.setData({ diaryData, loadModal: false })
   },
 
-
-
-  onGetUserInfo: function(e) {
+  onGetUserInfo: function (e) {
     console.log(e)
     // 第一次登陆成功，登陆授权成功，接下来操作：
     // 1、 判断是否数据库有用户信息，如果有，更新，如果没有新建
@@ -57,20 +71,21 @@ Page({
     if (this.data.canIUse) {
       // 由于 getUserInfo 是网络请求，可能会在 Page.onLoad 之后才返回
       // 所以此处加入 callback 以防止这种情况
-     
+
       app.globalData.userInfo = e.detail.userInfo
+
       this.setData({
         userInfo: e.detail.userInfo,
         hasUserInfo: true
       })
       this.addUser(app.globalData.userInfo)
+      this.getDiaryData()
 
     } else {
       // 在没有 open-type=getUserInfo 版本的兼容处理
       wx.getUserInfo({
         success: res => {
           app.globalData.userInfo = res.userInfo
-
           this.setData({
             userInfo: res.userInfo,
             hasUserInfo: true
@@ -78,11 +93,7 @@ Page({
         }
       })
       this.addUser(app.globalData.userInfo)
-
     }
-
-
-
   },
 
   // 如果数据库没有此用户，则添加
@@ -94,19 +105,29 @@ Page({
       return
     }
     const db = wx.cloud.database()
-    let result = await db.collection('user').add({
-      data: {
-        nickName: user.nickName,
-        timeStamp: new Date()
-      }
-    })
+    try {
+      let result = await db.collection('userPrivate').add({
+        data: {
+          nickName: user.nickName,
+          nickName: user.avatarUrl,
+          nickName: user.gender,
+          timeStamp: new Date() / 1
+        }
+      })
+      console.log(result)
+
+    } catch (e) {
+      
+    }
+
+    app.globalData.hasUser = true; // 保存到数据库以后就hasUser了
     app.globalData.nickName = user.nickName
     app.globalData.id = result._id
   },
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad: function() {
+  onLoad: function () {
     app.userInfoReadyCallback = res => {
       this.setData({
         userInfo: res.userInfo,
@@ -119,10 +140,7 @@ Page({
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
-  onReady: function() {
-
-    console.log(JSON.stringify(app.globalData))
-
+  onReady: function () {
     if (app.globalData.hasUserInfo) {
       console.log(app.globalData)
       this.setData({
@@ -130,48 +148,50 @@ Page({
         hasUserInfo: true,
         hasUser: true
       })
+
     }
   },
 
   /**
    * 生命周期函数--监听页面显示
    */
-  onShow: function() {
+  onShow: function () {
+    this.getDiaryData()
 
   },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
-  onHide: function() {
+  onHide: function () {
 
   },
 
   /**
    * 生命周期函数--监听页面卸载
    */
-  onUnload: function() {
+  onUnload: function () {
 
   },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
-  onPullDownRefresh: function() {
+  onPullDownRefresh: function () {
 
   },
 
   /**
    * 页面上拉触底事件的处理函数
    */
-  onReachBottom: function() {
+  onReachBottom: function () {
 
   },
 
   /**
    * 用户点击右上角分享
    */
-  onShareAppMessage: function() {
+  onShareAppMessage: function () {
 
   }
 })
