@@ -7,7 +7,7 @@
     <text class="cuIcon-title text-pink"></text> 全屏限高轮播
   </view>
   <view class="action">
-    <switch class="sm" bindchange="DotStyle"></switch>
+    <switch class="xl" bindchange="DotStyle"></switch>
   </view>
 </view>
 <swiper class="screen-swiper {{DotStyle?'square-dot':'round-dot'}}" indicator-dots="true" circular="true" autoplay="true" interval="5000" duration="500">

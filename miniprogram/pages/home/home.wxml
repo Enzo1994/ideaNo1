@@ -1,8 +1,13 @@
 <!--miniprogram/pages/home/home.wxml-->
-<cu-custom bgColor="bg-gradual-pink" isBack="{{true}}">
+<!-- <cu-custom bgColor="bg-gradual-pink" isBack="{{true}}">
 	<view slot="backText">返回</view>
 	<view slot="content">导航栏</view>
-</cu-custom>
+</cu-custom> -->
+
+<guide-page wx:if="{{!userInfo.hasUser}}"></guide-page>
+
+
+
 <scroll-view scroll-y="true" class="container">
   <view class="label-card">
     <view class="label-card__body">
