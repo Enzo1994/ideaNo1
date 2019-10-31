@@ -4,7 +4,7 @@
 	<view slot="content">导航栏</view>
 </cu-custom> -->
 
-<guide-page wx:if="{{!userInfo.hasUser}}"></guide-page>
+<guide-page wx:if="{{!hasUser}}"></guide-page>
 
 
 
