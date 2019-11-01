@@ -31,6 +31,10 @@
 		"game": {
 			"list": []
 		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
 		"miniprogram": {
 			"current": 2,
 			"list": [
@@ -51,6 +55,13 @@
 					"id": -1,
 					"name": "首页",
 					"pathName": "pages/home/home",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "新建日记",
+					"pathName": "pages/input-diary/input-diary",
 					"scene": null
 				}
 			]

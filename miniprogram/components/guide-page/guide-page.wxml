@@ -12,5 +12,5 @@
   <!-- <view wx:elif="{{showPart===2}}" class="guide-page__secondpart"> -->
   <view animation="{{animationData2}}" style="opacity:0" class="guide-page__secondpart">
     介绍信息</view>
-  <button bindtap="tap">点击切换</button>
+  <button class="guide-page__next" bindtap="tap">点击切换</button>
 </view>

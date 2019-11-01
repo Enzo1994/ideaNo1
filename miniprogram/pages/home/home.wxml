@@ -28,8 +28,9 @@
   </view>
 
 
-
   <view class="cu-timeline" wx:if="{{hasUserInfo}}">
+    <button style="margin-left:40rpx" type="primary" wx:if="{{hasUserInfo}}" size="mini" bindtap="addDiary">添加日记</button>
+
     <block wx:for="{{diaryData}}" wx:for-item="diary" class="item">
       <!-- <view class="cu-time">{{formatter.getDate(diary.time)}}</view> -->
       <view class="cu-item">

@@ -1,0 +1,17 @@
+<!--miniprogram/pages/input-diary/input-diary.wxml-->
+<form>
+
+  <textarea class="input-diary__textarea" name="desc" placeholder="这是一个可以自动聚焦的textarea" auto-focus />
+
+
+
+  <view wx:if="{{diaryData.imageUrls.length!=0}}" class="input-diary__images">
+    <block wx:for="{{diaryData.imageUrls}}" wx:for-item="image">
+      <image mode="aspectFill" src="{{image.url}}"></image>
+    </block>
+    <view class="empty-image" wx:if="{{diaryData.imageUrls.length<9}}" bindtap="addImage">
+      +
+    </view>
+  </view>
+
+</form>

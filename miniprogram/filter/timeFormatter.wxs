@@ -13,7 +13,7 @@ module.exports = {
   getTime: function(timeStamp) {
     var date = getDate(timeStamp)
     var h = date.getHours();
-    h = h >= 10 ?h : '0' + T;
+    h = h >= 10 ?h : '0' + h;
     var m = date.getMinutes();
     m = m>= 10? m :'0'+m;
     return h + ':' + m

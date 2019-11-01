@@ -36,6 +36,12 @@ Page({
     showGuidePage: false
   },
 
+  addDiary:function(){
+    wx.navigateTo({
+      url: '../input-diary/input-diary',
+    })
+  },
+  
   getDiaryData: async function() {
     this.setData({
       loadModal: true
