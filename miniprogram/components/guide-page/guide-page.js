@@ -1,4 +1,6 @@
 // miniprogram/components/guide-page/gide-page.js
+const app = getApp();
+
 Page({
 
   /**
@@ -62,13 +64,14 @@ Page({
 
   },
   tap: function() {
+    if(app.globalData.intervalInstance!=null){
+      clearInterval(app.globalData.intervalInstance)
+    }
     var animation = wx.createAnimation({
       duration: 1000,
       timingFunction: 'ease',
     })
     this.animation = animation
-
-    console.log(this.data.showPart)
 
     if (this.data.showPart == 2) {
       animation.height(0).opacity(0).step()

@@ -12,7 +12,7 @@
     <view class="cu-form-group">
       <view class="title">宠物性别：</view>
       <view class="action">
-        <radio-group bindchange="SetBorderSize">
+        <radio-group bindchange="SetBorderSize" name="gender">
           <label class="margin-left-sm">
             <radio class="blue sm" value="female" checked></radio>
             <text>小王子</text>
@@ -26,7 +26,7 @@
     </view>
     <view class="cu-form-group">
       <view class="title">宠物品种：</view>
-      <input id="breed" type="text" name="breed"></input>
+      <input id="breed"  type="text" name="breed"></input>
     </view>
      <view class="cu-form-group">
       <view class="title">和主人第一次见面日期：</view>

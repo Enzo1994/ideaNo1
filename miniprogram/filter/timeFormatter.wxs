@@ -1,0 +1,21 @@
+module.exports = {
+  getDate: function(timeStamp) {
+    if (!timeStamp) {
+      return "未传入参数"
+    }
+    var date = getDate(timeStamp)
+    var M = date.getMonth() + 1;
+    M = M >= 10 ? M : '0' + M;
+    var D = date.getDate();
+    D = D >= 10 ? D : '0' + D;
+    return M + "-" + D
+  },
+  getTime: function(timeStamp) {
+    var date = getDate(timeStamp)
+    var h = date.getHours();
+    h = h >= 10 ?h : '0' + T;
+    var m = date.getMinutes();
+    m = m>= 10? m :'0'+m;
+    return h + ':' + m
+  }
+}

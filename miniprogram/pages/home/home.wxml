@@ -4,38 +4,54 @@
 	<view slot="content">导航栏</view>
 </cu-custom> -->
 
-<guide-page wx:if="{{!hasUser}}"></guide-page>
+
+<wxs module="formatter" src="../../filter/timeFormatter.wxs"></wxs>
+
+
+
+<guide-page wx:if="{{showGuidePage}}"></guide-page>
 
 
 
 <scroll-view scroll-y="true" class="container">
-  <view class="label-card">
-    <view class="label-card__body">
-
-      <view class="pet-avatar"></view>
+  <view class="label-card ">
+    <view class="label-card__body shadow">
+      <image src="./user-unlogin.png" class="pet-avatar"></image>
+      <text>妙峰山和尚</text>
+      <text>宠物性别：小王子</text>
+      <text>宠物品种：边牧</text>
+      <text>宠物体重：3公斤</text>
+      <text>宠物身长：30厘米</text>
+      <text>来到家时间：2019年19月22日</text>
     </view>
 
   </view>
-  <view class="timeline" wx:if="{{hasUserInfo}}">
-    <view wx:for="{{diaryData}}" wx:for-item="diary" class="item">
-      <view class="line"></view>
-      <icon class="icon"></icon>
-      <view class="content">
-        <text class="time">{{diary.time}}</text>
-        <view class="diary-detail">
-          <block wx:if="diary.meida==='image'" wx:for="{{diary.images}}" wx:for-item="image">
 
-            <image mode="aspectFill" src="{{image.url}}"></image>
 
-          </block>
-            <text class="desc">{{diary.desc}}</text>
+
+  <view class="cu-timeline" wx:if="{{hasUserInfo}}">
+    <block wx:for="{{diaryData}}" wx:for-item="diary" class="item">
+      <!-- <view class="cu-time">{{formatter.getDate(diary.time)}}</view> -->
+      <view class="cu-item">
+        <view class="content">
+          <view class="cu-capsule radius">
+            <view class="cu-tag bg-cyan">{{formatter.getDate(diary.time)}}</view>
+            <view class="cu-tag line-cyan">{{formatter.getTime(diary.time)}}</view>
+          </view>
+          <!-- <view class="cu-tag bg-blue light">{{formatter.getTime(diary.time)}}</view> -->
+
+          <view class="margin-top">
+            <block wx:if="diary.meida==='image'" wx:for="{{diary.images}}" wx:for-item="image">
+              <image mode="aspectFill" src="{{image.url}}"></image>
+            </block>
+            <text>{{diary.desc}}</text>
+          </view>
         </view>
-
       </view>
-
-    </view>
+    </block>
   </view>
-  <view wx:else>
+
+  <view wx-if="{{showGuidePage}}">
     <button open-type="getUserInfo" type="primary" size="default" bindgetuserinfo="onGetUserInfo">点击登陆</button>
   </view>
 </scroll-view>

@@ -8,6 +8,19 @@ const sleep = (time) => {
     }, time);
   })
 }
+
+const polling = function(pollingFunc,times,intervalLength) {
+  let counter = 0;
+  const interval = setInterval(() => {
+    counter++;
+    if (counter >= times) {
+      clearInterval(interval)
+    }
+    pollingFunc()
+  }, intervalLength)
+  return interval;
+}
+
 Page({
 
   /**
@@ -19,50 +32,56 @@ Page({
     hasUser: false,
     loadModal: false,
     canIUse: wx.canIUse("button.open-type.getUserInfo"),
-    diaryData: []
+    diaryData: [],
+    showGuidePage: false
   },
 
-  getDiaryData: async function () {
-    this.setData({ loadModal: true })
+  getDiaryData: async function() {
+    this.setData({
+      loadModal: true
+    })
     const diaryData = [{
-      time: '2019年10月14日',
+      time: new Date() / 1,
       media: 'image',
       count: 9,
       images: [{
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      },
-      {
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      },
-      {
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      },
-      {
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      },
-      {
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      },
-      {
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      },
-      {
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      },
-      {
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      },
-      {
-        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-      }
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        },
+        {
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        },
+        {
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        },
+        {
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        },
+        {
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        },
+        {
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        },
+        {
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        },
+        {
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        },
+        {
+          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+        }
       ],
-      desc: '这是一个测试语句'
+      desc: '这是第一次，我家的铲屎官走了这么久。久到足足有三天！！ 在听到他的脚步声响在楼梯间的那一刻，我简直想要破门而出，对着他狠狠地吼上10分钟，然后再看心情要不要他进门。'
     }]
     await sleep(1000)
-    this.setData({ diaryData, loadModal: false })
+    this.setData({
+      diaryData,
+      loadModal: false
+    })
   },
 
-  onGetUserInfo: function (e) {
+  onGetUserInfo: function(e) {
     console.log(e)
     // 第一次登陆成功，登陆授权成功，接下来操作：
     // 1、 判断是否数据库有用户信息，如果有，更新，如果没有新建
@@ -106,33 +125,34 @@ Page({
     }
     const db = wx.cloud.database()
     try {
-      let result = await db.collection('userPrivate').add({
+      let result = await db.collection('user_public').add({
         data: {
           nickName: user.nickName,
-          nickName: user.avatarUrl,
-          nickName: user.gender,
+          avatarUrl: user.avatarUrl,
+          gender: user.gender,
           timeStamp: new Date() / 1
         }
       })
+
+      app.globalData.hasUser = true; // 保存到数据库以后就hasUser了
+      app.globalData.nickName = user.nickName
+      app.globalData.id = result._id
       console.log(result)
 
     } catch (e) {
-      
+      console.log(e)
     }
 
-    app.globalData.hasUser = true; // 保存到数据库以后就hasUser了
-    app.globalData.nickName = user.nickName
-    app.globalData.id = result._id
   },
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad: function () {
+  onLoad: function() {
     app.userInfoReadyCallback = res => {
       this.setData({
         userInfo: res.userInfo,
         hasUserInfo: true,
-        hasUser: true
+        // hasUser: true
       })
     }
   },
@@ -140,13 +160,13 @@ Page({
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
-  onReady: function () {
+  onReady: function() {
     if (app.globalData.hasUserInfo) {
       console.log(app.globalData)
       this.setData({
         userInfo: app.globalData.userInfo,
         hasUserInfo: true,
-        hasUser: true
+        // hasUser: true
       })
 
     }
@@ -155,43 +175,52 @@ Page({
   /**
    * 生命周期函数--监听页面显示
    */
-  onShow: function () {
+  onShow: function() {
     this.getDiaryData()
+    // 加个5次轮询以防网络延迟不显示引导页
+    app.globalData.intervalInstance = polling(()=>{
+      console.log('这有五次轮询')
+      if (!this.data.hasUserInfo) {
+        this.setData({
+          showGuidePage: true
+        })
+      }
+    },5,1000)
 
   },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
-  onHide: function () {
+  onHide: function() {
 
   },
 
   /**
    * 生命周期函数--监听页面卸载
    */
-  onUnload: function () {
+  onUnload: function() {
 
   },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
-  onPullDownRefresh: function () {
+  onPullDownRefresh: function() {
 
   },
 
   /**
    * 页面上拉触底事件的处理函数
    */
-  onReachBottom: function () {
+  onReachBottom: function() {
 
   },
 
   /**
    * 用户点击右上角分享
    */
-  onShareAppMessage: function () {
+  onShareAppMessage: function() {
 
   }
 })
