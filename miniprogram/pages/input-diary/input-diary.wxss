@@ -4,9 +4,16 @@ page {
   background-color: #fff;
 }
 
-.input-diary__textarea {
+.input-diary__textarea{
+  padding: 30rpx;
+}
+.input-diary__textarea textarea{
+  padding: 30rpx;
   width: 100%;
-  border: 1px solid red;
+  box-sizing: border-box;
+  background-color: #eee;
+  border-radius: 30rpx;
+  box-shadow: 10rpx 10rpx 30rpx #ccc;
 }
 
 .empty-image {
@@ -18,7 +25,8 @@ page {
   color: #fff;
   font-weight: bold;
   font-size: 200rpx;
-  line-height: 200rpx;
+  line-height: 1;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .input-diary__images {
