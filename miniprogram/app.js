@@ -1,4 +1,9 @@
 //app.js
+import GlobalConfig from './we-cropper/config/index'
+
+const globalConfig = new GlobalConfig()
+
+globalConfig.init()
 App({
 
   onLaunch: function() {
@@ -13,6 +18,7 @@ App({
       console.log(res.networkType)
     })
     this.globalData = {
+      config: globalConfig,
       hasUser: false,
       userInfo: {},
       hasUserInfo: false,

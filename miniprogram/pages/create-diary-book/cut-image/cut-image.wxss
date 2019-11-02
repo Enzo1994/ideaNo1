@@ -1,0 +1,17 @@
+/* miniprogram/pages/home/cut-image/cut-image.wxss */
+.h100{
+    height: 100%;
+}
+
+.getCropperImage{
+    color: #fff;
+    position: absolute;
+}
+.getCropperImage:nth-child(1) {
+    right: 40rpx;
+    bottom:20rpx;
+}
+.getCropperImage:nth-child(2) {
+    left: 40rpx;
+    bottom:20rpx;
+}

@@ -1,9 +1,10 @@
 <!-- miniprogram/pages/create-diary-book/create-diary-book.wxml -->
 <view class="container">
   <form bindsubmit="formSubmit">
-    <view class="cu-form-group margin-top">
+    <view class="cu-form-group margin-top" bindtap="chooseAvatar">
       <view class="title">宠物头像</view>
-      <view class="cu-avatar radius bg-gray"></view>
+      <image class="cu-avatar radius bg-gray" src="{{avatarUrl}}">
+      </image>
     </view>
     <view class="cu-form-group margin-top">
       <view class="title">宠物爱称：</view>

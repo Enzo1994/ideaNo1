@@ -5,7 +5,7 @@
 </cu-custom> -->
 
 
-<wxs module="formatter" src="../../../filter/timeFormatter.wxs"></wxs>
+<wxs module="formatter" src="../../filter/timeFormatter.wxs"></wxs>
 
 
 
@@ -16,7 +16,7 @@
 <scroll-view scroll-y="true" class="container">
   <view class="label-card ">
     <view class="label-card__body shadow">
-      <image src="./user-unlogin.png" class="pet-avatar"></image>
+      <image src="./user-unlogin.png" bindtap="createDiaryBook" class="pet-avatar"></image>
       <text>妙峰山和尚</text>
       <text>宠物性别：小王子</text>
       <text>宠物品种：边牧</text>

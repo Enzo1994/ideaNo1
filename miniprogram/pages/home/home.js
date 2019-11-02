@@ -36,6 +36,12 @@ Page({
     showGuidePage: false
   },
 
+
+  createDiaryBook:function(){
+    wx.navigateTo({
+      url:'../create-diary-book/create-diary-book'
+    })
+  },
   addDiary:function(){
     wx.navigateTo({
       url: '../input-diary/input-diary',
@@ -153,7 +159,15 @@ Page({
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad: function() {
+  onLoad: function(option) {
+    // 宠物头像：
+    let { avatar } = option
+    if (avatar) {
+      this.setData({
+        src: avatar
+      })
+    }
+
     app.userInfoReadyCallback = res => {
       this.setData({
         userInfo: res.userInfo,

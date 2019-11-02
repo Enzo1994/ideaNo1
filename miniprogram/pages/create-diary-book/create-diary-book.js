@@ -7,8 +7,22 @@ Page({
    */
   data: {
     date: "",
-    index:null,
-    picker: ['小公主', '小王子']
+    index: null,
+    picker: ['小公主', '小王子'],
+    avatarUrl: ''
+  },
+  chooseAvatar:function(){
+    wx.chooseImage({
+      count: 1, // 默认9
+      sizeType: ['original', 'compressed'], // 可以指定是原图还是压缩图，默认二者都有
+      sourceType: ['album', 'camera'], // 可以指定来源是相册还是相机，默认二者都有
+      success (res) {
+        const src = res.tempFilePaths[0]
+        wx.navigateTo({
+          url: `./cut-image/cut-image?src=${src}`
+        })
+      }
+    })
   },
   PickerChange(e) {
     console.log(e);
@@ -69,53 +83,57 @@ Page({
     }
     console.log(value);
   },
-  bindDateChange: function(e) {
+  bindDateChange: function (e) {
     console.log("picker发送选择改变，携带值为", e.detail.value);
     this.setData({
       date: e.detail.value
     });
   },
-  
-  test() {
-    console.log(2);
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad: function(options) {},
+  onLoad: function (options) {
+    let { avatar } = options
+    if (avatar) {
+      this.setData({
+        avatarUrl: avatar
+      })
+    }
+  },
 
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
-  onReady: function() {},
+  onReady: function () { },
 
   /**
    * 生命周期函数--监听页面显示
    */
-  onShow: function() {},
+  onShow: function () { },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
-  onHide: function() {},
+  onHide: function () { },
 
   /**
    * 生命周期函数--监听页面卸载
    */
-  onUnload: function() {},
+  onUnload: function () { },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
-  onPullDownRefresh: function() {},
+  onPullDownRefresh: function () { },
 
   /**
    * 页面上拉触底事件的处理函数
    */
-  onReachBottom: function() {},
+  onReachBottom: function () { },
 
   /**
    * 用户点击右上角分享
    */
-  onShareAppMessage: function() {}
+  onShareAppMessage: function () { }
 });
