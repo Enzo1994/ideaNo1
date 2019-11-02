@@ -1,5 +1,5 @@
 // miniprogram/pages/home/cut-image/cut-image.js
-import WeCropper from '../../../we-cropper/we-cropper.js'
+import WeCropper from '../../../we-cropper/we-cropper.min.js'
 const app = getApp()
 const config = app.globalData.config
 
