@@ -82,7 +82,18 @@ Page({
       return false;
     }
     console.log(value);
-  },
+    wx.cloud.callFunction({
+      // 要调用的云函数名称
+      name: 'upload',
+      // 传递给云函数的event参数
+      data: {
+        images: base64Images
+      }
+    }).then(res => {
+      console.log(res)
+    }).catch(err => {
+      // handle error
+    })  },
   bindDateChange: function (e) {
     console.log("picker发送选择改变，携带值为", e.detail.value);
     this.setData({

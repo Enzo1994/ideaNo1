@@ -9,7 +9,7 @@ const sleep = (time) => {
   })
 }
 
-const polling = function(pollingFunc,times,intervalLength) {
+const polling = function (pollingFunc, times, intervalLength) {
   let counter = 0;
   const interval = setInterval(() => {
     counter++;
@@ -37,18 +37,22 @@ Page({
   },
 
 
-  createDiaryBook:function(){
+  createDiaryBook: function () {
     wx.navigateTo({
-      url:'../create-diary-book/create-diary-book'
+      url: '../create-diary-book/create-diary-book'
     })
   },
-  addDiary:function(){
+  addDiary: function () {
     wx.navigateTo({
       url: '../input-diary/input-diary',
     })
   },
-  
-  getDiaryData: async function() {
+  showDetail: function () {
+    wx.navigateTo({
+      url: '../diary-detail/diary-detail'
+    })
+  },
+  getDiaryData: async function () {
     this.setData({
       loadModal: true
     })
@@ -57,32 +61,32 @@ Page({
       media: 'image',
       count: 9,
       images: [{
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        },
-        {
-          url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
-        }
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/20170917123307_xAntK.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/23749190.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/u=2175847793,3699753666&fm=26&gp=0.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/ae47faedab64034f0f457ad1a3c3793108551d9d.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/NMSNext10-700x394.png'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/potw1930a.jpg'
+      },
+      {
+        url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/G42_RainbowGalaxyVoyagers-1075x675.jpg'
+      }
       ],
       desc: '这是第一次，我家的铲屎官走了这么久。久到足足有三天！！ 在听到他的脚步声响在楼梯间的那一刻，我简直想要破门而出，对着他狠狠地吼上10分钟，然后再看心情要不要他进门。'
     }]
@@ -93,7 +97,7 @@ Page({
     })
   },
 
-  onGetUserInfo: function(e) {
+  onGetUserInfo: function (e) {
     console.log(e)
     // 第一次登陆成功，登陆授权成功，接下来操作：
     // 1、 判断是否数据库有用户信息，如果有，更新，如果没有新建
@@ -127,7 +131,9 @@ Page({
     }
   },
 
-  // 如果数据库没有此用户，则添加
+  /**
+   * 如果数据库没有此用户，则添加
+   **/
   async addUser(user) {
     if (app.globalData.hasUser) {
       this.setData({
@@ -156,10 +162,12 @@ Page({
     }
 
   },
+
+
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad: function(option) {
+  onLoad: function (option) {
     // 宠物头像：
     let { avatar } = option
     if (avatar) {
@@ -180,7 +188,7 @@ Page({
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
-  onReady: function() {
+  onReady: function () {
     if (app.globalData.hasUserInfo) {
       console.log(app.globalData)
       this.setData({
@@ -195,52 +203,52 @@ Page({
   /**
    * 生命周期函数--监听页面显示
    */
-  onShow: function() {
+  onShow: function () {
     this.getDiaryData()
     // 加个5次轮询以防网络延迟不显示引导页
-    app.globalData.intervalInstance = polling(()=>{
+    app.globalData.intervalInstance = polling(() => {
       console.log('这有五次轮询')
       if (!this.data.hasUserInfo) {
         this.setData({
           showGuidePage: true
         })
       }
-    },5,1000)
+    }, 5, 1000)
 
   },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
-  onHide: function() {
+  onHide: function () {
 
   },
 
   /**
    * 生命周期函数--监听页面卸载
    */
-  onUnload: function() {
+  onUnload: function () {
 
   },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
-  onPullDownRefresh: function() {
+  onPullDownRefresh: function () {
 
   },
 
   /**
    * 页面上拉触底事件的处理函数
    */
-  onReachBottom: function() {
+  onReachBottom: function () {
 
   },
 
   /**
    * 用户点击右上角分享
    */
-  onShareAppMessage: function() {
+  onShareAppMessage: function () {
 
   }
 })

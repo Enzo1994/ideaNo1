@@ -34,7 +34,7 @@
     <block wx:for="{{diaryData}}" wx:for-item="diary" class="item">
       <!-- <view class="cu-time">{{formatter.getDate(diary.time)}}</view> -->
       <view class="cu-item">
-        <view class="content">
+        <view class="content" bindtap="showDetail">
           <view class="cu-capsule radius">
             <view class="cu-tag bg-cyan">{{formatter.getDate(diary.time)}}</view>
             <view class="cu-tag line-cyan">{{formatter.getTime(diary.time)}}</view>

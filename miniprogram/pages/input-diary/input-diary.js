@@ -22,26 +22,30 @@ Page({
     const that = this;
     wx.chooseImage({
       count: 9 - this.data.diaryData.imageUrls.length,
+      // sizeType: 'compressed',
       success: function (res) {
         const imageUrls = that.data.diaryData.imageUrls
         res.tempFilePaths.forEach(url => {
-          wx.compressImage({
-            src: url,
-            quality: 50,
-            success(tempFilePath) {
-              console.log(tempFilePath.tempFilePath)
+          // wx.compressImage({
+          //   src: url,
+          //   quality: 50,
+          //   success(tempFilePath) {
+          //     console.log(tempFilePath.tempFilePath)
 
-              imageUrls.push({
-                url: tempFilePath.tempFilePath
-              })
+          // imageUrls.push({
+          //   url: tempFilePath.tempFilePath
+          // })
 
-
-              that.setData({
-                'diaryData.imageUrls': imageUrls
-              })
-
-            }
+          imageUrls.push({
+            url
           })
+          console.log(imageUrls)
+          that.setData({
+            'diaryData.imageUrls': imageUrls
+          })
+
+          //   }
+          // })
         })
 
 
