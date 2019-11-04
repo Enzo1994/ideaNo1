@@ -1,12 +1,15 @@
 //app.js
+
+// we-cropper init config:
 import GlobalConfig from './we-cropper/config/index'
-
 const globalConfig = new GlobalConfig()
-
 globalConfig.init()
+
+
 App({
 
   onLaunch: function() {
+
     wx.getNetworkType({
       success(res) {
         const networkType = res.networkType
@@ -18,7 +21,7 @@ App({
       console.log(res.networkType)
     })
     this.globalData = {
-      config: globalConfig,
+      config: globalConfig,  // we-cropper init config 
       hasUser: false,
       userInfo: {},
       hasUserInfo: false,
@@ -72,8 +75,8 @@ App({
           })
         }
       },
-      fail() {
-
+      fail(e) {
+        
       }
     })
 

@@ -108,7 +108,6 @@ Page({
       // 所以此处加入 callback 以防止这种情况
 
       app.globalData.userInfo = e.detail.userInfo
-
       this.setData({
         userInfo: e.detail.userInfo,
         hasUserInfo: true

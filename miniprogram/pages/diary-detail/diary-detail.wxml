@@ -1,7 +1,7 @@
 <!--miniprogram/pages/diary-detail/diary-detail.wxml-->
 <view class="container">
 
-  <swiper class="{{transition?'transition':''}}" indicator-dots="true" style="height:{{swiperHeight}}px" bindchange="onSwiperChagne">
+  <swiper indicator-color="#666" indicator-active-color="#fff" class="{{transition?'transition':''}}" indicator-dots="true" style="height:{{swiperHeight}}px" bindchange="onSwiperChagne">
     <swiper-item wx:for="{{imageUrls}}" wx:for-item="src">
       <image mode="aspectFill" src="{{src}}"></image>
     </swiper-item>
