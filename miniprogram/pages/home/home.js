@@ -103,7 +103,7 @@ Page({
     // 1、 判断是否数据库有用户信息，如果有，更新，如果没有新建
     // 2、 判断是否存储用户unionid，如果有，pass，如果没有调用云函数getUnionid获取
     // 3、 再当前实例保存用户信息
-    if (this.data.canIUse) {
+    if (this.data.canIUse && e.detail.userInfo) {
       // 由于 getUserInfo 是网络请求，可能会在 Page.onLoad 之后才返回
       // 所以此处加入 callback 以防止这种情况
 

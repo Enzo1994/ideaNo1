@@ -62,6 +62,14 @@
 					"id": -1,
 					"name": "新建日记",
 					"pathName": "pages/input-diary/input-diary",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 4,
+					"name": "查看日记详情页",
+					"pathName": "pages/diary-detail/diary-detail",
+					"query": "",
 					"scene": null
 				}
 			]
