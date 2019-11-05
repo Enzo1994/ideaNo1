@@ -6,7 +6,6 @@ cloud.init({
 })
 const toHash = (content) => {
   return crypto.createHash('sha256').update(content).digest('hex')
-
 }
 
 exports.main = async(event, context) => {
