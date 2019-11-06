@@ -1,36 +1,36 @@
-<!--miniprogram/pages/home/home.wxml-->
+<!-- miniprogram/pages/home/home.wxml -->
 <!-- <cu-custom bgColor="bg-gradual-pink" isBack="{{true}}">
 	<view slot="backText">返回</view>
 	<view slot="content">导航栏</view>
 </cu-custom> -->
-
-
 <wxs module="formatter" src="../../filter/timeFormatter.wxs"></wxs>
-
-
-
 <guide-page wx:if="{{showGuidePage}}"></guide-page>
-
-
-
 <scroll-view scroll-y="true" class="container">
   <view class="label-card ">
     <view class="label-card__body shadow">
-      <image src="./user-unlogin.png" bindtap="createDiaryBook" class="pet-avatar"></image>
-      <text>妙峰山和尚</text>
-      <text>宠物性别：小王子</text>
-      <text>宠物品种：边牧</text>
-      <text>宠物体重：3公斤</text>
-      <text>宠物身长：30厘米</text>
-      <text>来到家时间：2019年19月22日</text>
+      <swiper>
+        <block wx:for="{{diaryBookInfo}}" wx:for-item="item">
+          <swiper-item>
+            <view class="label-card__body">
+              <image src="{{item.petAvatar}}" bindtap="createDiaryBook" class="pet-avatar"></image>
+              <text>{{item.petName}}</text>
+              <text>宠物性别：{{item.petGender}}</text>
+              <text>宠物品种：{{item.breed}}</text>
+              <text>来到家时间：{{item.meetDate}}</text>
+              <text>宠物体重：{{item.weight}}</text>
+              <text>宠物身长：{{item.bodyLength}}</text>
+            </view>
+
+          </swiper-item>
+
+        </block>
+      </swiper>
     </view>
-
   </view>
-
-
   <view class="cu-timeline" wx:if="{{hasUserInfo}}">
-    <button style="margin-left:40rpx" type="primary" wx:if="{{hasUserInfo}}" size="mini" bindtap="addDiary">添加日记</button>
-
+    <button style="margin-left:40rpx" type="primary" wx:if="{{hasUserInfo}}" size="mini" bindtap="addDiary">
+      添加日记
+    </button>
     <block wx:for="{{diaryData}}" wx:for-item="diary" class="item">
       <!-- <view class="cu-time">{{formatter.getDate(diary.time)}}</view> -->
       <view class="cu-item">
@@ -40,7 +40,6 @@
             <view class="cu-tag line-cyan">{{formatter.getTime(diary.time)}}</view>
           </view>
           <!-- <view class="cu-tag bg-blue light">{{formatter.getTime(diary.time)}}</view> -->
-
           <view class="margin-top">
             <block wx:if="diary.meida==='image'" wx:for="{{diary.images}}" wx:for-item="image">
               <image mode="aspectFill" src="{{image.url}}"></image>
@@ -51,13 +50,12 @@
       </view>
     </block>
   </view>
-
   <view wx-if="{{showGuidePage}}">
-    <button open-type="getUserInfo" type="primary" size="default" bindgetuserinfo="onGetUserInfo">点击登陆</button>
+    <button open-type="getUserInfo" type="primary" size="default" bindgetuserinfo="onGetUserInfo">
+      点击登陆
+    </button>
   </view>
 </scroll-view>
-
-
 <view class='cu-load load-modal' wx:if="{{loadModal}}">
   <image src='../../components/guide-page/logo.jpg' class='png' style="border-radius:50%" mode='aspectFit'></image>
   <view class='gray-text'>加载中...</view>

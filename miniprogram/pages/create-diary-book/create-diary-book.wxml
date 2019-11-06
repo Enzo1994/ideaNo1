@@ -8,18 +8,18 @@
     </view>
     <view class="cu-form-group margin-top">
       <view class="title">宠物爱称：</view>
-      <input id="name" type="text" name="name" placeholder="请输入爱宠名称（十个字符以内）"></input>
+      <input id="name" type="text" name="petName" placeholder="请输入爱宠名称（十个字符以内）"></input>
     </view>
     <view class="cu-form-group">
       <view class="title">宠物性别：</view>
       <view class="action">
-        <radio-group bindchange="SetBorderSize" name="gender">
+        <radio-group bindchange="SetBorderSize" name="petGender">
           <label class="margin-left-sm">
-            <radio class="blue sm" value="female" checked></radio>
+            <radio class="blue sm" value="1" checked></radio>
             <text>小王子</text>
           </label>
           <label class="margin-left-sm">
-            <radio class="red sm" value="male"></radio>
+            <radio class="red sm" value="0"></radio>
             <text>小公主</text>
           </label>
         </radio-group>
@@ -31,7 +31,7 @@
     </view>
      <view class="cu-form-group">
       <view class="title">和主人第一次见面日期：</view>
-      <picker mode="date" value="{{date}}" start="2015-09-01" end="2020-09-01" bindchange="DateChange">
+      <picker mode="date" name="meetDate" value="{{date}}" start="2015-09-01" end="2020-09-01" bindchange="DateChange">
         <view class="picker">{{date===""?'请选择日期':date}}</view>
       </picker>
     </view>
