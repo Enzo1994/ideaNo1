@@ -5,7 +5,6 @@ Page({
    * 页面的初始数据
    */
   data: {
-    diaryData: {
       media: '',
       imageUrls: [
         // {
@@ -15,16 +14,16 @@ Page({
         //   url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
         // }
       ]
-    }
+    
   },
 
   addImage: function () {
     const that = this;
     wx.chooseImage({
-      count: 9 - this.data.diaryData.imageUrls.length,
+      count: 9 - this.data.imageUrls.length,
       // sizeType: 'compressed',
       success: function (res) {
-        const imageUrls = that.data.diaryData.imageUrls
+        const imageUrls = that.data.imageUrls
         res.tempFilePaths.forEach(url => {
           // wx.compressImage({
           //   src: url,
@@ -41,7 +40,7 @@ Page({
           })
           console.log(imageUrls)
           that.setData({
-            'diaryData.imageUrls': imageUrls
+            'imageUrls': imageUrls
           })
 
           //   }
@@ -56,12 +55,30 @@ Page({
   previewImage: function (e) {
     console.log(e.currentTarget.dataset.item.url)
     wx.previewImage({
-      urls: this.data.diaryData.imageUrls.map(i => i.url),// 需要预览的图片http链接列表
+      urls: this.data.imageUrls.map(i => i.url),// 需要预览的图片http链接列表
       current: e.currentTarget.dataset.item.url, // 当前显示图片的http链接
     })
-
   },
 
+/**
+  *  提交日记：
+ */
+ formSubmit:function(form){
+   const {value} = form.detail;
+   this.data.imageUrls.forEach(url=>{
+     wx.getFileInfo({
+      filePath: url,
+      success: result => {
+        console.log(result);
+      },
+      fail: () => {},
+      complete: () => {}
+    });
+   })
+    // wx.cloud.uploadFile({
+    //   cloudPath:
+    // })
+ },
   /**
    * 生命周期函数--监听页面加载
    */

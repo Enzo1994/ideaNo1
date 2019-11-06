@@ -1,5 +1,5 @@
 <!-- miniprogram/pages/input-diary/input-diary.wxml -->
-<form>
+<form bindsubmit="formSubmit">
   <view class="input-diary__textarea">
     <textarea name="desc" placeholder="这是一个可以自动聚焦的textarea" auto-focus />
   </view>
@@ -9,4 +9,5 @@
     </block>
     <view class="empty-image" wx:if="{{diaryData.imageUrls.length<9}}" bindtap="addImage">+</view>
   </view>
+  <button form-type="submit">提交日记</button>
 </form>

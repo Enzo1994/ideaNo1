@@ -1,6 +1,7 @@
 // miniprogram/pages/create-diary-book/create-diary-book.js
 // import crypto from 'crypto'
 // console.log(crypto.createHash('sha256').update("Message").digest('hex'))
+const app = getApp()
 Page({
   /**
    * 页面的初始数据
@@ -112,18 +113,16 @@ Page({
     wx.cloud
       .callFunction({
         name: "createDiaryBook",
-        data: {
-          petAvatar: avatarBuffer,
-          petName: "", // 宠物昵称
-          petGender: 0, //宠物性别
-          petBreed: "", // 宠物品种
-          meetDate: 0, // 第一次见面时间
-          petLength: 0, // 宠物身长
-          petweight: 0 // 宠物体重
-        }
+        data: { petAvatar: avatarBuffer, ...value,diaryBookIndex:app.globalData.diaryBookNum+1 }
       })
       .then(res => {
         console.log(res);
+      })
+      .catch(e => {
+        wx.showModal({
+          title: "系统提示",
+          content: "添加信息失败：" + e
+        });
       });
     wx.getFileInfo({
       filePath: this.data.avatarUrl,

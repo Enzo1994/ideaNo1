@@ -11,19 +11,22 @@
   background-color: #fff;
 }
 
-.label-card {
+.label-card swiper{
   /* padding: 50rpx 80rpx 50rpx 80rpx; */
   width: 100%;
   height: 400rpx;
   box-sizing: border-box;
-}
-
-.label-card {
-  padding: 25rpx 40rpx;
   transition: all 1s ease;
 }
-
 .label-card__body {
+      padding: 25rpx 40rpx;
+
+}
+.label-card__body, {
+  height: 100%;
+  
+}
+swiper-item {
   height: 100%;
   width: 100%;
   padding: 38rpx;
