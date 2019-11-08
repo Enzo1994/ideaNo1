@@ -11,7 +11,7 @@ const sleep = time => {
   });
 };
 
-const polling = function(pollingFunc, times, intervalLength) {
+const polling = function (pollingFunc, times, intervalLength) {
   let counter = 0;
   const interval = setInterval(() => {
     counter++;
@@ -39,64 +39,81 @@ Page({
     showGuidePage: false
   },
 
-  createDiaryBook: function() {
+  createDiaryBook: function () {
     wx.navigateTo({
       url: "../create-diary-book/create-diary-book"
     });
   },
-  addDiary: function() {
+  addDiary: function () {
     wx.navigateTo({
-      url: "../input-diary/input-diary?_id="+this.data.diaryBookInfo[this.data.swiperCurrentIndex]._id
+      url: "../input-diary/input-diary?_id=" + this.data.diaryBookInfo[this.data.swiperCurrentIndex]._id
     });
   },
-  showDetail: function() {
+  showDetail: function () {
     wx.navigateTo({
       url: "../diary-detail/diary-detail"
     });
   },
-  getDiaryData: async function() {
+  getDiaryData: async function (isFirstRequest) {
     this.setData({
       loadModal: true
     });
-    const diaryData = [{
-      time: new Date() / 1,
-      media: "image",
-      count: 9,
-      images: [{
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg"
-        },
-        {
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/20170917123307_xAntK.jpg"
-        },
-        {
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/23749190.jpg"
-        },
-        {
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/u=2175847793,3699753666&fm=26&gp=0.jpg"
-        },
-        {
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/ae47faedab64034f0f457ad1a3c3793108551d9d.jpg"
-        },
-        {
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg"
-        },
-        {
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/NMSNext10-700x394.png"
-        },
-        {
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/potw1930a.jpg"
-        },
-        {
-          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/G42_RainbowGalaxyVoyagers-1075x675.jpg"
-        }
-      ],
-      desc: "这是第一次，我家的铲屎官走了这么久。久到足足有三天！！ 在听到他的脚步声响在楼梯间的那一刻，我简直想要破门而出，对着他狠狠地吼上10分钟，然后再看心情要不要他进门。"
-    }];
-    await sleep(1000);
-    this.setData({
-      // diaryData,
-      loadModal: false
-    });
+    if (isFirstRequest) {
+      db.collection("diary_book").aggregate().match({
+        _openid: app.globalData.openid
+      }).project({
+        breed: true,
+        bodyLength: true,
+        meetDate: true,
+        petAvatar: true,
+        petGender: true,
+        petName: true,
+        weight: true,
+        diaries: $.slice(['$diaries', 5])
+      }).end()
+        .then(res => {
+          res.list.forEach(bookItem => {
+            bookItem.diaries.forEach(item => {
+              item.postDate = new Date(item.postDate) / 1
+            })
+          })
+          this.setData({
+            diaryBookInfo: res.list,
+            loadModal: false
+          });
+          console.log(res);
+        });
+
+    } else {
+      const lastDate = new Date(this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.slice(-1)[0].postDate).toISOString()
+      db.collection("diary_book").aggregate().match({
+        _openid: app.globalData.openid
+      }).skip(this.data.swiperCurrentIndex).limit(1).project({
+        diaries: $.filter({
+          input: '$diaries',
+          as: 'item',
+          cond: $.gt(['$$item.postDate', $.dateFromString({
+            dateString: lastDate
+          })])
+        })
+      }).project({
+        diaries: $.slice(['$diaries', 0, 5])
+      }).end()
+        .then(res => {
+          if (res.list[0].diaries.length < 5) {
+            this.data.diaryBookInfo
+          }
+          const diaries = "diaryBookInfo[" + this.data.swiperCurrentIndex + "].diaries";
+          this.setData({
+            [diaries]: this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.concat(res.list[0].diaries.map(item => {
+              item.postDate = new Date(item.postDate) / 1;
+              return item;
+            })),
+            loadModal: false
+          })
+        });
+    }
+
   },
   onchange(e) {
     const {
@@ -106,7 +123,7 @@ Page({
       swiperCurrentIndex: current
     })
   },
-  onGetUserInfo: function(e) {
+  onGetUserInfo: function (e) {
     console.log(e);
     // 第一次登陆成功，登陆授权成功，接下来操作：
     // 1、 判断是否数据库有用户信息，如果有，更新，如果没有新建
@@ -122,7 +139,7 @@ Page({
         hasUserInfo: true
       });
       this.addUser(app.globalData.userInfo);
-      this.getDiaryData();
+      this.getDiaryData(true);
     } else {
       // 在没有 open-type=getUserInfo 版本的兼容处理
       wx.getUserInfo({
@@ -141,7 +158,7 @@ Page({
         }
       });
       this.addUser(app.globalData.userInfo);
-      this.getDiaryData();
+      this.getDiaryData(true);
     }
   },
 
@@ -201,7 +218,7 @@ Page({
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad: function() {
+  onLoad: function () {
     app.userInfoReadyCallback = res => {
       this.setData({
         userInfo: res.userInfo,
@@ -218,45 +235,18 @@ Page({
     //  获取日记本信息卡基本信息：
 
 
-    console.log(app.globalData)
-    db.collection("diary_book").aggregate().match({
-        _openid: app.globalData.openid
-      }).project({
-        breed: true,
-        bodyLength: true,
-        meetDate: true,
-        petAvatar: true,
-        petGender: true,
-        petName: true,
-        weight: true,
-        diaries: $.slice(['$diaries', 5])
-      }).end()
-      // .field({ diaries: db.command.aggregate.project.slice(0) }).get()
-      .then(res => {
-        res.list.forEach(bookItem => {
-          bookItem.diaries.forEach(item => {
-            item.postDate = new Date(item.postDate) / 1
-          })
-        })
-        this.setData({
-          diaryBookInfo: res.list
-        });
 
-        // app.globalData.diaryBookNum = res.data.length;
-        console.log(res);
-      });
   },
 
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
-  onReady: function() {},
+  onReady: function () { },
 
   /**
    * 生命周期函数--监听页面显示
    */
-  onShow: function() {
-    this.getDiaryData();
+  onShow: function () {
     // 加个5次轮询以防网络延迟不显示引导页
     app.globalData.intervalInstance = polling(
       () => {
@@ -268,63 +258,37 @@ Page({
       5,
       1500
     );
+    if (!this.data.hasUserInfo) {
+      this.getDiaryData(true)
+    }
   },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
-  onHide: function() {},
+  onHide: function () { },
 
   /**
    * 生命周期函数--监听页面卸载
    */
-  onUnload: function() {},
+  onUnload: function () { },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
-  onPullDownRefresh: function() {},
+  onPullDownRefresh: function () { },
 
   /**
    * 页面上拉触底事件的处理函数
    */
   onscrolltolower() {
-    const lastDate = new Date(this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.slice(-1)[0].postDate).toISOString()
-    console.log('bottom', new Date(this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.slice(-1)[0].postDate)/1)
-
-    db.collection("diary_book").aggregate().match({
-        _openid: app.globalData.openid
-      }).skip(this.data.swiperCurrentIndex).limit(1).project({
-        diaries: $.filter({
-          input: '$diaries',
-          as: 'item',
-          cond: $.gt(['$$item.postDate', $.dateFromString({
-            dateString: lastDate
-          })])
-        })
-      }).project({
-        diaries:$.slice(['$diaries',0,5])
-      }).end()
-      .then(res => {
-        if(res.list[0].diaries.length<5){
-          this.data.diaryBookInfo
-        }
-        const diaries = "diaryBookInfo[" + this.data.swiperCurrentIndex + "].diaries";
-        console.log(diaries)
-        this.setData({
-          [diaries]: this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.concat(res.list[0].diaries.map(item => {
-            console.log(item)
-            item.postDate = new Date(item.postDate) / 1;
-            return item;
-          }))
-        })
-      });
+    this.getDiaryData()
 
   },
-  onReachBottom: function() {},
+  onReachBottom: function () { },
 
   /**
    * 用户点击右上角分享
    */
-  onShareAppMessage: function() {}
+  onShareAppMessage: function () { }
 });
