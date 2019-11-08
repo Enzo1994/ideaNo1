@@ -86,7 +86,7 @@ Page({
     // wx.cloud.uploadFile({
     //   cloudPath:
     // })
-    db.collection("diary_book").doc(this.data.currentBookId)
+    db.collection("diary_book").doc(this.data.currentBookId).update({ })
     // .update({
 
     // })
