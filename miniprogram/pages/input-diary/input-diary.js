@@ -6,7 +6,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-    currentBookId:'',
+    currentBookId: '',
     imageUrls: [
       // {
       //   url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
@@ -17,11 +17,7 @@ Page({
     ]
 
   },
-  // onRadioChange: function(e) {
-  //   this.setData({
-  //     media: e.detail.value
-  //   })
-  // },
+
   addImage: function() {
     const that = this;
     wx.chooseImage({
@@ -86,19 +82,26 @@ Page({
     // wx.cloud.uploadFile({
     //   cloudPath:
     // })
-    db.collection("diary_book").doc(this.data.currentBookId).update({ })
-    // .update({
+    db.collection("diary_book").doc(this.data.currentBookId).update({
+        data: {
+          diaries: db.command.unshift([{postDate:{'$date':(new Date()/1)},...value}])
 
-    // })
-    .get().then(res=>{
-      console.log(res)
-    })
+        }
+      })
+      // .update({
+
+      // })
+      .then(res => {
+        console.log(res)
+      })
   },
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function(options) {
-    this.setData({ currentBookId:options._id})
+    this.setData({
+      currentBookId: options._id
+    })
   },
 
   /**

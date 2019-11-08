@@ -1,14 +1,21 @@
 @import "./weui/weui.wxss";
 @import "./colorui/main.wxss";
 @import "./colorui/icon.wxss";
-Page{
+
+Page {
   height: 100%;
-  width: 100%
+  width: 100%;
 }
-view,image{
+
+view, image {
   padding: 0;
-  margin: 0 
+  margin: 0;
 }
+
+.transition1s {
+  transition: all 1s ease;
+}
+
 /* .container {
   display: flex;
   flex-direction: column;
