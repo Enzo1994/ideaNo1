@@ -1,5 +1,7 @@
 // miniprogram/pages/home/home.js
 const app = getApp();
+const db = wx.cloud.database();
+const $ = db.command.aggregate;
 
 const sleep = time => {
   return new Promise((resolve, reject) => {
@@ -31,8 +33,9 @@ Page({
     hasUser: false,
     loadModal: false,
     canIUse: wx.canIUse("button.open-type.getUserInfo"),
-    diaryBookInfo: {},
     diaryData: [],
+    diaryBookInfo: {},
+    swiperCurrentIndex: 0,
     showGuidePage: false
   },
 
@@ -43,7 +46,7 @@ Page({
   },
   addDiary: function() {
     wx.navigateTo({
-      url: "../input-diary/input-diary"
+      url: "../input-diary/input-diary?_id="+this.data.diaryBookInfo[this.data.swiperCurrentIndex]._id
     });
   },
   showDetail: function() {
@@ -55,60 +58,54 @@ Page({
     this.setData({
       loadModal: true
     });
-    const diaryData = [
-      {
-        time: new Date() / 1,
-        media: "image",
-        count: 9,
-        images: [
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg"
-          },
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/20170917123307_xAntK.jpg"
-          },
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/23749190.jpg"
-          },
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/u=2175847793,3699753666&fm=26&gp=0.jpg"
-          },
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/ae47faedab64034f0f457ad1a3c3793108551d9d.jpg"
-          },
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg"
-          },
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/NMSNext10-700x394.png"
-          },
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/potw1930a.jpg"
-          },
-          {
-            url:
-              "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/G42_RainbowGalaxyVoyagers-1075x675.jpg"
-          }
-        ],
-        desc:
-          "这是第一次，我家的铲屎官走了这么久。久到足足有三天！！ 在听到他的脚步声响在楼梯间的那一刻，我简直想要破门而出，对着他狠狠地吼上10分钟，然后再看心情要不要他进门。"
-      }
-    ];
+    const diaryData = [{
+      time: new Date() / 1,
+      media: "image",
+      count: 9,
+      images: [{
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg"
+        },
+        {
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/20170917123307_xAntK.jpg"
+        },
+        {
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/23749190.jpg"
+        },
+        {
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/u=2175847793,3699753666&fm=26&gp=0.jpg"
+        },
+        {
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/ae47faedab64034f0f457ad1a3c3793108551d9d.jpg"
+        },
+        {
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg"
+        },
+        {
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/NMSNext10-700x394.png"
+        },
+        {
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/potw1930a.jpg"
+        },
+        {
+          url: "cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/G42_RainbowGalaxyVoyagers-1075x675.jpg"
+        }
+      ],
+      desc: "这是第一次，我家的铲屎官走了这么久。久到足足有三天！！ 在听到他的脚步声响在楼梯间的那一刻，我简直想要破门而出，对着他狠狠地吼上10分钟，然后再看心情要不要他进门。"
+    }];
     await sleep(1000);
     this.setData({
       // diaryData,
       loadModal: false
     });
   },
-
+  onchange(e) {
+    const {
+      current
+    } = e.detail;
+    this.setData({
+      swiperCurrentIndex: current
+    })
+  },
   onGetUserInfo: function(e) {
     console.log(e);
     // 第一次登陆成功，登陆授权成功，接下来操作：
@@ -158,7 +155,6 @@ Page({
       });
       return;
     }
-    const db = wx.cloud.database();
     try {
       let result_public = await db.collection("user_public").add({
         data: {
@@ -179,14 +175,16 @@ Page({
         result_public.errMsg == "collection.add:ok"
       ) {
         app.globalData.hasUser = true; // 保存到数据库以后就hasUser了
-        this.setData({ hasUser: true, showGuidePage: false });
+        this.setData({
+          hasUser: true,
+          showGuidePage: false
+        });
         app.globalData.nickName = user.nickName;
         app.globalData.id = result_public._id;
       } else {
         wx.showModal({
           title: "温馨提示",
-          content:
-            "添加信息失败：result_private: " +
+          content: "添加信息失败：result_private: " +
             result_private.errMsg +
             " , result_public: " +
             result_public.errMsg
@@ -218,15 +216,33 @@ Page({
     });
 
     //  获取日记本信息卡基本信息：
-    const db = wx.cloud.database();
-    db.collection("diary_book")
-      .field({ diaries: db.command.aggregate.project.slice(0) }).get()
+
+
+    console.log(app.globalData)
+    db.collection("diary_book").aggregate().match({
+        _openid: app.globalData.openid
+      }).project({
+        breed: true,
+        bodyLength: true,
+        meetDate: true,
+        petAvatar: true,
+        petGender: true,
+        petName: true,
+        weight: true,
+        diaries: $.slice(['$diaries', 5])
+      }).end()
+      // .field({ diaries: db.command.aggregate.project.slice(0) }).get()
       .then(res => {
+        res.list.forEach(bookItem => {
+          bookItem.diaries.forEach(item => {
+            item.postDate = new Date(item.postDate) / 1
+          })
+        })
         this.setData({
-          diaryBookInfo: res.data
+          diaryBookInfo: res.list
         });
 
-        app.globalData.diaryBookNum = res.data.length;
+        // app.globalData.diaryBookNum = res.data.length;
         console.log(res);
       });
   },
@@ -272,6 +288,39 @@ Page({
   /**
    * 页面上拉触底事件的处理函数
    */
+  onscrolltolower() {
+    const lastDate = new Date(this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.slice(-1)[0].postDate).toISOString()
+    console.log('bottom', new Date(this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.slice(-1)[0].postDate)/1)
+
+    db.collection("diary_book").aggregate().match({
+        _openid: app.globalData.openid
+      }).skip(this.data.swiperCurrentIndex).limit(1).project({
+        diaries: $.filter({
+          input: '$diaries',
+          as: 'item',
+          cond: $.gt(['$$item.postDate', $.dateFromString({
+            dateString: lastDate
+          })])
+        })
+      }).project({
+        diaries:$.slice(['$diaries',0,5])
+      }).end()
+      .then(res => {
+        if(res.list[0].diaries.length<5){
+          this.data.diaryBookInfo
+        }
+        const diaries = "diaryBookInfo[" + this.data.swiperCurrentIndex + "].diaries";
+        console.log(diaries)
+        this.setData({
+          [diaries]: this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.concat(res.list[0].diaries.map(item => {
+            console.log(item)
+            item.postDate = new Date(item.postDate) / 1;
+            return item;
+          }))
+        })
+      });
+
+  },
   onReachBottom: function() {},
 
   /**

@@ -59,9 +59,9 @@ App({
               // 已经授权，可以直接调用 getUserInfo 获取头像昵称，不会弹框
               wx.getUserInfo({
                 success: res => {
-                  // wx.cloud.callFunction({ name: "login" }).then(context => {
-                  //   this.globalData.openid = context.result.openid;
-                  // });
+                  wx.cloud.callFunction({ name: "login" }).then(context => {
+                    this.globalData.openid = context.result.openid;
+                  });
                   this.globalData.userInfo = res.userInfo;
                   this.globalData.hasUserInfo = true;
                   // 由于 getUserInfo 是网络请求，可能会在 Page.onLoad 之后才返回

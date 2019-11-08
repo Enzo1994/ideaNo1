@@ -3,11 +3,27 @@
   <view class="input-diary__textarea">
     <textarea name="desc" placeholder="这是一个可以自动聚焦的textarea" auto-focus />
   </view>
+
+  <view class="cu-form-group">
+      <view class="title">上传类型：</view>
+      <view class="action">
+        <radio-group bindchange="onRadioChange" name="media">
+          <label class="margin-left-sm">
+            <radio class="blue sm" value="image" checked></radio>
+            <text>图片</text>
+          </label>
+          <label class="margin-left-sm">
+            <radio class="blue sm" value="video"></radio>
+            <text>视频</text>
+          </label>
+        </radio-group>
+      </view>
+    </view>
   <view class="input-diary__images">
-    <block wx:if="{{diaryData.imageUrls.length!=0}}" wx:for="{{diaryData.imageUrls}}" wx:for-item="image">
+    <block wx:if="{{imageUrls.length!=0}}" wx:for="{{imageUrls}}" wx:for-item="image">
       <image data-item="{{image}}" mode="aspectFill" src="{{image.url}}" bindtap="previewImage"></image>
     </block>
-    <view class="empty-image" wx:if="{{diaryData.imageUrls.length<9}}" bindtap="addImage">+</view>
+    <view class="input-diary__images--empty" wx:if="{{imageUrls.length<9}}" bindtap="addImage">+</view>
   </view>
-  <button form-type="submit">提交日记</button>
+  <button type="primary" form-type="submit">提交日记</button>
 </form>

@@ -16,7 +16,7 @@ page {
   box-shadow: 10rpx 10rpx 30rpx #ccc;
 }
 
-.empty-image {
+.input-diary__images--empty {
   margin-right: 20rpx;
   padding-left: 40rpx;
   width: 200rpx;

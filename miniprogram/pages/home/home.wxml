@@ -5,10 +5,10 @@
 </cu-custom> -->
 <wxs module="formatter" src="../../filter/timeFormatter.wxs"></wxs>
 <guide-page wx:if="{{showGuidePage}}"></guide-page>
-<scroll-view scroll-y="true" class="container">
+<scroll-view bindscrolltolower="onscrolltolower" scroll-y="true" class="container">
   <view class="label-card ">
     <view class="label-card__body shadow">
-      <swiper>
+      <swiper bindchange="onchange">
         <block wx:for="{{diaryBookInfo}}" wx:for-item="item">
           <swiper-item>
             <view class="label-card__body">
@@ -31,13 +31,14 @@
     <button style="margin-left:40rpx" type="primary" wx:if="{{hasUserInfo}}" size="mini" bindtap="addDiary">
       添加日记
     </button>
-    <block wx:for="{{diaryData}}" wx:for-item="diary" class="item">
+    <block wx:for="{{diaryBookInfo[swiperCurrentIndex].diaries}}" wx:for-item="diary" class="item">
       <!-- <view class="cu-time">{{formatter.getDate(diary.time)}}</view> -->
       <view class="cu-item">
         <view class="content" bindtap="showDetail">
+          <text>{{}}</text>
           <view class="cu-capsule radius">
-            <view class="cu-tag bg-cyan">{{formatter.getDate(diary.time)}}</view>
-            <view class="cu-tag line-cyan">{{formatter.getTime(diary.time)}}</view>
+            <view class="cu-tag bg-cyan">{{formatter.getDate(diary.postDate)}}</view>
+            <view class="cu-tag line-cyan">{{formatter.getTime(diary.postDate)}}</view>
           </view>
           <!-- <view class="cu-tag bg-blue light">{{formatter.getTime(diary.time)}}</view> -->
           <view class="margin-top">
