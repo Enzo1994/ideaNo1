@@ -86,20 +86,25 @@ Page({
 
     } else {
       const lastDate = new Date(this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.slice(-1)[0].postDate).toISOString()
+      
+      console.log(lastDate)
       db.collection("diary_book").aggregate().match({
         _openid: app.globalData.openid
       }).skip(this.data.swiperCurrentIndex).limit(1).project({
         diaries: $.filter({
           input: '$diaries',
           as: 'item',
-          cond: $.gt(['$$item.postDate', $.dateFromString({
+          cond: $.lt(['$$item.postDate', $.dateFromString({
             dateString: lastDate
           })])
         })
-      }).project({
-        diaries: $.slice(['$diaries', 0, 5])
-      }).end()
+      })
+      // .project({
+      //   diaries: $.slice(['$diaries', 0, 5])
+      // })
+      .end()
         .then(res => {
+          console.log(res)
           if (res.list[0].diaries.length < 5) {
             this.data.diaryBookInfo
           }
@@ -282,7 +287,7 @@ Page({
    * 页面上拉触底事件的处理函数
    */
   onscrolltolower() {
-    this.getDiaryData()
+    this.getDiaryData(false)
 
   },
   onReachBottom: function () { },

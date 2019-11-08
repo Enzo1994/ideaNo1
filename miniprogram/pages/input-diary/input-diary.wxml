@@ -25,5 +25,5 @@
     </block>
     <view class="input-diary__images--empty" wx:if="{{imageUrls.length<9}}" bindtap="addImage">+</view>
   </view>
-  <button type="primary" form-type="submit">提交日记</button>
+  <button type="primary" form-type="submit" disabled="{{submitDisabled}}">提交日记</button>
 </form>

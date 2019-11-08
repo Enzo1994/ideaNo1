@@ -6,6 +6,7 @@ Page({
    * 页面的初始数据
    */
   data: {
+    submitDisabled: false,
     currentBookId: '',
     imageUrls: [
       // {
@@ -18,12 +19,12 @@ Page({
 
   },
 
-  addImage: function () {
+  addImage: function() {
     const that = this;
     wx.chooseImage({
       count: 9 - this.data.imageUrls.length,
       // sizeType: 'compressed',
-      success: function (res) {
+      success: function(res) {
         const imageUrls = that.data.imageUrls
         res.tempFilePaths.forEach(url => {
           // wx.compressImage({
@@ -53,7 +54,7 @@ Page({
     })
   },
 
-  previewImage: function (e) {
+  previewImage: function(e) {
     console.log(e.currentTarget.dataset.item.url)
     wx.previewImage({
       urls: this.data.imageUrls.map(i => i.url), // 需要预览的图片http链接列表
@@ -64,7 +65,10 @@ Page({
   /**
    *  提交日记：
    */
-  formSubmit: function (form) {
+  formSubmit: function(form) {
+    this.setData({
+      submitDisabled: true
+    })
     const {
       value
     } = form.detail;
@@ -75,29 +79,34 @@ Page({
         success: result => {
           console.log(result);
         },
-        fail: () => { },
-        complete: () => { }
+        fail: () => {},
+        complete: () => {}
       });
     })
     // wx.cloud.uploadFile({
     //   cloudPath:
     // })
     db.collection("diary_book").doc(this.data.currentBookId).update({
-      data: {
-        diaries: db.command.unshift([{ postDate: { '$date': (new Date() / 1) }, ...value }])
-      }
-    })
-      // .update({
-
-      // })
+        data: {
+          diaries: db.command.unshift([{
+            postDate: {
+              '$date': (new Date() / 1)
+            },
+            ...value
+          }])
+        }
+      })
       .then(res => {
         console.log(res)
+        wx.navigateBack({
+          delta:1
+        })
       })
   },
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad: function (options) {
+  onLoad: function(options) {
     this.setData({
       currentBookId: options._id
     })
@@ -106,49 +115,49 @@ Page({
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
-  onReady: function () {
+  onReady: function() {
 
   },
 
   /**
    * 生命周期函数--监听页面显示
    */
-  onShow: function () {
+  onShow: function() {
 
   },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
-  onHide: function () {
+  onHide: function() {
 
   },
 
   /**
    * 生命周期函数--监听页面卸载
    */
-  onUnload: function () {
+  onUnload: function() {
 
   },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
-  onPullDownRefresh: function () {
+  onPullDownRefresh: function() {
 
   },
 
   /**
    * 页面上拉触底事件的处理函数
    */
-  onReachBottom: function () {
+  onReachBottom: function() {
 
   },
 
   /**
    * 用户点击右上角分享
    */
-  onShareAppMessage: function () {
+  onShareAppMessage: function() {
 
   }
 })
