@@ -7,7 +7,7 @@
   <view class="cu-form-group">
       <view class="title">上传类型：</view>
       <view class="action">
-        <radio-group bindchange="onRadioChange" name="media">
+        <radio-group name="media">
           <label class="margin-left-sm">
             <radio class="blue sm" value="image" checked></radio>
             <text>图片</text>

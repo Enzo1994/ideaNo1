@@ -11,21 +11,22 @@
   background-color: #fff;
 }
 
-.label-card swiper{
+.label-card swiper {
   /* padding: 50rpx 80rpx 50rpx 80rpx; */
   width: 100%;
   height: 400rpx;
   box-sizing: border-box;
   transition: all 1s ease;
 }
-.label-card__body {
-      padding: 25rpx 40rpx;
 
+.label-card__body {
+  padding: 25rpx 40rpx;
 }
-.label-card__body, {
+
+.label-card__body,  {
   height: 100%;
-  
 }
+
 swiper-item {
   height: 100%;
   width: 100%;
@@ -40,22 +41,24 @@ swiper-item {
   float: left;
   width: 150rpx;
   height: 150rpx;
-  margin: 50rpx 30rpx 100rpx 0 ;
+  margin: 50rpx 30rpx 100rpx 0;
   border-radius: 50%;
 }
-.label-card__body text{
+
+.label-card__body text {
   display: block;
   text-overflow: ellipsis;
-  white-space: nowrap
+  white-space: nowrap;
 }
-.label-card__body text:nth-child(2){
-  font-size:40rpx;
-  font-weight: 800
+
+.label-card__body text:nth-child(2) {
+  font-size: 40rpx;
+  font-weight: 800;
 }
+
 .timeline {
   width: 100%;
   box-sizing: border-box;
-  /* border: 1px solid red */
 }
 
 .timeline .item {
@@ -89,9 +92,6 @@ swiper-item {
 .timeline .diary-detail {
   margin-top: 30rpx;
   width: 500rpx;
-}
-
-.cu-timeline .cu-item text {
 }
 
 .cu-timeline .cu-item image {

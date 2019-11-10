@@ -11,7 +11,7 @@ const sleep = time => {
   });
 };
 
-const polling = function (pollingFunc, times, intervalLength) {
+const polling = function(pollingFunc, times, intervalLength) {
   let counter = 0;
   const interval = setInterval(() => {
     counter++;
@@ -34,83 +34,89 @@ Page({
     loadModal: false,
     canIUse: wx.canIUse("button.open-type.getUserInfo"),
     diaryData: [],
-    diaryBookInfo: {},
+    diaryBookInfo: [],
     swiperCurrentIndex: 0,
     showGuidePage: false
   },
 
-  createDiaryBook: function () {
+  createDiaryBook: function() {
     wx.navigateTo({
       url: "../create-diary-book/create-diary-book"
     });
   },
-  addDiary: function () {
+  addDiary: function() {
     wx.navigateTo({
       url: "../input-diary/input-diary?_id=" + this.data.diaryBookInfo[this.data.swiperCurrentIndex]._id
     });
   },
-  showDetail: function () {
+  showDetail: function() {
     wx.navigateTo({
       url: "../diary-detail/diary-detail"
     });
   },
-  getDiaryData: async function (isFirstRequest) {
-    this.setData({
-      loadModal: true
-    });
+  getDiaryData: async function(isFirstRequest, isPull) {
+    const currentBook = this.data.diaryBookInfo[this.data.swiperCurrentIndex];
+    if (this.data.loadModal || (this.data.diaryBookInfo.length != 0 && currentBook.isGotAll)) {
+      return
+    }
+    if (!isPull) {
+      this.setData({
+        loadModal: true
+      });
+    }
     if (isFirstRequest) {
       db.collection("diary_book").aggregate().match({
-        _openid: app.globalData.openid
-      }).project({
-        breed: true,
-        bodyLength: true,
-        meetDate: true,
-        petAvatar: true,
-        petGender: true,
-        petName: true,
-        weight: true,
-        diaries: $.slice(['$diaries', 5])
-      }).end()
+          _openid: app.globalData.openid
+        }).project({
+          breed: true,
+          bodyLength: true,
+          meetDate: true,
+          petAvatar: true,
+          petGender: true,
+          petName: true,
+          weight: true,
+          diaries: $.slice(['$diaries', 5])
+        }).end()
         .then(res => {
           res.list.forEach(bookItem => {
+            bookItem.isGotAll = false;
             bookItem.diaries.forEach(item => {
-              item.postDate = new Date(item.postDate) / 1
+              item.postDate = new Date(item.postDate) / 1;
             })
           })
           this.setData({
             diaryBookInfo: res.list,
             loadModal: false
           });
-          console.log(res);
-        });
+wx.stopPullDownRefresh()
 
+        });
     } else {
-      const lastDate = new Date(this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.slice(-1)[0].postDate).toISOString()
-      
-      console.log(lastDate)
+      const lastDate = new Date(currentBook.diaries.slice(-1)[0].postDate).toISOString()
       db.collection("diary_book").aggregate().match({
-        _openid: app.globalData.openid
-      }).skip(this.data.swiperCurrentIndex).limit(1).project({
-        diaries: $.filter({
-          input: '$diaries',
-          as: 'item',
-          cond: $.lt(['$$item.postDate', $.dateFromString({
-            dateString: lastDate
-          })])
+          _openid: app.globalData.openid
+        }).skip(this.data.swiperCurrentIndex).limit(1).project({
+          diaries: $.filter({
+            input: '$diaries',
+            as: 'item',
+            cond: $.lt(['$$item.postDate', $.dateFromString({
+              dateString: lastDate
+            })])
+          })
         })
-      })
-      // .project({
-      //   diaries: $.slice(['$diaries', 0, 5])
-      // })
-      .end()
+        .project({
+          diaries: $.slice(['$diaries', 0, 5])
+        })
+        .end()
         .then(res => {
           console.log(res)
-          if (res.list[0].diaries.length < 5) {
-            this.data.diaryBookInfo
-          }
-          const diaries = "diaryBookInfo[" + this.data.swiperCurrentIndex + "].diaries";
+
+          // if () {
+          //   this.data.diaryBookInfo
+          // }
           this.setData({
-            [diaries]: this.data.diaryBookInfo[this.data.swiperCurrentIndex].diaries.concat(res.list[0].diaries.map(item => {
+            ["diaryBookInfo[" + this.data.swiperCurrentIndex + "].isGotAll"]: res.list[0].diaries.length != 5 ? true : false,
+            ["diaryBookInfo[" + this.data.swiperCurrentIndex + "].diaries"]: currentBook.diaries.concat(res.list[0].diaries.map(item => {
               item.postDate = new Date(item.postDate) / 1;
               return item;
             })),
@@ -128,7 +134,7 @@ Page({
       swiperCurrentIndex: current
     })
   },
-  onGetUserInfo: function (e) {
+  onGetUserInfo: function(e) {
     console.log(e);
     // 第一次登陆成功，登陆授权成功，接下来操作：
     // 1、 判断是否数据库有用户信息，如果有，更新，如果没有新建
@@ -223,7 +229,7 @@ Page({
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad: function () {
+  onLoad: function() {
     app.userInfoReadyCallback = res => {
       this.setData({
         userInfo: res.userInfo,
@@ -236,22 +242,17 @@ Page({
       hasUserInfo: app.globalData.hasUserInfo,
       hasUser: app.globalData.hasUser
     });
-
-    //  获取日记本信息卡基本信息：
-
-
-
   },
 
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
-  onReady: function () { },
+  onReady: function() {},
 
   /**
    * 生命周期函数--监听页面显示
    */
-  onShow: function () {
+  onShow: function() {
     // 加个5次轮询以防网络延迟不显示引导页
     app.globalData.intervalInstance = polling(
       () => {
@@ -271,17 +272,20 @@ Page({
   /**
    * 生命周期函数--监听页面隐藏
    */
-  onHide: function () { },
+  onHide: function() {},
 
   /**
    * 生命周期函数--监听页面卸载
    */
-  onUnload: function () { },
+  onUnload: function() {},
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
-  onPullDownRefresh: function () { },
+  onPullDownRefresh: function() {
+    this.getDiaryData(true, true)
+
+  },
 
   /**
    * 页面上拉触底事件的处理函数
@@ -290,10 +294,14 @@ Page({
     this.getDiaryData(false)
 
   },
-  onReachBottom: function () { },
+  onScrolltoupper() {
+
+
+  },
+  onReachBottom: function() {},
 
   /**
    * 用户点击右上角分享
    */
-  onShareAppMessage: function () { }
+  onShareAppMessage: function() {}
 });

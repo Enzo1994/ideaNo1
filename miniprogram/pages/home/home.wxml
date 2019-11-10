@@ -5,7 +5,8 @@
 </cu-custom> -->
 <wxs module="formatter" src="../../filter/timeFormatter.wxs"></wxs>
 <guide-page wx:if="{{showGuidePage}}"></guide-page>
-<scroll-view bindscrolltolower="onscrolltolower" scroll-y="true" class="container">
+<view  class="container">
+<!-- <scroll-view bindscrolltolower="onscrolltolower" bindscrolltoupper="onScrolltoupper" scroll-y="true" class="container" lower-threshold="30" scroll-with-animation="true" enable-back-to-top="true" scroll-anchoring="true"> -->
   <view class="label-card ">
     <view class="label-card__body shadow">
       <swiper bindchange="onchange">
@@ -31,7 +32,7 @@
     <button style="margin-left:40rpx" type="primary" wx:if="{{hasUserInfo}}" size="mini" bindtap="addDiary">
       添加日记
     </button>
-    <block wx:for="{{diaryBookInfo[swiperCurrentIndex].diaries}}" wx:for-item="diary" class="item">
+    <block wx:for="{{diaryBookInfo[swiperCurrentIndex].diaries}}" wx:for-item="diary" class="item" >
       <!-- <view class="cu-time">{{formatter.getDate(diary.time)}}</view> -->
       <view class="cu-item">
         <view class="content" bindtap="showDetail">
@@ -56,7 +57,8 @@
       点击登陆
     </button>
   </view>
-</scroll-view>
+<!-- </scroll-view> -->
+</view>
 <view class='cu-load load-modal' wx:if="{{loadModal}}">
   <image src='../../components/guide-page/logo.jpg' class='png' style="border-radius:50%" mode='aspectFit'></image>
   <view class='gray-text'>加载中...</view>
