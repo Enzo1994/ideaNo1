@@ -20,10 +20,10 @@
       </view>
     </view>
   <view class="input-diary__images">
-    <block wx:if="{{imageUrls.length!=0}}" wx:for="{{imageUrls}}" wx:for-item="image">
+    <block wx:if="{{mediaContent.length!=0}}" wx:for="{{mediaContent}}" wx:for-item="image">
       <image data-item="{{image}}" mode="aspectFill" src="{{image.url}}" bindtap="previewImage"></image>
     </block>
-    <view class="input-diary__images--empty" wx:if="{{imageUrls.length<9}}" bindtap="addImage">+</view>
+    <view class="input-diary__images--empty" wx:if="{{mediaContent.length<9}}" bindtap="addImage">+</view>
   </view>
   <button type="primary" form-type="submit" disabled="{{submitDisabled}}">提交日记</button>
 </form>

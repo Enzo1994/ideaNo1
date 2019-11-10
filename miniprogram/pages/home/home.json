@@ -3,5 +3,6 @@
     "guide-page":"../../components/guide-page/guide-page",
     "loading":"../../weui/loading/loading"
   },
-  "enablePullDownRefresh":true
+  "enablePullDownRefresh":true,
+  "onReachBottomDistance":50
 }

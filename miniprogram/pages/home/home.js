@@ -88,7 +88,7 @@ Page({
             diaryBookInfo: res.list,
             loadModal: false
           });
-wx.stopPullDownRefresh()
+          wx.stopPullDownRefresh()
 
         });
     } else {
@@ -290,15 +290,10 @@ wx.stopPullDownRefresh()
   /**
    * 页面上拉触底事件的处理函数
    */
-  onscrolltolower() {
+  onReachBottom: function() {
     this.getDiaryData(false)
 
   },
-  onScrolltoupper() {
-
-
-  },
-  onReachBottom: function() {},
 
   /**
    * 用户点击右上角分享

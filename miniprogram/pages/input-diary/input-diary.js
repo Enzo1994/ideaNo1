@@ -8,7 +8,7 @@ Page({
   data: {
     submitDisabled: false,
     currentBookId: '',
-    imageUrls: [
+    mediaContent: [
       // {
       //   url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
       // },
@@ -22,10 +22,10 @@ Page({
   addImage: function() {
     const that = this;
     wx.chooseImage({
-      count: 9 - this.data.imageUrls.length,
-      // sizeType: 'compressed',
+      count: 9 - this.data.mediaContent.length,
+      sizeType: 'compressed',
       success: function(res) {
-        const imageUrls = that.data.imageUrls
+        const mediaContent = that.data.mediaContent
         res.tempFilePaths.forEach(url => {
           // wx.compressImage({
           //   src: url,
@@ -33,16 +33,17 @@ Page({
           //   success(tempFilePath) {
           //     console.log(tempFilePath.tempFilePath)
 
-          // imageUrls.push({
+          // mediaContent.push({
           //   url: tempFilePath.tempFilePath
           // })
 
-          imageUrls.push({
+
+          mediaContent.push({
             url
           })
-          console.log(imageUrls)
+          console.log(mediaContent)
           that.setData({
-            'imageUrls': imageUrls
+            mediaContent: mediaContent
           })
 
           // }
@@ -65,7 +66,7 @@ Page({
   /**
    *  提交日记：
    */
-  formSubmit: function(form) {
+  formSubmit: async function(form) {
     this.setData({
       submitDisabled: true
     })
@@ -73,35 +74,44 @@ Page({
       value
     } = form.detail;
     console.log(value)
-    this.data.imageUrls.forEach(url => {
-      wx.getFileInfo({
-        filePath: url,
-        success: result => {
-          console.log(result);
-        },
-        fail: () => {},
-        complete: () => {}
-      });
+    const fileIDs = []
+    for (let [key, value] of Object.entries(this.data.mediaContent)) {
+      const {
+        fileID
+      } = await wx.cloud.uploadFile({
+        cloudPath: 'diaryContentImages/' + new Date() / 1+'.jpg',
+          filePath: value.url, // 文件路径
+      })
+      fileIDs.push(fileID)
+    }
+    this.data.mediaContent.forEach(async item => {
+      // wx.getFileInfo({
+      //   filePath: item.url,
+      //   success: result => {
+      //     console.log(result);
+      //   },
+      //   fail: () => {},
+      //   complete: () => {}
+      // });
+
     })
-    // wx.cloud.uploadFile({
-    //   cloudPath:
-    // })
-    db.collection("diary_book").doc(this.data.currentBookId).update({
-        data: {
-          diaries: db.command.unshift([{
-            postDate: {
-              '$date': (new Date() / 1)
-            },
-            ...value
-          }])
-        }
-      })
-      .then(res => {
-        console.log(res)
-        wx.navigateBack({
-          delta:1
-        })
-      })
+    const res = await db.collection("diary_book").doc(this.data.currentBookId).update({
+      data: {
+        diaries: db.command.unshift([{
+          postDate: {
+            '$date': (new Date() / 1)
+          },
+          mediaContent: fileIDs,
+          ...value
+        }])
+      }
+    })
+    const pages = getCurrentPages();
+    const prevPage = pages[pages.length - 2];
+    prevPage.getDiaryData(true)
+    wx.navigateBack({
+      delta: 1
+    });
   },
   /**
    * 生命周期函数--监听页面加载

@@ -43,8 +43,8 @@
           </view>
           <!-- <view class="cu-tag bg-blue light">{{formatter.getTime(diary.time)}}</view> -->
           <view class="margin-top">
-            <block wx:if="diary.meida==='image'" wx:for="{{diary.images}}" wx:for-item="image">
-              <image mode="aspectFill" src="{{image.url}}"></image>
+            <block wx:if="diary.meida==='image'" wx:for="{{diary.mediaContent}}" wx:for-item="image">
+              <image mode="aspectFill" src="{{image}}"></image>
             </block>
             <text>{{diary.desc}}</text>
           </view>
