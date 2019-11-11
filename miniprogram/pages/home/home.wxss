@@ -11,50 +11,56 @@
   background-color: #fff;
 }
 
-.label-card swiper {
-  /* padding: 50rpx 80rpx 50rpx 80rpx; */
-  width: 100%;
-  height: 400rpx;
-  box-sizing: border-box;
-  transition: all 1s ease;
+.card-swiper swiper-item {
+  padding-bottom: 10rpx;
+}
+.swiper-item{
+    padding: 30rpx;
+}
+.swiper-item{
+  background-color: lightcoral;
 }
 
-.label-card__body {
-  padding: 25rpx 40rpx;
+.empty-label{
+  background-color: #ccc
 }
-
-.label-card__body,  {
-  height: 100%;
-}
-
-swiper-item {
-  height: 100%;
-  width: 100%;
-  padding: 38rpx;
-  box-sizing: border-box;
-  border-radius: 30rpx;
-  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
-  box-shadow: 5rpx 10rpx 20rpx #ccc;
-}
-
-.pet-avatar {
+.swiper-item .pet-avatar {
   float: left;
   width: 150rpx;
   height: 150rpx;
   margin: 50rpx 30rpx 100rpx 0;
   border-radius: 50%;
 }
+.label-card swiper {
+  /* padding: 50rpx 80rpx 50rpx 80rpx; *//* width: 100%;
+  height: 400rpx;
+  box-sizing: border-box;
+  transition: all 1s ease; */
+}
 
-.label-card__body text {
+/* .label-card__body,  {
+  height: 100%;
+} */
+
+/* swiper-item {
+  height: 100%;
+  width: 100%;
+  padding: 38rpx;
+  box-sizing: border-box;
+  border-radius: 30rpx;
+  box-shadow: 5rpx 10rpx 20rpx #ccc;
+} */
+
+ .swiper-item text {
   display: block;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
-.label-card__body text:nth-child(2) {
+.swiper-item text:nth-child(2) {
   font-size: 40rpx;
   font-weight: 800;
-}
+} 
 
 .timeline {
   width: 100%;
