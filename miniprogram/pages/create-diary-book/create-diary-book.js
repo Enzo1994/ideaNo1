@@ -7,10 +7,15 @@ Page({
    * 页面的初始数据
    */
   data: {
+    _id:'',
     date: "",
     index: null,
-    picker: ["小公主", "小王子"],
-    avatarUrl: ""
+    gender:0,
+    avatarUrl: "",
+    isModify:false,
+    isImageModify:false,
+    diaryBookIndex:0,
+    buttonDisabled:false
   },
   chooseAvatar: function() {
     wx.chooseImage({
@@ -75,6 +80,15 @@ Page({
     });
   },
   formSubmit(form) {
+    this.setData({
+      buttonDisabled:true,
+    })
+    wx.showToast({
+      title: '提交中...',
+      mask: true,
+      icon:'loading',
+      duration:20000
+    })
     const { value } = form.detail;
     // if (!value.sex) {
     //   wx.showToast({
@@ -108,52 +122,67 @@ Page({
     //       });
     //   }
     // });
-    const fileManager = wx.getFileSystemManager();
-    const avatarBuffer = fileManager.readFileSync(this.data.avatarUrl);
+    if(this.data.isImageModify){
+      var fileManager = wx.getFileSystemManager();
+      var avatarBuffer = fileManager.readFileSync(this.data.avatarUrl);
+    }
     wx.cloud
       .callFunction({
         name: "createDiaryBook",
-        data: { petAvatar: avatarBuffer, ...value,diaryBookIndex:app.globalData.diaryBookNum+1 }
+        data: { _id:this.data._id, petAvatar: avatarBuffer, ...value,diaryBookIndex:app.globalData.diaryBookNum+1,isModify:this.data.isModify,isImageModify:this.data.isImageModify,bookIndex:this.data.diaryBookIndex }
       })
       .then(res => {
+        if (res.errMsg == "cloud.callFunction:ok" && res.result.addResult.errMsg =="document.update:ok"){
+          wx.hideToast();
+          wx.showToast({
+            title: '修改成功',
+            icon:'success',
+            mask:true,
+          })
+          wx.navigateBack({
+            delta:1
+          })
+        }
         console.log(res);
       })
       .catch(e => {
+        e = e.indexOf('network offline') != -1 ? '请检查网络连接' : e;
+        wx.hideToast()
         wx.showModal({
           title: "系统提示",
           content: "添加信息失败：" + e
         });
       });
-    wx.getFileInfo({
-      filePath: this.data.avatarUrl,
-      success: result => {
-        console.log(result);
-      },
-      fail: () => {},
-      complete: () => {}
-    });
-    wx.compressImage({
-      src: this.data.avatarUrl, // src:
-      //   "http://tmp/wx7b6f160a492b0b57.o6zAJs2loXSzW3D8ugdiJv7RHC8w.tH85VTySbFiE2652d213c54fd4def0f7841bd891e313.png",
-      quality: 10,
-      success(res) {
-        wx.getFileInfo({
-          filePath: res.tempFilePath,
-          success: result => {
-            console.log(result);
-            wx.previewImage({
-              current: res.tempFilePath,
-              urls: [res.tempFilePath],
-              success: result => {},
-              fail: () => {},
-              complete: () => {}
-            });
-          },
-          fail: () => {},
-          complete: () => {}
-        });
-      }
-    });
+    // wx.getFileInfo({
+    //   filePath: this.data.avatarUrl,
+    //   success: result => {
+    //     console.log(result);
+    //   },
+    //   fail: () => {},
+    //   complete: () => {}
+    // });
+    // wx.compressImage({
+    //   src: this.data.avatarUrl, // src:
+    //   //   "http://tmp/wx7b6f160a492b0b57.o6zAJs2loXSzW3D8ugdiJv7RHC8w.tH85VTySbFiE2652d213c54fd4def0f7841bd891e313.png",
+    //   quality: 10,
+    //   success(res) {
+    //     wx.getFileInfo({
+    //       filePath: res.tempFilePath,
+    //       success: result => {
+    //         console.log(result);
+    //         wx.previewImage({
+    //           current: res.tempFilePath,
+    //           urls: [res.tempFilePath],
+    //           success: result => {},
+    //           fail: () => {},
+    //           complete: () => {}
+    //         });
+    //       },
+    //       fail: () => {},
+    //       complete: () => {}
+    //     });
+    //   }
+    // });
 
     // wx.cloud
     //   .uploadFile({
@@ -190,6 +219,22 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function(options) {
+    const eventChannel = this.getOpenerEventChannel()
+
+    eventChannel.on('deliveryData', diaryBookInfo=>{
+      this.setData({
+        _id: diaryBookInfo.data._id,
+        bodyLength:diaryBookInfo.data.bodyLength,
+        breed: diaryBookInfo.data.breed,
+        date: diaryBookInfo.data.meetDate,
+        avatarUrl: diaryBookInfo.data.petAvatar,
+        gender: diaryBookInfo.data.petGender,
+        petName: diaryBookInfo.data.petName,
+        weight: diaryBookInfo.data.weight,
+        isModify:true,
+        diaryBookIndex:diaryBookInfo.diaryBookIndex
+      })
+    })
     let { avatar } = options;
     if (avatar) {
       console.log(avatar);

@@ -10,9 +10,9 @@
   <view class="label-card ">
     <view class="label-card__body shadow">
       <swiper class="card-swiper" bindchange="onchange">
-        <swiper-item wx:for="{{diaryBookInfo}}" wx:key class="{{swiperCurrentIndex==index?'cur':''}}">
+        <swiper-item wx:for="{{diaryBookInfo}}" wx:key class="{{swiperCurrentIndex==index?'cur':''}}" capture-catch:tap="modifyDiaryBookInfo">
           <view class="swiper-item ">
-            <image src="{{item.petAvatar}}" bindtap="createDiaryBook" class="pet-avatar"></image>
+            <image src="{{item.petAvatar}}"  class="pet-avatar"></image>
             <text>{{item.petName}}</text>
             <text>宠物性别：{{item.petGender}}</text>
             <text>宠物品种：{{item.breed}}</text>
@@ -23,7 +23,8 @@
         </swiper-item>
         <swiper-item class="{{swiperCurrentIndex==diaryBookInfo.length?'cur':''}}">
           <view class="swiper-item empty-label">
-          <text>创建日记本</text>
+          <text>新建日记本</text>
+            <view class="pet-avatar empty-avatar" bindtap="createDiaryBook" >+</view>
             <!-- <image src="{{item.petAvatar}}" bindtap="createDiaryBook" class="pet-avatar"></image>
             <text>{{item.petName}}</text>
             <text>宠物性别：{{item.petGender}}</text>

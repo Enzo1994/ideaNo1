@@ -8,18 +8,18 @@
     </view>
     <view class="cu-form-group margin-top">
       <view class="title">宠物爱称：</view>
-      <input id="name" type="text" name="petName" placeholder="请输入爱宠名称（十个字符以内）"></input>
+      <input id="name" type="text" name="petName" value="{{petName}}" placeholder="请输入爱宠名称（十个字符以内）"></input>
     </view>
     <view class="cu-form-group">
       <view class="title">宠物性别：</view>
       <view class="action">
         <radio-group bindchange="SetBorderSize" name="petGender">
           <label class="margin-left-sm">
-            <radio class="blue sm" value="1" checked></radio>
+            <radio class="blue sm" value="1" checked="{{gender==1?true:false}}"></radio>
             <text>小王子</text>
           </label>
           <label class="margin-left-sm">
-            <radio class="red sm" value="0"></radio>
+            <radio class="red sm" value="0" checked="{{gender==1?false:true}}"></radio>
             <text>小公主</text>
           </label>
         </radio-group>
@@ -27,7 +27,7 @@
     </view>
     <view class="cu-form-group">
       <view class="title">宠物品种：</view>
-      <input id="breed"  type="text" name="breed"></input>
+      <input id="breed"  type="text" name="breed" value="{{breed}}"></input>
     </view>
      <view class="cu-form-group">
       <view class="title">和主人第一次见面日期：</view>
@@ -43,14 +43,14 @@
     </view>
     <view class="cu-form-group">
       <view class="title">宠物体重（选填）：</view>
-      <input id="weight" type="text" name="weight"></input>
+      <input id="weight" type="text" name="weight" value="{{weight}}"></input>
     </view>
     <view class="cu-form-group ">
       <view class="title">宠物身长（选填）：</view>
-      <input id="bodyLength" type="text" name="bodyLength"></input>
+      <input id="bodyLength" type="text" name="bodyLength" value="{{bodyLength}}"></input>
     </view>
     <view class="padding flex flex-direction">
-      <button form-type="submit" class="cu-btn bg-red lg shadow">提交</button>
+      <button form-type="submit" disabled="{{buttonDisabled}}" class="cu-btn bg-red lg shadow">提交</button>
       <button form-type="reset" class="cu-btn bg-grey  margin-tb-sm lg">清空</button>
     </view>
   </form>

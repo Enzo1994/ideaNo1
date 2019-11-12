@@ -73,6 +73,16 @@ Page({
       url: "../create-diary-book/create-diary-book"
     });
   },
+  modifyDiaryBookInfo:function(){
+    console.log(333)
+    wx.navigateTo({
+      url: "../create-diary-book/create-diary-book",
+      success:(res)=> {
+        // 通过eventChannel向被打开页面传送数据
+        res.eventChannel.emit('deliveryData', { data: this.data.diaryBookInfo[this.data.swiperCurrentIndex]})
+      }
+    });
+  },
   addDiary: function() {
     wx.navigateTo({
       url: "../input-diary/input-diary?_id=" + this.data.diaryBookInfo[this.data.swiperCurrentIndex]._id
@@ -140,9 +150,7 @@ Page({
         .then(res => {
           console.log(res)
 
-          // if () {
-          //   this.data.diaryBookInfo
-          // }
+     
           this.setData({
             ["diaryBookInfo[" + this.data.swiperCurrentIndex + "].isGotAll"]: res.list[0].diaries.length != 5 ? true : false,
             ["diaryBookInfo[" + this.data.swiperCurrentIndex + "].diaries"]: currentBook.diaries.concat(res.list[0].diaries.map(item => {
@@ -155,12 +163,8 @@ Page({
     }
 
   },
+
   // cardSwiper
-  cardSwiper(e) {
-    this.setData({
-      cardCur: e.detail.current
-    })
-  },
   onchange(e) {
     const {
       current
@@ -278,7 +282,6 @@ Page({
       hasUserInfo: app.globalData.hasUserInfo,
       hasUser: app.globalData.hasUser
     });
-    this.getDiaryData(true)
 
   },
 
@@ -302,7 +305,8 @@ Page({
       5,
       1500
     );
- 
+    this.getDiaryData(true)
+
   },
 
   /**

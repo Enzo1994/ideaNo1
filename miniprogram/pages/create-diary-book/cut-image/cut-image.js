@@ -58,7 +58,8 @@ Page({
         const pages = getCurrentPages();
         const prevPage = pages[pages.length - 2];
         prevPage.setData({
-          avatarUrl: path
+          avatarUrl: path,
+          isImageModify:true
         });
         wx.navigateBack({
           delta: 1
