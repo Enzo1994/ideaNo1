@@ -75,37 +75,46 @@ Page({
     } = form.detail;
     console.log(value)
     const fileIDs = []
-    for (let [key, value] of Object.entries(this.data.mediaContent)) {
-      const {
-        fileID
-      } = await wx.cloud.uploadFile({
-        cloudPath: 'diaryContentImages/' + new Date() / 1+'.jpg',
-          filePath: value.url, // 文件路径
-      })
-      fileIDs.push(fileID)
-    }
-    this.data.mediaContent.forEach(async item => {
-      // wx.getFileInfo({
-      //   filePath: item.url,
-      //   success: result => {
-      //     console.log(result);
-      //   },
-      //   fail: () => {},
-      //   complete: () => {}
-      // });
 
-    })
-    const res = await db.collection("diary_book").doc(this.data.currentBookId).update({
-      data: {
-        diaries: db.command.unshift([{
-          postDate: {
-            '$date': (new Date() / 1)
-          },
-          mediaContent: fileIDs,
-          ...value
-        }])
+    try{
+      for (let [key, value] of Object.entries(this.data.mediaContent)) {
+        const {
+          fileID
+        } = await wx.cloud.uploadFile({
+          cloudPath: 'diaryContentImages/' + new Date() / 1 + '.jpg',
+          filePath: value.url, // 文件路径
+        })
+        fileIDs.push(fileID)
       }
-    })
+      this.data.mediaContent.forEach(async item => {
+        // wx.getFileInfo({
+        //   filePath: item.url,
+        //   success: result => {
+        //     console.log(result);
+        //   },
+        //   fail: () => {},
+        //   complete: () => {}
+        // });
+
+      })
+      const res = await db.collection("diary_book").doc(this.data.currentBookId).update({
+        data: {
+          diaries: db.command.unshift([{
+            postDate: {
+              '$date': (new Date() / 1)
+            },
+            mediaContent: fileIDs,
+            ...value
+          }])
+        }
+      })
+    }catch(e){
+      wx.showModal({
+        title: '系统提示',
+        content: '提交失败，原因'+e,
+      })
+    }
+
     const pages = getCurrentPages();
     const prevPage = pages[pages.length - 2];
     prevPage.getDiaryData(true)
