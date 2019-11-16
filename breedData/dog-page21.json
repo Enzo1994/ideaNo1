@@ -1,0 +1,1335 @@
+{
+    "pageNum": 21,
+    "petRaceId": 1,
+    "list": [
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "4",
+                "运动量": "6",
+                "耐热程度": "7",
+                "护家程度": "4",
+                "耐寒程度": "8",
+                "美容程度": "4",
+                "友善程度": "6",
+                "口水程度": "2",
+                "粘人程度": "1",
+                "掉毛程度": "3",
+                "喜叫程度": "1",
+                "可训程度": "6",
+                "饲养难度": "1",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "N",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Norwich Terrier Breed Standard"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "38"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "英国 "
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "6~7",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "25~40",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "褐色,咖啡色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "梗类犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">喂食要点</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">给狗狗吃饭只要七分饱就好，不要过量，让它舔碗舔得意犹未尽；吃大多加上饭后又跑又跳，很容易原封不动的吐出来。常年关在笼子里的小狗，吃饭是它们少有的娱乐，所以会像饿死鬼一般的馋，别被它们给骗了，以为真的很饿。但老是吃不够，活动量又不大，排泄也不好的狗，可能就真的有病，最好带它去看医生。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">要替狗儿换食物时，不要一下子全换过来，每回掺一半新的食物，试个两、三天，逐渐增加新的分量，一周后再全用新的。如此狗狗的消化系统才能适应过来，否则容易下痢。许多人都以为狗儿就是要啃骨头，其实啃骨头容易阻塞狗儿的肠道，使它便秘，造成呕及胃口变差。尤其鸡骨头万万不可，因为小而脆，很容易塞住食道，刺穿胃肠。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">喂食的时候，一定要同时给予充足的清水。不必非用蒸馏水、开水，它们的肠胃并不计较这些。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">喂食的次数与时间</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">每天喂食的次数大致如下：断奶后到三个月大：三~四次三至六个月大：二~三次六个月到一岁：二次一岁以上：一二次喂食的时间可以配合你的作息时间，但可不是喂了就好，还要考虑加上饭后遛狗和大、小便、清便盆、洗碗的时间。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饭后要立刻把碗洗干净，免得残渣引来老鼠、蟑螂、蚂蚁，或是剩下太多食物被日照雨淋而腐败。同时拿开碗，免得它无聊而把玩碗盆，甚至咬坏。至于要喂食多少，通常遵照说明书来给，然后根据上次进食有没有剩余而调整。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">幼犬喂食注意事项</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">小狗刚出生时，吃母奶；长牙时断奶，就可开始喂它流质的食物，肉罐头加温开水调成糊状，或是幼大干粮加热水泡软。到了两个月大，则可以开始吃幼大狗食。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">狗食的种类</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狗食主要有干粮及罐头两大类，另一种是零食类的大饼干、除臭饼干、牛肉干等等。各种品牌主要的营养成分都差不多，售价高的，有特别的食物配方，针对各种年龄与品种，有不同的考量，可以事先多方比较。依成长年龄，让狗吃适合它的狗食。幼大吃幼犬的，成犬吃成犬的，老狗吃老狗的，胖狗吃胖狗的，不要混淆，免得太胖或大瘦。干粮的营养成分比较稳定，平均。狗儿从咀嚼中，可以顺便清理牙结石，止痒。但若有泌尿结石的问题，要尽量避免吃干粮，除非那是针对结石的处方饲料。罐头依价位高低，营养成分也有差异。高价位的，用的是比较好的材料；低价位的罐头，则多半是许多未搅碎的内脏，优点是维他命成分比较不易流失，适口性较好，缺点则是肉类多，排便中的臭味较浓，吃久了容易长牙结石。干粮不如罐头可口，但容易消化吸收，排便也不那么臭。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">零食可用于生活训练与基本训练时，当狗狗做对了的奖品。人们吃的零嘴不要常给狗儿吃，容易弄坏它的胃口。口香糖、冰淇淋、蛋糕，这些甜点少碰为妙，一方面容易蛀牙。闹肠胃，一方面也容易发胖。吃多了甜之后，最大的毛病就是造成狗狗正餐没胃口。</p><p><br/></p>",
+                "繁殖知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狗的妊娠期为58~64天，平均为62天。妊娠期间饲养管理任务是增强母狗的体质，保证胎儿健全发育，防止流产，每窝都能生产量多健壮、生活力强、初生重量大的狗仔。为此，对妊娠母狗饲养管理，除供应全价日粮外，饲料要讲究卫生和保证质量。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">决不可饲喂发霉、腐败、变质、带有毒性和强烈刺激性的饲料，以防发生流产。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饲料不能频繁变更，饲料的体积不宜过大，以免影响胎儿的发育。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">妊娠母狗在妊娠初期（约35天内），不必饲喂特别的饲料，但要注意按时喂食。1个月后，胎儿开始迅速发育，对各种营养物质的需要量急剧增加，这时除要增加食物的供给量之外，还应给妊娠期母狗补充一些消化，蛋白质含量高，钙、磷、维生素丰富的饲料，如肉类、内脏、鸡蛋、奶类等。妊娠35~45天时，每天应喂4次；不喂过冷的饲料和饮水，以免刺激肠胃，影响消化，甚至引起流产。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">妊娠母狗应有适当的运动，在妊娠前期（妊娠1个月左右）每天运动2小时左右，后期可采用自由活动的方式。要注意防防热，严禁抽打，或逼迫其跨越、攀登障碍。为防互相挤压和咬架，妊娠母狗应单圈饲养，注意保持狗体和环境卫生。</p><p><br/></p>"
+            },
+            "petBreedId": 167,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型小</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">最小的梗类犬之一，理想的肩高不应该超过10英寸。肩高与体长大致相等。骨量充足。体重约12磅。应该与狗的整体结构成合适的比例。能否承担其工作是首要考虑的问题。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头部：表情略显狡猾。眼睛，小、颜色深、卵形且带有黑色眼圈。两眼间距离恰当，眼睛明亮且眼神热情。耳朵，中等大小、立耳。两耳距离恰当，耳梢尖。警惕时，耳朵竖立。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头顶宽阔，略圆，两耳间距离恰当。口吻成楔形，且结实。长度为从后脑到清晰的止部间距离的1/3。下巴整洁而且结实。鼻镜和嘴唇为黑色。嘴巴通常紧闭，牙齿较大，剪状咬合。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈部、背线和身躯：颈部中等长度，结实，与肩部结合良好。背线水平。身躯稍短。紧凑且深。胸宽较好。肋骨支撑良好且腰部较短。尾巴需要在总长度一半处断尾。出于梗类犬的工作需要，尾巴需要有足够的长度。尾根与背线处于同一水平，向上竖立。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">反应灵敏</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">步态：腿在运动中保持彼此平行，前肢充分伸展，后肢驱动力强。正确的后肢结构能提供足够的后躯驱动力。前肢动作轻松，足爪间与肘部间的距离一致，在步伐加快时，足爪略向内集中。后足爪的落点正好在前足爪的脚印上，后膝关节和飞节适度弯曲。背线保持水平。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">喜欢挖掘</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">前躯：肩向后斜。肘部靠近身躯。短而有力的腿，绝对符合梗类犬喜欢挖掘的特点。脚腕结实。足爪圆，脚垫厚实。趾甲为黑色。站立时和行动时，足尖向前。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">后躯：宽、结实且肌肉发达，后膝关节角度恰当。从后面看，飞节位置低，且垂直。足爪与前肢相同。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">被毛：刚毛，毛质硬且直，紧贴身体，有一定的底毛。在颈部和肩部的被毛形成具有保护性的鬃毛。头部、耳朵、口吻部的毛发除了有一些眉毛和胡须外，都是短而平滑的毛发。这一品种的被毛应该尽可能显得自然。非常轻微的修整是允许的，但外形修剪是属于严重缺陷。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颜色：不同程度的红色、小麦色、黑色、棕色或灰色都可以。有白色斑纹则不理想。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">气质：快乐、勇敢、忠诚而且富有爱心。适应性强，喜欢运动，它们能成为很好的伙伴。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">罗威士梗犬适应性强，喜欢运动，爱交际，性情好，体型小但是无所畏惧，甚至有些情绪化，忠于主人，有可爱的气质，没有爱争执的记录。它们快乐、勇敢、忠诚而且富有爱心，能成为很好的伙伴。勇敢而矮小壮实，灵敏的小耳朵竖着，表情略带狡猾，是最小的工作梗之一。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">主要的作用是培养来捕捉老鼠，它们喜欢单独或结伴去捕捉害兽，这种品种骨量充足，长有能抵御恶劣气候的被毛。</p><p><br/></p>"
+            },
+            "price": null,
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">挪威梗</span><br/>英文名：Norwich Terrier Breed Standard<br/>别名：罗威士梗、诺里奇梗<br/>生源地：英国&nbsp;<br/>体型：小型犬&nbsp;<br/>肩高：不超过40厘米<br/>体重：5.9-7.1公斤&nbsp;<br/>毛长：中长&nbsp;<br/>功能：工作犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">在20世纪初期的英格兰，福兰克琼斯在剑桥的哈伯罗夫和罗威士地区，利用当地的工作梗发展了一个新的犬种，并在1932年得到英格兰犬协会确认为罗威士梗。起初，它们之间在类型、体型、颜色、被毛和耳朵形状方面都有差异。此后罗威士梗保留下垂耳，剪耳的那些则形成另一独立的品种。英格兰犬协会在1964年将它们确立为两个品种，垂耳的称为诺福克梗，剪耳的则称为罗威士梗。属于运动型梗，而不是玩具型。</p><p><br/></p>"
+            },
+            "alisName": "罗威士梗;诺里奇梗",
+            "showImage": "http://p2.ycw.com/201609/12/cbd2f6cb23d4827efbc504e0d26bb6cc",
+            "bodyType": "小型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "1"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "3"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "1"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "7"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/ead5adabde71a69a0760460f693998a2",
+            "status": 1,
+            "name": "挪威梗"
+        },
+        {
+            "attentionInfo": {
+                "常见问题": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G109/109-9.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">随着养犬数量的增多，犬伤人、犬扰民、破坏环境卫生等问题。为了将因养犬而给社会和他人造成的危害降到最低程度，希望通过地方性法规对养犬行为进行规范，以达到文明养犬，保障公民健康和人身安全，维护社会公共秩序和市容环境卫生的目的。各地依据《中华人民共和国民法通则》、《中华人民共和国行政处罚法》、《中华人民共和国治安管理处罚法》、《中华人民共和国动物防疫法》、《广州市市容环境卫生管理规定》等法律、法规，参考外地立法，并结合养犬管理工作的实际情况拟定《养狗条例》。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "2",
+                "运动量": "4",
+                "耐热程度": "7",
+                "护家程度": "4",
+                "耐寒程度": "7",
+                "美容程度": "1",
+                "友善程度": "4",
+                "口水程度": "1",
+                "粘人程度": "6",
+                "掉毛程度": "2",
+                "喜叫程度": "6",
+                "可训程度": "8",
+                "饲养难度": "1",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "N",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Norfolk Terrier"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "56"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "英国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "5~6",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "12~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "25~26",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "黑色,灰色,红棕色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,猎枪犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G109/109-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">诺福克梗在气温高、湿度大的环境中，由于体热散发困难，极易中暑。为此，应避免在烈日下活动，犬舍应移至阴凉处，炎热天气应经常为犬进行冷水浴。发现犬出现呼吸困难、皮温升高、心跳加速等症状时，应赶快用湿冷毛巾冷敷头部，移到阴凉通风处，并立即请兽医治疗。为防潮湿，要勤称、勤晒垫褥等铺垫物，用水冲洗犬舍后，一定要待彻底晾干后方能进犬，被雨水淋湿后的犬要及时用毛巾擦干。</p><p><br/></p>",
+                "驯养知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G109/109-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1.在训练中，只要发现罗福梗努力去做你所希望它做的事，就应当用亲切的言行予以表扬，有时还应喂些食物予以鼓励；而使用威吓的语言或打罗福梗只能得到相反的结果。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">2.对罗福梗进行正确的教育和训练是一门艺术，而这门艺术只有那些真正能够从心理学的角度进行思考和处置的人才能学会；而那些不按科学规律办事，对罗福梗随便处置，甚至拿罗福梗玩耍、取乐、或拿罗福梗去戏弄、恐吓他人的养犬者，不但永远不会训练出好犬，而且还会将犬培养成一只害犬。</p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; font-size: 12px; line-height: 12px;\">　　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">3.训练小犬时，不能要求它什么都服从，这正像对小孩不能提出这样的要求一样。但是在饲养过程中，必须给犬指明对它禁忌的事。这样，随着年龄的增长，犬就学会了服从。若发现犬做不允许它做的事时，就要惩罚它。应该指出的是，这里的惩罚不是打犬，而是抖动犬颈上的项圈，严厉的呵斥或轻轻的拍它一下。但只有在当场抓住它不允许做的事时才能实施惩罚。事后的惩罚是错误的，否则犬会理解为它做什么事都是错误的。</p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; font-size: 12px; line-height: 12px;\">　　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">4.在训练罗福梗的期间，主人最好亲自饲养和管理犬。在给犬喂食及每次与犬接触时，态度要灵活，说话要温和，举止要大方。加上每天的梳理和清洗，和犬一起玩耍，逐渐消除犬对自己的防御反应和探求反应，熟悉主人的气味、声音、和行动特点等。当犬对主人表示亲切的兴奋反应时，就可以训练犬了。</p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; font-size: 12px; line-height: 12px;\">　　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">5.各种训练的基础是犬无条件的服从，这就是人们常说的要管住、掌握住自己的犬。犬的服从最明显的表现是在练习“走进”或“走来”这一动作上。在任何情况下，包括在玩耍时，犬听到传唤或哨音都必须立即回到主人身边。这就需要在犬小的时候进行训练。如果在训练初期，小犬听到传唤或哨音没有马上回来，主人不要进行惩罚，也不要立即把它栓上或马上停止训练，以免犬可能把“走近”的行动同它的不愉快的心情联系在一起；而应在它及时回来时多奖励。</p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; font-size: 12px; line-height: 12px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">要使罗福梗尽快理解主人的言行，必须作到当犬按照主人“指示”做了应该做的事后，它就感到很愉快，否则它就感到不愉快。此外，不同的口令之间必须有很大的差异，并且同一口令应使用同样的语调。当训练犬时，可参照下列方法给犬发出口令：</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">夸奖(高声喊出)：例如“真乖!”“真听话!”等。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">警告(拉长声喊出)：例如“站住!”“停!”“安静!” 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">煽动(刺激性地)：例如“前进!”“冲!”“上!” 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">请求(拖长声音且语调温和)：例如“寻找”“搜索” 　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">　命令(短而专断)：例如“快”“过来”“站好” 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">处罚(短而有力)：例如“错了”“揍你”等。</p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; font-size: 12px; line-height: 12px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">6.根据工作、生活的需要以及罗福梗的接受能力，可对犬进行训练的项目是很多的。如绳索引导、自由跟随、坐下、前来、就位、停站练习。还有在指定地点丢放物品、进入、衔取、跳跃、越障和攀缘、扑咬、追踪与搜索、护卫与守护训练等等。训练者和养犬者可根据自己的需要、爱好及自己犬的特性，选择具体的训练项目。具体训练方法也可自己在实践中探索。</p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; font-size: 12px; line-height: 12px;\">　　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">7.训练时，必须作到耐心、细致并遵循科学规律。从一开始就要养成习惯同罗福梗尽可能轻声说话交谈，而不要经常向犬大声喊叫。大声喊叫只能让犬变得麻木、迟钝。在每一次训练开始前必须给犬足够的自由活动时间，这样在正式训练前就不要活动了。护卫犬、守护犬应该学会的必须是具有实际意义的动作；一切不必要的练习，而诸如攀梯、爬行、钻火圈和其他一些寻开心的动作不必进行训练，以免给犬增加不必要的负担。从一开始就要防止犬同犬的咬架和犬不必要的乱叫。</p><p><br/></p>"
+            },
+            "petBreedId": 163,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G109/109-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">眼小，呈卵圆形，眼边黑色。眼距位置良好，眼闪闪发光。具有敏锐，机智的表情。耳朵整洁下垂，小，在颅线处有一凹陷，紧贴颊部，但不超过眼角的外缘角。耳呈V形，耳尖稍圆，触觉柔软光滑。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颅部宽阔，稍圆，耳朵之间具有良好的宽度。吻强壮，楔形。长度——从后脑部到清晰的鼻额间的凹角处长度的1/3。下颌干净，强壮有力。嘴唇紧闭，剪状咬合，牙齿大。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部，背线和躯干</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈中等长度，强壮，向后与肩部浑然一体。背线水平。胸宽良好，肋骨扩张良好。胸深适度。腰强壮。尾巴中等长度，截短，但有足够长度以确保整个身体的匀称。尾巴直立，高位，尾基部和背线相平。非松鼠尾。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">肩向后平展，肘紧贴肋部。腿短而强壮有力，和掘洞梗的腿一样直。掌节结实，脚圆形，脚垫厚，发达，趾黑色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">后躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">后躯宽而强壮，大腿肌肉发达。膝弯曲良好。从后面看时跗关节低位，直立。脚同前脚。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">被毛</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">具有保护性的外层被毛，坚硬、直毛，约3.8～5.1厘米(1.5～2英寸)长，躺伏贴近身体；绒毛层清晰明显。颈部和肩部的鬃毛较长，在耳根和喉部也形成一圈环状鬃毛。腿部饰毛适度，质地粗糙。头上和耳上的被毛短而光滑，除了眉毛和须之外。为了保持诺福克梗的整洁，一些护理是必要的，但整形要受严重惩罚。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颜色</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">红色、黄色，黑色、棕褐色、灰白色及深色斑纹是允许的，但白色斑点是不合格的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">踏地确实，脚踏步低，有驱动力。从前面看，腿从肩部向前伸展，从侧面看，后腿的路径和前腿相同。髂部与弯曲灵活的藤和跗关节运动自如，行走时背线水平。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">气质</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">可爱，不爱争斗、顽强、警觉，无所畏惧。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G109/109-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">警惕、爱交朋友、勇敢而忠诚。没有侵略性。小而结实，警惕而无畏。它脾气好，爱交际，是个可爱的伙伴，非常有感情，有爱心。要求空间大，需要一个大的公寓或带院子的房子。</p><p><br/></p>"
+            },
+            "price": null,
+            "baseInfo": {
+                "品种介绍": "<p></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G109/109-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">诺福克梗</span><br/>英文名：Norfolk Terrier<br/>别名：罗福梗<br/>生源地：英国&nbsp;<br/>智商：第56名&nbsp;<br/>体型：小型犬&nbsp;<br/>肩高：25-26厘米<br/>体重：5-5.5公斤&nbsp;<br/>毛长：约3.8-5.1 厘米&nbsp;<br/>功能：伴侣犬、狩猎犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G109/109-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">起源于19世纪。是拥有丰富猎物的英国诺福克本地梗之一，和其近亲诺威奇更最大的区别之一是那对下垂且向前弯曲的耳朵。在很长的时期内和诺威奇梗混同为一个品种。1932年英国养狗人协会承认了诺威奇梗，但直到1964年才把诺福克梗作为一个独立品种来承认。这两个品种都是在英格兰东盎格鲁农场培育出来的工作梗犬，它们之间在类型，体型，颜色，被毛和耳朵形状方面都有相似之处，但又有区别。与其说是玩具型梗，不如说是运动型梗犬梗贴切，每天至少要活动1。5小时。勇敢而又莽撞，垂耳，体型最小的工作梗之一。它活泼而紧凑，动作流畅，骨量充足。其天生的，能抵御恶劣气候的被毛和短腿，使它获得了田野上“最完美恶棍”的称号。这种多才多艺，讨人喜欢的品种，能在野外追捕狐狸或其他害兽，它们可以单独行动或团队出击。</p><p><br/></p>"
+            },
+            "alisName": "罗福梗",
+            "showImage": "http://p2.ycw.com/201609/08/c1b2af2a7332fdf9162944509356bf1a",
+            "bodyType": "小型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "1"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "7"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "7"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "4"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "8"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/786bc6c978d92e5beb7ec6fef5efab67",
+            "status": 1,
+            "name": "诺福克梗"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "4",
+                "运动量": "6",
+                "耐热程度": "7",
+                "护家程度": "4",
+                "耐寒程度": "8",
+                "美容程度": "4",
+                "友善程度": "6",
+                "口水程度": "2",
+                "粘人程度": "1",
+                "掉毛程度": "3",
+                "喜叫程度": "1",
+                "可训程度": "6",
+                "饲养难度": "1",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "N",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Norwich Terrier Breed Standard"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "38"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "英国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "6~7",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "25~40",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "25~45",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,黄色,褐色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "守卫犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">喂食要点</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">给狗狗吃饭只要七分饱就好，不要过量，让它舔碗舔得意犹未尽；吃大多加上饭后又跑又跳，很容易原封不动的吐出来。常年关在笼子里的小狗，吃饭是它们少有的娱乐，所以会像饿死鬼一般的馋，别被它们给骗了，以为真的很饿。但老是吃不够，活动量又不大，排泄也不好的狗，可能就真的有病，最好带它去看医生。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">要替狗儿换食物时，不要一下子全换过来，每回掺一半新的食物，试个两、三天，逐渐增加新的分量，一周后再全用新的。如此狗狗的消化系统才能适应过来，否则容易下痢。许多人都以为狗儿就是要啃骨头，其实啃骨头容易阻塞狗儿的肠道，使它便秘，造成呕及胃口变差。尤其鸡骨头万万不可，因为小而脆，很容易塞住食道，刺穿胃肠。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">喂食的时候，一定要同时给予充足的清水。不必非用蒸馏水、开水，它们的肠胃并不计较这些。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">喂食的次数与时间</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">每天喂食的次数大致如下：断奶后到三个月大：三~四次三至六个月大：二~三次六个月到一岁：二次一岁以上：一二次喂食的时间可以配合你的作息时间，但可不是喂了就好，还要考虑加上饭后遛狗和大、小便、清便盆、洗碗的时间。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饭后要立刻把碗洗干净，免得残渣引来老鼠、蟑螂、蚂蚁，或是剩下太多食物被日照雨淋而腐败。同时拿开碗，免得它无聊而把玩碗盆，甚至咬坏。至于要喂食多少，通常遵照说明书来给，然后根据上次进食有没有剩余而调整。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">幼犬喂食注意事项</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">小狗刚出生时，吃母奶；长牙时断奶，就可开始喂它流质的食物，肉罐头加温开水调成糊状，或是幼大干粮加热水泡软。到了两个月大，则可以开始吃幼大狗食。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">狗食的种类</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狗食主要有干粮及罐头两大类，另一种是零食类的大饼干、除臭饼干、牛肉干等等。各种品牌主要的营养成分都差不多，售价高的，有特别的食物配方，针对各种年龄与品种，有不同的考量，可以事先多方比较。依成长年龄，让狗吃适合它的狗食。幼大吃幼犬的，成犬吃成犬的，老狗吃老狗的，胖狗吃胖狗的，不要混淆，免得太胖或大瘦。干粮的营养成分比较稳定，平均。狗儿从咀嚼中，可以顺便清理牙结石，止痒。但若有泌尿结石的问题，要尽量避免吃干粮，除非那是针对结石的处方饲料。罐头依价位高低，营养成分也有差异。高价位的，用的是比较好的材料；低价位的罐头，则多半是许多未搅碎的内脏，优点是维他命成分比较不易流失，适口性较好，缺点则是肉类多，排便中的臭味较浓，吃久了容易长牙结石。干粮不如罐头可口，但容易消化吸收，排便也不那么臭。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">零食可用于生活训练与基本训练时，当狗狗做对了的奖品。人们吃的零嘴不要常给狗儿吃，容易弄坏它的胃口。口香糖、冰淇淋、蛋糕，这些甜点少碰为妙，一方面容易蛀牙。闹肠胃，一方面也容易发胖。吃多了甜之后，最大的毛病就是造成狗狗正餐没胃口。</p><p><br/></p>",
+                "繁殖知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狗的妊娠期为58~64天，平均为62天。妊娠期间饲养管理任务是增强母狗的体质，保证胎儿健全发育，防止流产，每窝都能生产量多健壮、生活力强、初生重量大的狗仔。为此，对妊娠母狗饲养管理，除供应全价日粮外，饲料要讲究卫生和保证质量。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">决不可饲喂发霉、腐败、变质、带有毒性和强烈刺激性的饲料，以防发生流产。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饲料不能频繁变更，饲料的体积不宜过大，以免影响胎儿的发育。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">妊娠母狗在妊娠初期（约35天内），不必饲喂特别的饲料，但要注意按时喂食。1个月后，胎儿开始迅速发育，对各种营养物质的需要量急剧增加，这时除要增加食物的供给量之外，还应给妊娠期母狗补充一些消化，蛋白质含量高，钙、磷、维生素丰富的饲料，如肉类、内脏、鸡蛋、奶类等。妊娠35~45天时，每天应喂4次；不喂过冷的饲料和饮水，以免刺激肠胃，影响消化，甚至引起流产。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">妊娠母狗应有适当的运动，在妊娠前期（妊娠1个月左右）每天运动2小时左右，后期可采用自由活动的方式。要注意防防热，严禁抽打，或逼迫其跨越、攀登障碍。为防互相挤压和咬架，妊娠母狗应单圈饲养，注意保持狗体和环境卫生。</p><p><br/></p>"
+            },
+            "petBreedId": 168,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型小</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">最小的梗类犬之一，理想的肩高不应该超过10英寸。肩高与体长大致相等。骨量充足。体重约12磅。应该与狗的整体结构成合适的比例。能否承担其工作是首要考虑的问题。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头部：表情略显狡猾。眼睛，小、颜色深、卵形且带有黑色眼圈。两眼间距离恰当，眼睛明亮且眼神热情。耳朵，中等大小、立耳。两耳距离恰当，耳梢尖。警惕时，耳朵竖立。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头顶宽阔，略圆，两耳间距离恰当。口吻成楔形，且结实。长度为从后脑到清晰的止部间距离的1/3。下巴整洁而且结实。鼻镜和嘴唇为黑色。嘴巴通常紧闭，牙齿较大，剪状咬合。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈部、背线和身躯：颈部中等长度，结实，与肩部结合良好。背线水平。身躯稍短。紧凑且深。胸宽较好。肋骨支撑良好且腰部较短。尾巴需要在总长度一半处断尾。出于梗类犬的工作需要，尾巴需要有足够的长度。尾根与背线处于同一水平，向上竖立。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">反应灵敏</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">步态：腿在运动中保持彼此平行，前肢充分伸展，后肢驱动力强。正确的后肢结构能提供足够的后躯驱动力。前肢动作轻松，足爪间与肘部间的距离一致，在步伐加快时，足爪略向内集中。后足爪的落点正好在前足爪的脚印上，后膝关节和飞节适度弯曲。背线保持水平。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">喜欢挖掘</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">前躯：肩向后斜。肘部靠近身躯。短而有力的腿，绝对符合梗类犬喜欢挖掘的特点。脚腕结实。足爪圆，脚垫厚实。趾甲为黑色。站立时和行动时，足尖向前。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">后躯：宽、结实且肌肉发达，后膝关节角度恰当。从后面看，飞节位置低，且垂直。足爪与前肢相同。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">被毛：刚毛，毛质硬且直，紧贴身体，有一定的底毛。在颈部和肩部的被毛形成具有保护性的鬃毛。头部、耳朵、口吻部的毛发除了有一些眉毛和胡须外，都是短而平滑的毛发。这一品种的被毛应该尽可能显得自然。非常轻微的修整是允许的，但外形修剪是属于严重缺陷。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颜色：不同程度的红色、小麦色、黑色、棕色或灰色都可以。有白色斑纹则不理想。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">气质：快乐、勇敢、忠诚而且富有爱心。适应性强，喜欢运动，它们能成为很好的伙伴。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">罗威士梗犬适应性强，喜欢运动，爱交际，性情好，体型小但是无所畏惧，甚至有些情绪化，忠于主人，有可爱的气质，没有爱争执的记录。它们快乐、勇敢、忠诚而且富有爱心，能成为很好的伙伴。勇敢而矮小壮实，灵敏的小耳朵竖着，表情略带狡猾，是最小的工作梗之一。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">主要的作用是培养来捕捉老鼠，它们喜欢单独或结伴去捕捉害兽，这种品种骨量充足，长有能抵御恶劣气候的被毛。</p><p><br/></p>"
+            },
+            "price": "25~40元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">挪威梗</span><br/>英文名：Norwich Terrier Breed Standard<br/>别名：罗威士梗、诺里奇梗<br/>生源地：英国&nbsp;<br/>体型：小型犬&nbsp;<br/>肩高：不超过40厘米<br/>体重：5.9-7.1公斤&nbsp;<br/>毛长：中长&nbsp;<br/>功能：工作犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G112/112-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">在20世纪初期的英格兰，福兰克琼斯在剑桥的哈伯罗夫和罗威士地区，利用当地的工作梗发展了一个新的犬种，并在1932年得到英格兰犬协会确认为罗威士梗。起初，它们之间在类型、体型、颜色、被毛和耳朵形状方面都有差异。此后罗威士梗保留下垂耳，剪耳的那些则形成另一独立的品种。英格兰犬协会在1964年将它们确立为两个品种，垂耳的称为诺福克梗，剪耳的则称为罗威士梗。属于运动型梗，而不是玩具型。</p><p><br/></p>"
+            },
+            "alisName": "罗威士梗;诺里奇梗",
+            "showImage": "http://p2.ycw.com/201609/08/13316a39359973a60d6916b042704475",
+            "bodyType": "小型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "1"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "3"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "1"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "7"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/476eab191cc521ff990fc958c9ba08f4",
+            "status": 1,
+            "name": "诺里奇梗"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "2",
+                "运动量": "6",
+                "耐热程度": "8",
+                "护家程度": "4",
+                "耐寒程度": "10",
+                "美容程度": "6",
+                "友善程度": "2",
+                "口水程度": "6",
+                "粘人程度": "2",
+                "掉毛程度": "2",
+                "喜叫程度": "2",
+                "可训程度": "2",
+                "饲养难度": "1",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "N",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Lundehund"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "106"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "挪威 "
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "5~6",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "10~12",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "10000~20000",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "31~39",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,黑色,褐色,咖啡色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,猎枪犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G114/114-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">只要能满足每天的运动需求，即可适应城市生活。比较怕热，要经常梳理被毛。</p><p><br/></p>"
+            },
+            "petBreedId": 170,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G114/114-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">[体型]折叠</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">体形：身高：31厘米~39厘米；体重：5公斤~6公斤，肌肉度高发达，更适合于敏捷的行动。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">[头部]折叠</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">楔形的小脑袋。长，整洁，形状良好的头部应该拥有足够的尺寸和力量，可以轻松地叼回大个头的野鸡、野鸭、野兔等。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">脑袋和口吻：脑袋和口吻给人的印象是“铸造成一整块”，是由相当平坦的、中等宽度的脑袋，平坦、整洁的面颊，结合了长、结实、深的口吻（在眼睛下面、眼睛之间、眼睛后面都很丰满）所组成的。从上面观察，口吻的长度和宽度与脑袋一致。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">止部：逐渐过度的、轻微的、勉强可以察觉的止部，决不能向下或形成盘子脸。眉毛轻微突起，非常灵活，产生丰富的表情。必须在轮廓中正确评估止部，而不能受到突起的眉毛的影响。后枕骨不明显，脑袋应该形成一条优雅的曲线，与颈部接合。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">表情：警惕、聪明而友善。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">鼻镜：大，鼻孔张开。黑色狗的鼻镜为黑色，肝色狗的鼻镜为褐色。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">嘴唇：相当紧，稳固、整洁而干燥，有极少量的羽状饰毛。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颌部：长而有力，有能力叼回野兔或野鸡。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">咬和：剪状咬和为首选，钳状咬和也可以接受。牙齿折断不算缺陷。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">耳朵：直立的耳朵，耳软骨能折叠，这种异常的解剖特征也是为了适应攀登悬崖的需要，因为在攀登过程中可能会有滴水滴下，它将耳朵折下来就可以防止水进入耳内。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">眼睛：深陷、漂亮的褐色眼睛。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">[颈部、背线、身躯]折叠</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈部：结实而略微圆拱，拥有寻回犬所需要的力量。考虑到需要能轻松地寻找痕迹，所以颈部长度适中。没有赘肉。颈部的被毛不能修剪。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">背线：结实而水平。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">身躯：胸部（胸底）深，延伸到肘部，宽度适中。前胸，向前突出，且非常明显。肋骨深，从前胸到最后一节肋骨有足够的长度（给予内部器官以足够的空间），宽度适中。前段肋骨相对平坦，向后逐渐撑起，身体中心位置圆拱，但靠近腰部的位置则细一些。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">下腹曲线：深，胸底窄，适度上提。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">腰部：结实，肌肉发达，有足够的长度，同时也考虑到灵活性、动作的舒展性、及足够长的步幅，但决不能软弱或连接松弛。臀部，非常轻微的倾斜，宽度适中且肌肉发达。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">尾巴：相当直，位置恰当，尾骨大约能延伸到飞节处。当它运动时，尾巴欢快地举起，但不能卷曲，而是像背线的平滑延伸，决不能高过后背。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">[后躯]折叠</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">后躯有力，角度与前躯相称。第一节大腿：有力而且肌肉发达。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">膝关节：膝关节能围绕健康、结实的关节良好旋转。第二节大腿（从膝关节到飞节）：第二节大腿或下半部分大腿的长度略大于第一节大腿。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">飞节：飞节结实，位置低。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狼爪：无后肢狼爪。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">足爪：卵形或圆形。中等大小，脚趾圆拱而紧凑，脚垫厚实。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">[被毛]折叠</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">披毛：浓密的被毛紧贴身。毛色灰色长毛，黑色长毛，肝色和白色长毛，黑色与白色长毛。只要能满足每天的运动需求，即可适应城市生活。比较怕热，要经常梳理被毛。被毛长度、密度适中，适度丰满，非常有光泽。理想的被毛是直而平躺着的。略呈波浪状的被毛是允许的，但被毛决不能卷曲、羊毛状、短、丝状或蓬松。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">由于伦德猎犬是一种工作用途的寻回犬，其被毛必须能在各种气候条件下、水中或不同植物覆盖的陆地上都能起到保护作用。这样就要求被毛有足够的密度、长度、丰满程度，从而能够充分保温。在毛发丰厚的部位，如耳朵、前面、前肢后面、大腿和尾巴下面，有浓厚的羽状饰毛，而不能浓密、粘连、或丝状。鬃毛或长而厚重的毛发覆盖在颈部，并延伸到整个马肩隆和肩胛是正确的，尤其是雄性更明显，使得颈部看起来显得粗，而马肩隆显得高，有时会导致马肩隆后面显得塌陷。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">由于伦德猎犬是一种用于工作的寻回犬，所以羽状饰毛不宜过长。修剪：伦德猎犬应该以尽可能自然的被毛参加比赛，只要被毛是整洁且密度合适的，就决不能因为被毛未曾修剪而受到惩罚。修整耳朵、足爪、下腹线和尾巴尖的毛发是允许的。胡须具有特殊功能，未修剪的胡须为首选。刨除或修剪头部、颈部、身躯的被毛属于严重缺陷。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">[步态]折叠</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">其前爪上有辅助趾，因而有五趾而不是通常的四趾。脚上生有异常大的脚垫和两个悬趾。这种结构使得它很容易攀上悬崖和穿过石缝并捕捉海鹦。正确、有效的动作是评判寻回猎犬的重要指标。从侧面观察，伦德猎犬的步态是步伐有效、动作平稳，流畅且协调，决不起伏不定、做作或笨拙。前后肢能充分向前伸展和向后蹬，步幅长且整洁。背线保持水平，它在运动重显得结实而柔韧。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">[气质]折叠</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">特质是伦德猎犬突出而根本价值所在。它是一种反应积极的、热爱家庭成员的、多用途的工作犬，多才多艺，聪明、欢快、且容易训练。在竞赛中，伦德猎犬显得稳定、容易满足而自信、欢快、喜欢外出。摆动的尾巴显示出它的特质。神经质、过度亢奋、冷漠、羞怯、固执的行为不合需要。严重缺陷：无缘无故地对人或其他动物表现出好斗的倾向，属于严重缺陷。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">[足掌]折叠</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">其前爪上有辅助趾，因而有五趾而不是通常的四趾。脚上生有异常大的脚垫和两个悬趾。这种结构使得它很容易攀上悬崖和穿过石缝并捕捉海鹦。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G114/114-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">作为一个活泼而敏感的品种，这种犬现在主要作为伴侣犬饲养。活泼，敏感，精力充沛，如果能从小进行严格而温和的训练，也可以成为可爱的伴侣犬。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G114/114-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">伦德猎犬首先是一种家庭伴侣型的寻回猎犬。它敏锐，射击后，向鸟一样冲出去，同时非常坚决，聪明地在陆地上或水中找回猎物。它非常渴望外出狩猎，非常自信，且具有奇异的适应能力，能够在丘陵地区狩猎，也能够猎取水鸟。作为一个家庭伴侣，它机灵、警惕、非常聪明，是一个快乐、友爱而可调教的伙伴。从年轻时开始，它就保持这些特征，并以幽默的态度面对生活，直到老年。成年的伦德猎犬可以胜任一个警报犬的工作，必要时发出警报，但仍然是一个性情温顺、乐观的狗，基本上倾向于对所有事物都很友善。伦德猎犬是一个愉快的、友善的伴侣，需要得到共同生活的家庭成员赏识，和相互交流。如果尽量发挥其潜力，它必定会成为坚定的个人伙伴，并现出全部爱心。</p><p><br/></p>"
+            },
+            "price": "10000~20000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G114/114-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">挪威伦德猎犬</span><br/>英文名：Lundehund<br/>别名：挪威海鹰犬<br/>生源地：挪威&nbsp;<br/>体型：小型犬&nbsp;<br/>价格：10,000元以上&nbsp;<br/>肩高：31-39厘米<br/>体重：5-6公斤&nbsp;<br/>毛长：中长&nbsp;<br/>功能：捕猎海鹦、伴侣犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G114/114-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">起源时期：16世纪；起初用途：捕猎海鹦；现在用途：伴侣犬；寿命：12年；别名：挪威海鹰犬；这种体型小而行动敏捷的犬非常独特，其前爪上有辅助趾，因而有五趾而不是通常的四趾。脚上生有异常大的脚垫和两个悬趾。这种结构使得它很容易攀上悬崖和穿过石缝并捕捉海鹦。它的另一个独一无二的特点就是耳软骨能折叠，这种异常的解剖特征也是为了适应攀登悬崖的需要，因为在攀登过程中可能会有滴水滴下，它将耳朵折下来就可以防止水进入耳内。作为一个活泼而敏感的品种，这种犬现在主要作为伴侣犬饲养。</p><p><br/></p>"
+            },
+            "alisName": "挪威海鹰犬",
+            "showImage": "http://p2.ycw.com/201609/08/67ea7924b910a1c13776d9fc8a211459",
+            "bodyType": "小型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "2"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "2"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "6"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "2"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "10"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "8"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "2"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "6"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/272a2fba14cbcd0e28665e5c03e0b3bb",
+            "status": 1,
+            "name": "挪威伦德猎犬"
+        },
+        {
+            "attentionInfo": {
+                "常见问题": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G116/116-12.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1.盐制的干燥食品如咸鱼、小鱼小虾干和腊肉、食品火腿及腌肉等盐份高的食品，不能喂给犬吃。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">2.芥末及辣椒含量太多的食物，会造成犬的口。胃肠溃烂现象，不能喂犬。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">3.洋葱是绝对不可以喂给狗吃的食物。洋葱相对狗的血液有强烈的毒性，犬吃多了会引起急性贫血，甚至危及性命。西餐中多用洋葱配菜，有的汉堡包中夹有洋葱，虽然量少，但也会对小型犬会造成很大的影响。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">4.鸡、鸭、鹅等禽类的骨既小又硬。不能像猪、牛骨头一样较易被狗牙齿嚼碎，尤其是小狗根本无法嚼碎。犬囫囵吞下这些骨头，有时会会刺穿喉咙或胃，导致犬丧失生命。所以在喂犬鸡、鸭、鹅肉时，一定要把骨头剔除。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">5.冷藏的牛奶、冰淇淋和其它乳制品也不能给狗吃，特别是对发育未完全的幼犬影响最大。通常几口冷牛奶就会造成幼犬腹泻，长期如此会形成习惯性腹泻，导致犬体虚弱，阻碍幼犬发育生长。其实，即便是加热的牛奶和其它乳制品也只能少量地喂犬，犬的肠胃不适应此类食品。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "6",
+                "运动量": "6",
+                "耐热程度": "8",
+                "护家程度": "4",
+                "耐寒程度": "8",
+                "美容程度": "4",
+                "友善程度": "8",
+                "口水程度": "2",
+                "粘人程度": "6",
+                "掉毛程度": "6",
+                "喜叫程度": "6",
+                "可训程度": "8",
+                "饲养难度": "1",
+                "关爱需求": "5"
+            },
+            "woolColor": null,
+            "fisrtWord": "P",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Portuguese Water Dog"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "120"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "葡萄牙 "
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "16~25",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "10~14",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "1000~5000",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "43~57",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,黑色,灰色,褐色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬"
+                }
+            ],
+            "feedInfo": {
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G116/116-10.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">在日常饲养方面，要注意对狗狗钙质的补充。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">有人以为用最好的肉类喂狗，就可以使它长得强壮。其实，这样喂狗，不但花费大，而且会使大部分狗腹泻，形成消化不良，难于吸收。幼犬为了获得能量，需要把肉类的蛋白质分解；其实这些完全可以从碳水化合物中获得。此外，肉类中也缺少维生素A、D、E。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">一般情况下，凡是肉类喂得过量，或是只用肉喂的小狗（特别是从3个月大到12个月大的），骨骼的形成一定有毛病，因为钙质和肉类的磷的比例失调。换名话说，是钙少而磷多。另外，只喂肉类，还会造成小狗的营养不产良，生软骨病。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">不论我们所养的狗是不是纯种狗，都需要从幼犬时期开始喂些钙粉。钙粉同钙片的作用相同，对小狗骨骼的成长很重要。缺乏钙质，牙齿和骨骼便不正常。尤其是骨头所占比例大的狗，如拳师狗、洛威拿犬、圣伯纳犬、大丹犬、罗得西亚脊背犬等，幼犬时期更需要钙质。因此我们每天喂养小狗，一定要在食物中加适量的钙粉。小狗则吃钙粉更容易吸收。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">通常成长中的幼犬，每2.2公斤（约5磅重），每天就需要一茶匙的钙粉。换句话说，小狗增加体重，钙粉量也要依照比例增加。小狗长到1岁以后，进入成长期；从那时开始每4.5公斤（约10磅重），每天需要一茶匙的钙粉。相对来说，份量已减半，因为过了发育期，骨骼和牙齿的成长逐渐稳定，不需要那么多的钙粉。另外有一点需要注意的是每天必须让小狗有适当的运动，才能使钙粉吸收；否则喂太多的钙粉，反而有害无益。</p><p><br/></p>"
+            },
+            "petBreedId": 173,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G116/116-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">平淡、整体尺寸小；头顶窄；口吻像被截断。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">咬和</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">上颚突出式咬和或下颚突出式咬和。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体质</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">骨量不足或骨骼纤细；缺乏肌肉。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">被毛</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">稀少，天生毛发太短，部分或全部毛发平贴身体，毛刷状或刚毛状的被毛质地，毛发稀少，双层毛。尾巴：除了描述现象外的情况。位置太低。过于粗重或运动时下垂。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颜色</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">任何背离上面描述的颜色；除了黑色或不同色调褐色以外的其他颜色眼睛，粉红色或局部着色的鼻镜、嘴唇、眼圈。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">气质</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">羞怯、凶恶或错误的举止。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G116/116-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">英勇、顽固、勇敢而耐疲劳。异常聪明，是忠实的同伴。乐于服从自己的主人。它对自己照顾的对象和服务对象都很顺从。能全天候在水中或陆地上工作。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G116/116-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">众所周知，葡萄牙拥有漫长的海岸线，而这种水中工作的品种就是渔民培育的，它们英勇、但对大自然顺从，中等结构，可以在水中或陆地全天候工作。葡萄牙水犬是优秀的游泳者和潜水者，具有特殊的才干和毅力，帮助他的主人在海中寻回失落的渔具、驱赶鱼群、在小船间或小船与陆地间传递消息。它是一个忠诚的伴侣和警惕的卫士。英勇、顽强而耐疲劳。异常聪明，是人类忠实的同伴。</p><p><br/></p>"
+            },
+            "price": "1000~5000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G116/116-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">葡萄牙水犬</span><br/>英文名：Portuguese Water Dog<br/>别名：靠德阿古阿犬<br/>生源地：葡萄牙&nbsp;<br/>体型：中型犬&nbsp;<br/>肩高：43-57厘米<br/>体重：16-25公斤&nbsp;<br/>毛长：长毛&nbsp;<br/>功能：工作犬、伴侣犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G116/116-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">已经有几个世纪的历史，原生于葡萄牙的海岸地带，也曾和渔夫远航至冰岛附近。是葡萄牙阿尔加维地区渔民饲养的品种，优秀的游泳者和潜水者，具有特殊的才干和毅力。它常从事把鱼赶入鱼网、在海中寻回失落的渔具、在小船间或小船与陆地间传递消息。是忠诚的伴侣和警惕的卫士。葡萄牙水犬有两种被毛类型，一种是披毛比较长，稍微卷曲或呈波浪状；另一种毛较短而密，卷度比较结实。是非常实用的工作犬。北非，有人说来自中俄边界地区。</p><p><span style=\"font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; font-size: 12px; line-height: 12px;\">　　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">在葡萄牙语中，这种犬叫做caodeAgua，cao的意思是犬，deAgua的意思是水。在它的故乡，这种犬也叫做葡萄牙猎鱼犬。caodeAguadePeloOndulado是长毛品种的名称，caodeAguadePeloEncaradolado是卷毛品种的名称。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">葡萄牙水犬曾在葡萄牙的各处海岸都有，在那里，人们用它将鱼赶至网中，找回丢失的工具和破了的渔网，并在船与船、船与岸之间充当信使者。葡萄牙水犬乘坐颠簸的拖网渔船从葡萄牙海岸出发，到冰岛附近的冰冷海水中捕鳕鱼。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">葡萄牙水犬聪明沉着，外形粗犷健壮。有不脱落的丰厚被毛，这种被毛不引起过敏症，而且防水，脚上有蹼，是理想的户外犬，能胜任大量工作。公犬高50.8～58.4厘米，体重19.05～27.22千克，母犬高43.2～53.3厘米，体重15.9～22.68千克，体形小一些的犬用于小船上，而体形大的犬则用于大船上。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">葡萄牙水犬在参加表演时，被毛有两种修剪方式，可任选一种，包括狮子式（躯干后部和吻部修剪得很短，而身体其他部位保持长毛的状态）和工作式。喜欢将犬的被毛修剪成狮子式的人说这样可以展示犬肌肉有力，喜欢工作式的人则认为这样的被毛易梳理，适宜犬中户外进行各种活动。 一些人认为葡萄牙水犬来自公元前700年的中亚，即中俄交界处的西伯利亚大草原。居住在那儿的早期居民饲养牛羊骆驼和马，根据他们住的地点不同，饲养的牲畜种类也不同。他们也饲养犬来放牧这些家畜。这些犬生活在与世隔绝的地方，形成了特定的类型，非常像长毛的葡萄牙水犬。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">有种理论认为这种亚洲牧羊犬的一部分被凶猛的北非柏柏尔人(Berbers)抓获，这些人穿过北非来到摩洛哥，他们的后代摩尔人在8世纪来到葡萄牙，随身带着水猎犬。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">另一种理论声称，亚洲牧羊犬随着哥特人(德国部落的一个联邦)离开了非洲的大草原。后来东哥特人往西走，他们的犬变成了德国的pudel犬。另外一部分哥特人——西哥特人往南走，与罗马人打仗，他们的犬发展成狮子犬。在公元400年，西哥特人入侵西班牙和葡萄牙，而他们的犬从此在那儿定居。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">这些理论解释了为什么狮子犬和葡萄牙水犬可能有着共同的祖先。曾经狮子犬是种长毛犬，与葡萄牙水犬中的一种很相像。一些长毛的水猎犬与利比利亚人一起成长。早期，塞提伯瑞斯(Celtiberians)从属于德国西南部的地区出发，穿过比利牛斯山脉，行迹遍布欧洲西部。他们在古西班牙(伊比利业)和爱尔兰，威尔士和布列塔尼亚半岛居住下来。认为爱尔兰水犬是葡萄牙水犬的后代。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">几个世纪以来，葡萄牙水犬一直生括在葡萄牙南部悬崖林立的海岸边，与世隔绝，保持着粗犷的外表。但20世纪早期，农业社会经历了巨变，葡萄牙的渔民迅速从海岸边消失，葡萄牙水犬也一样。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">19世纪30年代，一个葡萄牙船业巨头同时也是一个爱犬者，瓦斯科·博苏德(Dr.VascoBensuade)开始尽力挽救这个品种的犬，葡萄牙犬俱乐部重新建立，这个品种的犬在犬展中亮相，从此制定了标准，葡萄牙水犬被列入工作犬组。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1954年，几头葡萄牙水犬由葡萄牙出口到英国，英国养犬俱乐部将其列入工作犬组。尽管这种犬在英国被接受，但还是迅速衰落了，和1957年后未被登记在册。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1958年，纽约的哈瑞顿(Harrington)夫妇收到了从英国来的作为稀有品种交换的一对葡萄牙水犬，美国人开始对这种犬感兴趣。在对葡萄牙水犬感兴趣的美国人中，有一对夫妇，康涅狄格州的贺伯特·米勒(HerbertMiller)夫妇，第一次从葡萄牙直接进口这种犬(他们从塞豪诺·布瑞克处买了一头雌性幼犬。这位女士以前曾是女斗牛士，她继承了葡萄牙的博苏德养犬俱乐部。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1972年8月13日：16位葡萄牙水犬爱好者还有他们的爱犬在米勒家聚会，成立了美国葡萄牙水犬俱乐部。那时在美国只有12只葡萄牙水犬。经过养犬人的不懈努力，到1982年6月3日，葡萄牙水犬的数量已超过2571069402只，分布于41个州，并有50多个技艺精湛的养犬人。1981年6月3日，葡萄牙水犬被列入混合犬组。3个月后，这种犬赢得了第一个冠军，1983年8月1日葡萄牙水犬被美国养犬俱乐部正式承认，并于1984年1月1日作为工作犬组参加比赛。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">2009年4月11日，白宫正式确认，“白宫第一狗”一条黑色卷毛葡萄牙水犬进驻白宫。</p><p><br/></p>"
+            },
+            "alisName": "靠德阿古阿犬",
+            "showImage": "http://p2.ycw.com/201609/08/bea5ba9107d4a0c8d0270350e802dc3e",
+            "bodyType": "中型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "8"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "6"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "6"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "8"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "8"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "5"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/a32c80fde3c908a2a8c63d842de3da44",
+            "status": 1,
+            "name": "葡萄牙水犬"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "4",
+                "运动量": "6",
+                "耐热程度": "6",
+                "护家程度": "4",
+                "耐寒程度": "6",
+                "美容程度": "1",
+                "友善程度": "4",
+                "口水程度": "4",
+                "粘人程度": "2",
+                "掉毛程度": "2",
+                "喜叫程度": "2",
+                "可训程度": "6",
+                "饲养难度": "1",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "P",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Plott Hound"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "109"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "美国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "20~36",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "10~12",
+                    "unit": "年"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "51~69",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "黑色,灰色,褐色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "猎枪犬"
+                }
+            ],
+            "feedInfo": {},
+            "petBreedId": 176,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G117/117-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">整体外貌</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">有鲜艳颜色的猎犬通常能把大的猎物带到海湾或树附近，在狩猎的时候尤以毅力，耐性，敏捷好斗而著称。普罗特力量强劲，肌肉发达，是勇气与运动力的结合。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">大小，比例，结构</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">大小——高度：从最高点肩胛算起，公狗50.8厘米到63.5厘米，母狗50.8厘米到58.42厘米。比例——总体的构造和高度成比例。重量——（在打猎时）公狗为22.68到27.22千克。母狗18.14到24.95千克。结构——骨骼适中。很强壮，反应更是迅速敏捷。缺陷——过分强壮，而不能显示出速度和机敏。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头部——头部抬高，皮肤紧贴。缺陷：有褶皱，喉部有垂肉，皮肤拉的太紧。表情——自信，好奇，坚决。缺陷：表情略带伤感。眼睛——棕色或淡褐色，突出而不深陷。缺陷：眼皮下垂，红色瞬膜。耳朵——中等长度，质地柔软，相当的宽，两边都竖的很高。耳朵的内部朝着口鼻部向前卷。公狗的耳朵展开总共有45.72到50.8厘米。母狗有43.18到48.26厘米。当它对某件事情注意或者好奇的时候，它的耳朵就会显著而有力的竖起来。失格条件：耳朵的长度超过鼻尖或者像侦探犬耳朵一样长而下垂。头骨——很平。圆顶，两眼的间距较宽。缺陷：头部较窄，头顶太圆。吻部——长短适中，嘴边垂肉有点方。缺陷：太方了。高鼻子。颜色——眼的轮廓，嘴唇和鼻子都是黑色的。嘴边垂肉是黑色的。缺陷：嘴唇下垂。咬合——剪状咬合。缺点：上颚或者下颚突出。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部，背线和躯干</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈部——中等长度，肌肉发达。匀称，无赘肉。缺陷：皮肤宽松，有皱纹或折叠。背线——略微倾斜，肩胛处略高于臀部。缺陷：拱形。躯干和胸部很深。肋骨——扩张良好。后背——强健有力。腰部——略成弧形。尾巴——尾根部稍微低于背线以下。相当的长，伸缩自如，向一把马刀。看上去有点毛茸茸的，呈锥形状。看上去粗细适中，明显变细。有时像小毛刷。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">肩部——匀称，健美，倾斜，标志着速度和力量。肘部——呈方形。前肢——笔直而平滑，很健美。系部——强壮而笔直。脚部——脚背和指关节结实，紧绷，脚趾很有力。失格条件：八字脚。指甲——通常是黑色的，尽管略带红褐色和有斑色的身体相称是允许的，鹿皮颜色的狗有浅红色的指甲。脚的一部分可能是白色的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">后躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">角度——后膝关节和跗关节充分弯曲。臀部——圆而平滑，适当的外张，说明能够有效率的前进。腿部——从臀部到跗关节长而健美。从跗关节到脚背短小有力，与地面成一定的夹角。大小腿——强健有力。脚部——在躯干的后下部。结实紧凑。脚趾很有力。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">背毛</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">平滑，富有光泽，而且厚而保暖，足可抵御风雨。稀有品种有双层背毛，内层毛短小柔软，外层毛长而光滑。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颜色</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">任何斑色（浅色毛上有深色的条纹斑记）是理想的。包括以下几种斑色：黄色，鹿皮色，黄褐色，褐色，巧克力色，肝色，桔色，红色，浅灰或深灰，蓝色，稀释的黑色，黑色。其他可接受的颜色是：纯黑，任何斑色，腰部带有黑色，或黑色带斑记。没有任何斑记的鹿色很少被发现。有时会有鹿红色，沙红色，浅奶油色，黄赭色，深鹿色，金褐色。胸部和脚上有白色是允许的，在颚部和和口鼻部会有灰色效应。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">灵巧而优雅，脚步有节奏感。前后伸展广阔。很容易轻快而有力的穿过各种各样的地形。快速时腿部像一条线集中。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">性情</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">乐于取悦，忠实，聪慧，机警，是只有攻势的，大胆的猎犬。性情平和，但紧张时会发生变化。捕捉大猎物的会和猎浣犬有区别。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">失格条件</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">耳朵的长度超过鼻尖或像侦探犬一样长而下垂着。八字脚。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G117/117-9.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">忠诚而聪明，学习东西很快，喜欢与儿童一起嬉戏。它坚定、活跃、快速、勇敢而自豪，很有耐力。饭量也很大。</p><p><br/></p>"
+            },
+            "price": null,
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G117/117-2.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">普罗特猎犬</span><br/>英文名：Plott Hound<br/>生源地：美国&nbsp;<br/>体型：大型犬&nbsp;<br/>肩高：51-69厘米<br/>体重：20-36公斤&nbsp;<br/>毛长：短毛&nbsp;<br/>功能：狩猎犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G117/117-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">原产地美国，起源于18世纪。它是纯粹美国品种，没有英国猎犬的血统。它以乔纳森·普罗特家族命名，这个家族从1750年开始从德国迁移到美国北卡罗来纳州的山区地带以后连续7代人在家族内饲养和培育这个品种。据说该犬在德国时期是用来猎取野猪，它的血统中后来包含寻血猎犬和美国杂种土狗的基因。它历史上只在普罗特家族居住地一代活动，因为普罗特家族很少出售这种犬。因此在1946年被美国养狗人俱乐部正式承认时，北卡罗来纳州以外的其他地方还很少发现这一品种。因为那里没有野猪，它主要以猎取熊和浣熊而著名，另外它在追寻猎捕山狗、山猫、狼时工作效率也很高，追踪猎物的能力极强，甚至连躲在十分偏僻处的猎物都能追踪到。它们工作十分顽强刻苦，有充分的耐力和超乎寻常的狩猎本能，其勇敢和顽强的耐力受到很高的赞扬。这一品种经过长期细心的培育变得更加强壮和稳定。虽然该犬适合家居，也是良好的伴侣，但大多数仍然是作为猎犬狩猎为主。</p><p><br/></p>"
+            },
+            "alisName": "",
+            "showImage": "http://p2.ycw.com/201609/08/0df32aa5b1082bf835e57543f631e43e",
+            "bodyType": "大型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "2"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "1"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "2"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "6"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "6"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "4"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/704492ab20609401ff12186a823dd31d",
+            "status": 1,
+            "name": "普罗特猎犬"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "4",
+                "运动量": "5",
+                "耐热程度": "7",
+                "护家程度": "4",
+                "耐寒程度": "8",
+                "美容程度": "4",
+                "友善程度": "6",
+                "口水程度": "4",
+                "粘人程度": "4",
+                "掉毛程度": "1",
+                "喜叫程度": "3",
+                "可训程度": "4",
+                "饲养难度": "1",
+                "关爱需求": "5"
+            },
+            "woolColor": null,
+            "fisrtWord": "P",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Jack Russell Terrier"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "108"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "英国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "4~7",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "10~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "25~26",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,梗类犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G80/80-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">(一)春季：春季是罗素梗发情、交配、繁殖和换毛的季节。要注意发情的爱犬的管理，梳理被毛，预防皮肤病。罗素梗在发情期间，其生理功能和平时行为常会发生一些特殊的变化。发情母犬会到处乱走，要看管好，尤其是优良的纯种犬，不可任其外出自由交配，以防品种纯化。公犬常为争夺配偶而争斗，易受伤，发现伤情要及时处理。春季也是换毛季节。厚实的冬季毛将要脱落，如不及时经常地梳理，不洁的皮肤会引起瘙痒，犬会以抓挠和摩擦身体来消除痒感，这就容易将皮肤弄破，易引起细菌感染。不洁的被毛易“擀毡”，为体外寄生虫和真菌的繁殖提供有利场所，引起皮肤病。因此，春季应注意被毛的梳理和清洁，预防皮肤病。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">(二)夏季：夏季气候炎热、潮湿，应注意防暑、防潮，预防食物中毒。罗素梗在气温高、湿度大的环境中，由于体热散发困难，极易中暑。为此，应避免在烈日下活动，犬舍应移至阴凉处，炎热天气应经常为犬进行冷水浴。发现犬出现呼吸困难、皮温升高、心跳加速等症状时，应赶快用湿冷毛巾冷敷头部，移到阴凉通风处，并立即请兽医治疗。为防潮湿，要勤称、勤晒垫褥等铺垫物，用水冲洗犬舍后，一定要待彻底晾干后方能进犬，被雨水淋湿后的犬要及时用毛巾擦干。夏季犬饲料易发酵、变质，容易引起食物中毒。因此，喂犬的食物最好是经加热处理后放凉的新鲜食物，喂给量要适当，不应有剩余。对已发酵变质的食物要坚决倒掉，不能怕浪费而留用。因为变质食物中可能含有细菌毒素，即使高温处理也不能将其破坏。犬吃了含有毒素的食物，即可引起食物中毒，如治疗不及时则会死亡。故每当喂食后不久，若发现犬有呕吐、腹泻，全身衰弱症状时，应迅速请兽医诊疗。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">(三)秋季：秋季罗素梗体内代谢旺盛，食欲大增，采食量增加，夏毛开始脱落，秋毛开始长出，同时又是一年中第二个繁殖季节，其管理方法与春季有许多相似之处。秋季食物丰盛，给食量要增加，质量要提高，为过冬做好体质方面的储备工作。注意梳理被毛，以促进冬毛的生长。深秋之际昼夜温差大，应做好晚间犬舍的保温工作。防止感冒。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">(四)冬季：冬季天气寒冷，管理的重点应放在防寒保温，预防呼吸道疾病方面。由于气温降低，机体受寒冷空气袭击，或因管理不当，不注意防寒保温，运动后被雨淋风吹以及犬舍潮湿等都会引起感冒，严重的会继发气管炎、肺炎等呼吸道疾病。预防感冒的有效措施就是防寒保温，加厚垫褥，并及时更换，保持干燥，防止贼风；在天晴日暖的时候，加强户外运动，以增强体质，提高抗病能力。晒太阳不仅可取暖，阳光中的紫外线还有消毒杀菌的功效，并能促进钙质的呼收，有利于骨骼的生长发育，防止仔犬发生佝偻病。</p><p><br/></p>",
+                "美容知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G80/80-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狗皮毛易脏，需要定期洗澡。一般夏天每周一次，冬天两周一次，平时有些脏时，用湿毛巾擦一擦就可以了。洗澡用温水，不要用冷水，要用宠物香波，不能用人用香波、肥皂、洗洁净，清洗灵。洗澡时用棉花将耳朵塞住，以免引水入耳，引起耳道炎症。把香波放入水中搅匀，再将狗放入水中洗澡。洗完澡后要用干毛巾吸干被毛上的水分，然后一边梳一边用电吹分吹干，不要让太阳晒干或自然干，这样很容易令犬生病。注意吹干底毛，重点是颈下、腋下、腹股沟、四肢指间，否则易发皮肤病。在了解给狗洗澡的必要性之前，我们先了解一下狗的皮肤结构和生理方面的特点，狗的皮肤对外界刺激抵抗力比人差，人的皮肤表皮层有10-15层，PH5.5（微酸性），有汗腺，而犬皮肤表皮层仅3-5层，PH7.5（中性），皮肤新陈代谢周期短，无汗腺。这些决定了再好的人用香波不适合于犬用。洗澡过勤，吹干不彻底，皮脂腺容易遭到破坏，被毛粗乱无光泽，容易患皮肤病。有些主人特别爱卫生，每天或每周多次给狗洗澡，这显然是不对的。另外，犬的嘴唇及面部卫生不容忽视，采食后要用毛巾清洗。肛门、尿道口区域清洁也不能遗忘。</p><p><br/></p>"
+            },
+            "petBreedId": 172,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G80/80-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">公母肩高都在12~14英寸。成年母狗的理想肩高为13英寸，而成年公狗的理想肩高为14英寸。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">表情热情、直率、充满活力和聪慧。眼睛杏仁状、颜色深、中等大小且不突出。眼圈颜色深。纽扣耳，头颅平，耳朵间相当宽，向眼睛方向逐渐变窄。止部轮廓清晰但不突出。上下颌都很完美而且非常有力。鼻镜为黑色而且色素充分。牙齿大而且紧密，呈完美的剪状咬合。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">身体</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈部整洁且肌肉发达，略拱，长度适中，靠近肩部处逐渐变宽。背线结实、笔直、腰部略拱。身躯—体长和肩高成比例，近似于正方形，比例匀称。胸窄而且深度中等，胸部有力，而不是沉重，柔韧而且紧凑。肋骨健康，深度不能达到肘部。尾巴位置高。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">肩部长且倾斜，与背部结合良好。足爪圆，类似猫爪，非常紧凑，脚垫厚而且硬。脚趾适度上拱，不向内翻或向外翻。后躯结实而肌肉发达，平滑，骨量充足，后膝关节角度合适，而且飞节靠近地面，相互垂直，在行动中提供推进力。足爪与前肢相同。平毛粗硬而且能抵御恶劣气候。平但结实，浓密，毛量丰厚，腹部和大腿下面不裸露。粗毛粗硬而且能抵御恶劣气候。短而浓密的底毛，粗硬、笔直的披毛紧密包裹着身躯和腿。除了眉毛和胡子，整个轮廓清晰。腹部和大腿下面不裸露。颜色白色，有黑色或棕色斑纹，或三种颜色组合。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G80/80-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">杰克罗素梗充满活力，主要的魅力在于聪明，热情，有耐性的气质上。世界上大多数犬种俱乐部不承认杰克罗素的独立品种。但该犬的许多优点不会在狗展上被埋没，对许多爱好者来说也许更有利。性格友好而且冒失，聪明而好动。它在工作中显得有谋略、勇敢而固执，在家中则爱玩耍、精力充沛而且无比温柔。它独立、精力旺盛，而且需要你的关注。不吵闹，顺从而不会引起混乱。杰克罗素梗容易兴奋，具备快活的性格。忠诚，喜欢运动，喜欢与人类相处，为优秀的守门犬。尽管生来活力旺盛，如不提供激烈运动，其美丽的体型也会变形。而且如果没有适当的运动，狗狗的性格也会变得很焦躁。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G80/80-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">杰克罗素梗是19世纪在英国南部培养的白色梗类犬，主要是为了在地面上和地下捕捉欧洲红狐狸。这种梗是由约翰·罗素牧师培养出来的，并由此得名，它可以将狐狸从巢穴中驱赶出来并追踪这些狐狸。作为一种工作梗，其必须具备下列特征：身手敏捷、警惕和自信；体长和肩高保持平衡；中等体型和骨量，有爆发力和耐久力。本品种天然的外观也很重要：粗砺、能抵御恶劣气候的被毛，被毛结构紧密、外形轮廓简洁。被毛有粗毛和平毛两种。它的胸部小而柔软；使它能在地下追踪猎物，而且它的腿要有足够的长度，可以追捕猎物。如果其在工作中留下伤疤或旧伤，将不影响其参加比赛，除非这些伤妨碍其正常活动或影响其工作能力。</p><p><br/></p>"
+            },
+            "price": null,
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G80/80-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">杰克罗素梗</span><br/>英文名：Jack Russell Terrier<br/>别名：帕尔森·罗塞尔梗、杰克罗塞尔梗<br/>生源地：英国&nbsp;<br/>体型：小型犬&nbsp;<br/>肩高：25-26厘米<br/>体重：4-7公斤&nbsp;<br/>毛长：短毛&nbsp;<br/>功能：梗类犬、伴侣犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G80/80-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">19世纪初，得文郡上一个名叫杰克罗素的英国教会”狩猎圣职者”改良产品的品种，故称杰克罗素梗。热衷于猎狐运动的拉西尔，不满意狩猎犬种的品种，而希望能够获得一种斗争心旺盛以及能在地洞中追逐猎物，勇敢且机敏的犬种。杰克罗素梗除了追捕狐狸外，也能驱逐老鼠，性格开朗，活泼。</p><p><br/></p>"
+            },
+            "alisName": "帕尔森·罗塞尔梗;杰克罗塞尔梗",
+            "showImage": "http://p2.ycw.com/201609/08/b84a00ea710b0039d50783ab8de8dc7a",
+            "bodyType": "小型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "3"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "1"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "4"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "7"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "5"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "4"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "4"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "5"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/06d86ac95ef5126e24a7d0623ebc2450",
+            "status": 1,
+            "name": "帕尔森·罗塞尔梗"
+        },
+        {
+            "attentionInfo": {
+                "常见问题": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G82/82-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">无论购买什么东西，我们都要知道无商不奸这个道理。商人们往往为了达到自己的利益，而不择手段，任凭你有慧眼识珠的本领，都不能戳穿商人的假象，所以商人眼里是没有感情，这话不是没有道理的。现如今因为人们特别喜欢柯基犬，所以只有先学会选购方法，才能避免自己上当受骗。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1.体形要较匀称，颈部要常高伸且有力，胸部要较深，腹部要略微向上收缩。柯基犬。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">2.四肢应较长而健壮，前肢较直，后肢肌肉发达，脚大而宽阔，足趾有较长的饰毛披覆。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">3.毛应较丰厚而密实，很柔软，像丝一样有光泽。头部的两侧还有很长的饰毛。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">4.身体的两侧和前、后肢也有长而浓密的毛；耳朵和尾巴以及头顶都有长而光亮的毛。背部和肩部的毛较短。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">5.此犬有白色、金黄色、褐色和黑色等几种，不应该有其他颜色的毛，否则就不是纯种。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">6.行走时的步态，应轻松自如，且能敏捷地奔跑，行动迟钝的属不健康之列。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">7.肩高和体重的要求是：身高(即肩高)在25-32厘米之内；体重在10千克-15千克之内。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">8.头型要属长条形，长、直而狭窄，并常常高昂。额颅要稍凸，鼻色要为褐色或黑色。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">9.吻部要较长，颈部要强壮有力，牙齿要坚硬且呈钳状咬合。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">10.耳朵要长而悬垂，柯基犬头顶的毛应长达掩盖着耳朵且披在肩上；眼睛要色黑且炯炯有神。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "2",
+                "运动量": "6",
+                "耐热程度": "7",
+                "护家程度": "6",
+                "耐寒程度": "7",
+                "美容程度": "3",
+                "友善程度": "8",
+                "口水程度": "2",
+                "粘人程度": "2",
+                "掉毛程度": "6",
+                "喜叫程度": "5",
+                "可训程度": "8",
+                "饲养难度": "1",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "P",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Welsh Corgi Pembroke"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "11"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "英国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "10~12",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "12~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "2000~5000",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "25~30",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,黑色,褐色,红棕色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,牧羊犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G82/82-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">在每天的饲料中，应含肉类200～250克以及等量的素食。素食可选用各种杂粮，蔬菜，胡萝卜等。要定期更换品种，以保证摄食的营养全面。每天喂饲食物的量要适度，过多过少都不利健康成长。柯基犬的被毛虽然稍粗而不很长，但也应经常为它梳刷清理，以保持其清洁美观。还应定期为柯基犬洗澡、清除耳垢、牙垢，用温水(开水降温后)洗眼，修剪爪子等。柯基犬很容易患眼疾，所以应每隔3～5天，用2%的硼酸水为它洗眼，以防止眼疾发生。柯基犬犬舍要选择隐风、干净和干燥的地方，并每隔半月或一月作一次消毒处理。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">由于柯基犬早期为畜牧犬，生性活泼好动，所以不能老是关在室内，而应给予适当的时间让它在户外活动，以保持其健康活跃的特性。彭布鲁克柯基犬不好与同类相伴。所以必须从幼犬时期开始，对它进行训练和调教，使它改掉这种恶习，和其他犬融洽相处。威尔士柯基犬的皮毛非常好打理，只需每周进行简单梳理。性格温和，很喜欢与儿童相伴，当然儿童需要在成年人的看护下与它玩耍。天生热爱运动，所以需要每天进行户外的大量运动与玩耍。生性活泼，喜吠叫，所以需要从小进行训练，从幼小时就训练它不吠叫，不嗜咬东西。注：由于多数城市的养犬条例中规定禁养肩高高于35厘米的犬，所以矮小的它可以光明正大地走出家门。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G82/82-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">每天喂饲食物的量要适度，过多过少都不利健康成长。每天的饲料中，应含肉类及等量的各种杂粮、蔬菜、胡萝卜等素食。要定期更换品种，以确保摄食的营养全面。狗最大的快乐莫过于每天相同时间、相同地点，从同一个盘子里吃同样的食物。用餐数根据狗的生理状态而定、其生理状态要经常评价。随时给狗喝适于饮用的冷水，并且要经常换水、平均每公斤体重每天消耗水至少60毫升，而幼犬、哺乳期雌犬、工作犬或炎热气候下消耗的水要多些。每份食物量的大小取决于动物每天所需能量和食物中所含的热量。每份食物量的大小应该经常重新计算、避免产生肥胖症，而且还应该随狗体重的变化而调整。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狗的饮食应逐渐变化，要过渡一星期，这样动物的味觉、消化和新陈代谢能够适应，而狗的肠道微生物比人类的肠道微生物更能适应吃萝卜类的食物，因此能够恢复其功能用来消化新的食物。喂食的方式和食物中所合成分一样重要。因此，当喂商业食物时，必须严格遵守商家指示。当喂自制食物时，应杜绝一些想法，即“我的狗吃我吃的东西”我的狗吃它喜欢吃的东西”或“我的狗只是吃东西”。最后，狗粮中不应有桌旁残渣、甜食、糖块、蛋糕和巧克力。饮食效果和任何饮食变化应该用一些简单指标来记录，如体重的变化，毛发的质地，粪便特征，食欲和日常行为。</p><p><br/></p>",
+                "繁殖知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G82/82-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">6～8月达到性成熟，12个月体成熟，达到体成熟可以交配繁殖，每年春季与秋季发情2次，妊娠期58～65天，每胎4～6只。</p><p><br/></p>"
+            },
+            "petBreedId": 177,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G82/82-11.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">身高：雄性柯基肩高11.0-12.2英寸（28.0-31.0厘米）；雌性柯基肩高9.8-11.4英寸（25.0-29.0厘米）</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">体重范围：雄性柯基体重22.0-26.5磅（10.0-12.0公斤）；雌性柯基体重22.0-24.3磅（10.0-11.0公斤）</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头部：外形狐状，表情显得聪明、关心周围环境，不会有胆怯的感觉。颅部颇宽并且耳间平，额鼻架适中，颊部略浑圆，前脸面轮廓鲜明，使得吻部逐渐变尖。枕骨到额鼻架中心的距离大于额鼻架到鼻尖的距离，比例为5部分的颅骨总长度对3部分的前脸面总长度。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">眼睛：眼椭圆形，中等大小，不圆也不突出，稍成斜位。眼棕色，与被毛的颜色相协调，眼缘黑色，黑色是最适宜的颜色。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">耳朵：坚硬，中等大小，逐渐缩小至浑圆耳尖。耳朵能活动，对声音反应敏感。从鼻尖穿过眼睛到耳尖交叉划直线，所形成的三角形接近等边三角形。蝙蝠耳、小猫耳、大而无力的耳、垂耳、位置太高或太低的耳朵都是我们所不希望的耳朵。扣状耳、玫瑰耳或下垂耳都是严惩缺陷。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">鼻子整个为黑色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">躯干</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">威尔士柯基犬包括颈部、胸部、肋骨、腰部和背部、躯体前部、皮肤。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈部：颈颇长，足够的长度使得整个身体富有平衡性。略成拱形，整洁，与肩部融合良好。颈部太短会给人一种窒息的感觉，太长、太细或母羊状脖子都会影响犬的品质。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">背线：背部坚硬，水平，臀部既不突起，也不会凹下去。稍徽浓密的颈部被毛与略微短些的体毛交接会造成肩后稍微有点儿凹陷，这是允许的。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">身躯：肋骨弹性良好，略呈卵形，长度适当。胸深，在前肢间垂下。身体太低会干扰运动的自如性，应受到惩罚。俯视时，躯体向腰部逐渐变细。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">腰部：腰短。圆桶胸、扁平胸、肋骨缺乏弹性，太长、太圆形都不符合标准。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">包括前驱、肩部、上肢、胶骨关节、胶骨、足掌、后躯、大腿、飞节、关节和飞节指甲。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">前躯：小腿短，尽可能地直，肘部与身体平行。骨量足。肘接近身体两侧，不松也不紧。肩位置自然，与上臂成90度角。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">后躯：强壮且灵活，后膝关节成角自然。腿短。骨量足。从后面看，跖部笔直。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">脚：呈椭圆形，脚趾强壮，自然成拱形，紧绷，两个中趾略长，脚垫结实。自然成拱形。趾甲短。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾巴</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">尾巴：短，很自然。尾尽可能是短的断尾，偶然有仔犬天生断尾，这是允许的。如果不是尾巴上翘太高不能干流了犬的背线轮廓，上翘长度在5厘米以下是可以的。断尾较短。未断尾与背线在同一直线，自然下垂，不弯曲到背。活动时举起并与背线平，休息时低垂。尾过高或过低均为缺陷。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态运动</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">步态自如流畅。前肢伸展自如，抬不太高，与后躯的驱动动作和谐一致。合适的肩部位置，加上合适的肘部动作使得犬能向前大步自如地行走。从前面观看，四肢行走时并不在一个平行的平面上，而是稍微内收，以弥补腿短与宽胸的缺陷。后肢伸展自如，并且与前肢位于一直线上，使得动作运行连续有力，跗关节既不内收也不外翻。爪子的运动与运动路线平行，不能左右摇摆、交叉、相互干扰。不连贯的短运动、身体摇摆或高抬腿行走，来回行走时步态太紧凑或太张开是都是不正确的步态。本牧羊犬的行动必须敏捷、自如，对工作有耐力。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G82/82-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">柯基身体矮小，力气较大，给人一种体格结实，充满活力、优质的骨骼及优秀的耐力的印象，是最受欢迎的小型看家犬之一，本性友好，勇敢大胆，既不胆怯也不凶残。性格温和，但不要强迫它接受不愿意接受的事物。它的智慧是毫无疑问的，也相当机警，能高度警惕地守护家园。</p><p><br/></p>"
+            },
+            "price": "2000~5000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G82/82-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">柯基犬</span><br/>英文名：Welsh Corgi Pembroke<br/>别名：威尔士柯基犬、彭布罗克柯基犬<br/>生源地：英国<br/>智商：第11名<br/>体型：小型犬<br/>价格：2000元以上<br/>肩高：25-30厘米<br/>体重：10-12公斤<br/>毛长：短毛&nbsp;<br/>功能：伴侣犬、牧羊犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G82/82-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">彭布罗克威尔柯基犬外形酷似瑞典瓦汉德犬，后来斯堪的纳维亚半岛上的海盗将这种犬的祖先从英国带到该半岛。直到19世纪，英国人才将这种犬广泛用于驱赶牛群或羊群进入市场。彭布罗克威尔柯基犬的祖先由于其旺盛的精力和极高的工作效率，被广泛用作工作犬。育种专家已成功地将该幼犬予以训练，用以去除其与生俱来的与其它犬相斗的倾向。</p><p><br/></p>"
+            },
+            "alisName": "威尔士柯基犬;彭布罗克柯基犬",
+            "showImage": "http://p2.ycw.com/201609/08/56b4f852295695a3cf7b9c9b628ce518",
+            "bodyType": "小型",
+            "woolLength": "短毛",
+            "diseaseIds": "[313]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "8"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "5"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "6"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "3"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "6"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "2"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "7"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "7"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "8"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/d3993855a4b0cb597bcc34b3665d8806",
+            "status": 1,
+            "name": "彭布罗克威尔士柯基"
+        }
+    ],
+    "pageSize": 8,
+    "count": 251,
+    "total": 32
+}

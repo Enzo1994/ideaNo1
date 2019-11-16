@@ -1,0 +1,1232 @@
+{
+    "pageNum": 5,
+    "petRaceId": 2,
+    "list": [
+        {
+            "attentionInfo": {
+                "相关疾病": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M151/151-10.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">折耳猫最主要的疾病是遗传学骨骼病，长毛的高地折耳猫患病情况没有短毛折耳猫那么严重，但不代表主人可以放松对它们的照顾。如果猫咪出现变得慵懒、关节肿胀、不愿意行走等情况时，主人应该尽快带猫猫去医院进行检查。最好定期进行体检。<br/>同时还有</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\"><span style=\"font-size: 16px;\">呼吸系统毛病</span></h3><p><span style=\"font-size: 16px;\">　　骨骼病变的基因，除了影响手脚的骨骼外，也会影响身体其他部分软骨组织发育异常。较常见的是呼吸管道收窄引起呼吸不顺畅，严重者，需要以外科手术来扩宽呼吸管道。此外会有喷鼻血的问题，不过成因暂时未明和未有方法医治。 　　</span></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\"><span style=\"font-size: 16px;\">体质较弱</span></h3><p><span style=\"font-size: 16px;\">　　曾有病例，猫咪的体型及体重只有正常猫的2/3,更曾感染猫瘟，皮肤病，过敏等毛病。 　　</span></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\"><span style=\"font-size: 16px;\">心脏病</span></h3><p><span style=\"font-size: 16px;\">　　心肌肥大症也是常见于折耳猫身上，不过一般是很难发现，直到出现病症时，已有生命危险，猫咪需要控制饮食和终生服药。</span></p><p><br/></p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 12px; line-height: 12px; white-space: normal;\"><br/></span>"
+            },
+            "details": {
+                "体味程度": "4",
+                "运动量": "3",
+                "耐热程度": "3",
+                "护家程度": "1",
+                "耐寒程度": "4",
+                "美容程度": "5",
+                "友善程度": "4",
+                "口水程度": "2",
+                "粘人程度": "8",
+                "掉毛程度": "3",
+                "喜叫程度": "4",
+                "可训程度": "6",
+                "饲养难度": "6",
+                "关爱需求": "7"
+            },
+            "woolColor": null,
+            "fisrtWord": "G",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "HIGH LAND SCOTISH FOLD"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "苏格兰"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "2.4~6",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "3000~7000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "渐层色,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M151/151-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">一些人看到折耳的长毛，虽然喜欢却望而却步，害怕掉毛厉害，害怕长毛容易打结，难打理。其实这是错误的想法。除了银色渐层因为颜色的原因掉毛比较厉害外，高地折耳比短毛的品种掉毛要少的多，平时基本不掉毛，换毛季节的落毛，会团成绒毛球在地上，直接捡掉就干净了，不像短毛的落毛会在空气中漂浮。而高地折耳的毛质柔顺，并不是波斯等品种那样非常纤细的丝质，因此也不容易打结，哪怕是一个月才梳理一两次的懒主人，在梳毛的时候也会惊讶的发现，这些漂亮的长毛依然是顺滑不打结的。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M151/151-9.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">高地折耳猫在饮食上比较讲究，当它们吃惯了一种猫粮后，主人最好不要进行更换。如果想让猫猫饱口福，可以准备多点零食。值得注意的是，有的猫咪很喜欢吃虾等高蛋白食物，但这种食物不宜喂食过多，它不仅容易造成猫咪挑食，而且不利于猫咪的健康成长。</p><p><br/></p>",
+                "美容知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M151/151-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">折耳猫平时有自己清理毛发的习惯，但是自身能力有限制，无法将身躯的整个毛发清理干净。因此，需要主人定期的为折耳猫梳理毛发。为折耳猫梳理毛发是一件非常简单的事情。每天花5-10分钟就可以将整个毛发梳理完。梳理毛发前，应该准备好梳毛发的必备工具。齿密梳子和齿疏梳子各一把，剪刀一把。<br/>然后先用齿密的梳子，顺着毛发生长的方向，轻柔的梳理毛发。梳理的过程中不要随意乱扯，以免扯痛折耳猫。梳理完后，在逆着毛发生长的方向梳理一遍即可。<br/>在用齿疏的梳子，梳理折耳猫全身，将毛发梳理的更为柔顺蓬松。在梳理的过程中，如果遇到难以梳理的结球毛发，可以用剪刀将其修剪掉。千万不能用力的拉扯，如果扯痛折耳猫，下次它就不会再让你给它梳理毛发了。<br/>整个毛发梳理完成后，主人可以向毛发上喷洒一些防跳蚤、虱子的药剂。减少寄生虫的危害，可以让折耳猫有一个健康的身体。</p><p><br/></p>"
+            },
+            "petBreedId": 629,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M151/151-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">高地折耳猫与苏格兰折耳猫类似，差别主要在毛发的长短。体型浑圆，远观头部就像一个圆圆的球，须肉饱满，鼻梁短，面部线条比较圆润。毛发长而柔顺。<br/>国内大部分的高地折耳猫颜色为银渐层这是由于银渐层折耳和英短，因为颜色繁育的原因，携带长毛基因的几率比较高。实际上，高地折耳和短毛折耳一样，有许多绚丽的颜色。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M151/151-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中等体型，圆浑浑的，骨骼中等，肌肉结实。雌性的体型较雄性的细小。四肢短而粗壮，肥胖。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">圆形，前额凸鼓。脸颊浑圆。侧看像是缓和的曲线。眼睛大而甜美，颜色与毛色对应。鼻子宽而短。微微有鼻中断是可以接受的。吻部微微呈圆形。髭毛垫呈圆形。下巴坚实。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳朵</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">：圆形，前额凸鼓。脸颊浑圆。侧看像是缓和的曲线。眼睛大而甜美，颜色与毛色对应。鼻子宽而短。微微有鼻中断是可以接受的。吻部微微呈圆形。髭毛垫呈圆形。下巴坚实。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">下半身</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">腿和爪的长度与身体长度成比例。骨骼中等大小，脚掌圆圆的，非常齐整。尾巴长度应为中等到长，但需要与身体保持比例。基部粗大，向尾尖逐渐变细，最后尾尖收拢为圆形。非常柔软和灵活。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M151/151-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">折耳猫天生就有着糖果般甜美的性格。它们喜欢参与你所作的任何事情，但通常只是静静地，不会发出声音来打扰你。它们的运动天赋虽然一般，但并不表示它们不喜欢玩，只是更青睐于有主人的陪伴。折耳猫喜欢平躺着睡觉，在无所事事的时候，它们会像水獭一样坐在那里向窗外张望。<br/>高地折耳猫没什么运动天赋，大多数时候更喜欢躺着睡觉，安静的躺在自己的猫窝内，静静的透过窗户向外望去。虽然它们的运动天赋一般，但它们还是喜欢和主人一起嬉戏玩耍，也渴望得到主人的关怀和青睐。</p><p><br/></p>"
+            },
+            "price": "3000~7000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M151/151-1.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">高地折耳猫</span><br/>英文名：HIGH LAND SCOTISH FOLD<br/>生源地：苏格兰<br/>体型：中型<br/>价格：3000-7000元<br/>体重：2.4-6公斤<br/>毛长：长毛<br/>喜好：喜欢与人为伴<br/>性格：甜美、温和</p><p><br/></p>",
+                "发展起源": "<p><span style=\"color: rgb(51, 51, 51); font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; line-height: 27.2px; text-align: justify;\">高地折耳猫的产生要追溯到二战期间。当时英短这个品种濒临灭绝，繁殖家为了挽救品种，曾经一度用波斯和 英短繁殖后代，选择外形接近英短的继续繁殖。此举虽然拯救了英短，却也使许多英短的血统里带上了波斯长毛的基因。而折耳又是和英短繁殖的，就造成折耳的血统中也带入了长毛基因。所以现今不但有高地折，还有英国长毛，不过英国长毛还不被承认。2只短毛的种猫，如果都携带有隐性的长毛基因，后代就有可能出现长毛的显性特征。也正是因为高地折耳得来不易又美丽，它们是非常珍贵的。</span></p>"
+            },
+            "alisName": "",
+            "showImage": "http://p2.ycw.com/201609/08/1d90ab0de32cd8d3b210665911ad104c",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "4"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "3"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "5"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "6"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "8"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "4"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "3"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "3"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "7"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/482c8183aa5c4b497f55751db5fcd9da",
+            "status": 1,
+            "name": "高地折耳猫"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "5",
+                "运动量": "8",
+                "耐热程度": "6",
+                "护家程度": "1",
+                "耐寒程度": "4",
+                "美容程度": "6",
+                "友善程度": "4",
+                "口水程度": "1",
+                "粘人程度": "1",
+                "掉毛程度": "5",
+                "喜叫程度": "6",
+                "可训程度": "3",
+                "饲养难度": "1",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "G",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Javanese"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "美国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "3~5",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "5000~8000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,其它颜色"
+                }
+            ],
+            "feedInfo": {},
+            "petBreedId": 396,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M64/M6402.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">爪哇猫体型中等，但比暹罗猫重。身体修长，长四肢型，优雅但有肌肉感。颈长而纤细。爪哇猫和暹罗猫相似，长着深蓝色眼睛，有着重点色被毛。被毛颜色均匀，毛发没有斑纹着色，也没有非相间着色胎痣。眼睛呈绿色，除了白色爪哇猫的眼睛是深蓝色的。重点色被毛的爪哇猫眼睛为深蓝色，得到承认的变种和暹罗猫一样。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M64/M6415.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">爪哇猫有着和东方型猫一样的习性特征，它外向又好说话，叫声悦耳。它专一，像小狗一样喜欢尾随主人，而且它很懂得怎样得到主人的宠爱。它们还是优秀“运动员”和高超的“猎手”，非常的喜欢运动，喜欢捕猎。</p><p><br/></p>"
+            },
+            "price": "5000~8000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M64/M6401.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">体型中等，但比暹罗猫重。身体修长，长四肢型，优雅但有肌肉感。颈长而纤细。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">颈部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">颈长且纤细。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">头大小中等，接近三角形。从其偶尔轮廓看，头骨微微凸鼓。吻部纤细。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">大小中等，呈杏仁形，眼梢微微向鼻子方向倾斜。眼睛呈绿色，除了白色爪哇猫的眼睛是深蓝色的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">耳朵：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">耳大，基部宽，尖部尖。耳侧线条为脸三角形轮廓的延续。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">鼻子：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">鼻子长而直。且和前额连成一线，没有中断。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">四肢：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">腿长而纤细，长度和身体成比例。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">足掌：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">爪小而呈椭圆形。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">尾巴：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">非常长而纤细，即使是基部也是如此。基部到尖部逐渐变细。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">毛色：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">颜色均匀，毛发没有斑纹着色，也没有非相间着色胎痣。变种和东方型猫相同。眼睛呈绿色，除了白色爪哇猫的眼睛是深蓝色的。重点色被毛的爪哇猫眼睛为深蓝色，得到承认的变种和暹罗猫一样。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(http://res.ycw.com/app/images/book/icon-subtitle.png); background-size: 10px; background-position: 15px 50%; background-repeat: no-repeat no-repeat;\">披毛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">薄，丝质。身体部分被毛中等长度，领圈部分，肩部和尾部（大尾）略长。没有羊毛状的底层绒毛。被毛颜色均匀，毛发没有斑纹着色，也没有非相间着色胎痣。</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M64/M6407.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">爪哇猫尽管名为爪哇，该品种并非起源于爪哇。1940年，在巴厘猫（半长毛暹罗猫）的育种过程中，美国育种专家们得到了一种半长毛的东方型猫，并根据其类型为之取名为爪哇猫。爪哇猫在欧洲依然非常罕见，很多人在爪哇猫到底算是新品种，还是仅仅算是巴厘猫的变种问题上各执己见。比如说，FIFe认为它是一种半长毛东方型猫，被毛紧密，长绿眼睛。CFA则认为它只是巴厘猫的颜色不同的变种，并有4个承认色（深棕色，蓝色，巧克力色和淡紫色重点色）。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.0180187225342px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">据记载，在最早培育安哥拉猫的繁殖计划中产生了一批幼猫，其中一只叫杜鹃，长得很像古老的土耳其安哥拉猫。特色是底层被毛带白色，与身体上其他的巧克力褐色毛形成对比。所有这些爪哇猫都是从试图重新培育出传统的安哥拉猫繁殖计划中产生的，这个品种于1984年荣获冠军。1989年10月，为更符合其东方猫的外貌，由安哥拉猫改称爪哇猫。</p><p><br/></p>"
+            },
+            "alisName": "加云尼斯猫",
+            "showImage": "http://p2.ycw.com/201609/08/5353df429b0e7dbaf69df3358ad56c40",
+            "bodyType": "中型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "5"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "5"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "6"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "1"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "4"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "6"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "8"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "3"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/6f961652cbb7ef027a47c2557f4e056a",
+            "status": 1,
+            "name": "爪哇猫"
+        },
+        {
+            "attentionInfo": {
+                "相关疾病": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M41/M4108.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">心室肥大症是因为左心室变的肥厚僵硬导致心肌收缩不完全或部分坏死，发生在猫身上与人类身上都一样会造成心脏衰竭、动脉栓塞、以及猝死。不过心室肥大症可以借由超音波扫描显示出来，所以1~7岁的缅因猫都应该接受这样的体检。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">在缅因猫的基因中有一组DNA码会造成缅因猫的心脏基凝蛋白混杂C型蛋白质（C型蛋白质是一种由维他命K构成的丝氨酸蛋白酵素（丝氨酸蛋白酶），在生物体内关于消化，凝血和补体系统方面扮演重要角色)而在缅因猫的遗传上导致心室肥大症。大约有三分之一的缅因猫在基因检测终究会呈现这种基因突变的阳性反应，虽然这个数据在采样数上有所偏颇。不过缅因猫的这种基因突变似乎不只一种原因。有良心与责任感的培育者或业者应该致力减少心室肥大基因突变的发生，所以培育者与业者应该长期透过超音波心室检查来监控缅因猫的健康，并且应该公布这项讯息使大众得知。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1988年，又发生由于饲料中牛磺酸量不足而导致猫猫心肌炎扩大的事件，当然缅因猫也在劫难逃。自从宠物饲料业界开始增加更多的牛磺酸到猫食中后，猫只的心肌炎就大幅减少了许多。这种心肌炎与先天性的心室肥大症是不能混为一谈的，前者可以透过饮食进行预防与改变，甚至进行医疗；后者是终生无法改变的疾病。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫还有髋关节发育不良以及多囊性肾病变的问题，值得饲养主和培育者注意。缅因猫的齿龈炎与牙周炎也来的比其他猫种频繁。不过不管怎么说，缅因猫是一种身体非常结实、健康，再累也只要睡一觉就能恢复的猫，而且20岁的健康缅因猫比比皆是，大有猫在。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "4",
+                "运动量": "6",
+                "耐热程度": "4",
+                "护家程度": "1",
+                "耐寒程度": "8",
+                "美容程度": "4",
+                "友善程度": "6",
+                "口水程度": "2",
+                "粘人程度": "4",
+                "掉毛程度": "4",
+                "喜叫程度": "4",
+                "可训程度": "6",
+                "饲养难度": "2",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": " Maine Coon"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "美国缅因州"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "6~9",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "9000~10000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,黑色,褐色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M41/M4107.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">训练知识：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫在生活中喜欢磨爪子，这是猫咪的天性。磨爪可以让猫咪从中得到乐趣，同时也是为了方便日常的生活。但是猫咪因为磨爪的习惯，会习惯性的去抓绕家中的墙壁，餐桌，衣柜，地板，将这些完好无损的家具抓摸得坑坑洼洼。因此，在饲养缅因猫的过程中，最好为它准备一个专业的猫爬架，让它在固定的地方磨爪，而不再去伤害其它家具。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">护理毛发：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫是北美自然产生的第一个长毛品种，它身体覆盖着浓厚细腻的毛发。因此在饲养的时候，饲养者要每天为猫咪梳理猫咪，每天至少梳理1次。为猫咪梳理毛发，不仅仅是为了让毛发保持柔顺靓丽，同时还可以有效的清洁猫咪身体上的污垢，检查猫咪身体是否有寄生虫的繁殖，以保证缅因猫身体健康，而免受细菌疾病的伤害。</p><p><br/></p>"
+            },
+            "petBreedId": 309,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M41/M4104.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫体格魁伟，身体强壮，其体重与其他猫相比是超重量级的，最重者可达18千克，一般公猫为7千克以上，母猫也达6千克。与体型相比头显得略小，头成楔形状，双耳大而尖，一双微微上挑的凤眼尤其迷人，长尾巴，毛发蓬松。缅因猫的毛色带有深色的花斑，拖一条蓬松的尾巴和浣熊极为相似，故又称缅因浣熊猫。缅因猫与其他的猫种触感完全不同，毛发非常的柔软，厚密的体毛能够防止风吹雨打，强健柔软的身躯，一抱起来就可以感觉到比外表看起来更显得沉甸甸的厚实感。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M41/M4106.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">虽然缅因猫是大型猫，外表看起来威猛无比，而且全身到处充满了野性美，但是强壮的外表下，对于主人却是最为温驯，最忠心的猫种之一，它们有一个非常迷人的称号——“温柔的巨人”。它们另一个不同寻常的特点便是，它们能发出“喵”和“咕噜咕噜”结合的声音，非常的有趣。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫除了忠心，捕鼠武功高强外，更可以说是最聪明的猫种之一。它有时会用前爪捡起食物或树枝，或自己玩一些小把戏自娱自乐，很容易被驯服，可以象小狗一样教会它们一些本事，带着项圈和皮带跟着主人走路，缅因猫并不怕水，常常会发现在家里玩水龙头上的滴水，玩的不亦乐乎。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M41/M4105.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">和其他猫猫不同的是，缅因猫常常倾向使用自己的前掌去捡拾物品，而到最后学会使用脚掌开衣柜门，打开水龙头，冲马桶，捡小东西。有的缅因猫会“以碗就口”而不是“以口就碗”的方式进餐或饮水。得益于它们的高智商，缅因猫是最容易训练的猫种。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫的叫声非常有趣，听起来像是把一般熟知的“喵”声与“呼噜”声结合在一起，而且也只有它们高兴或者受到惊吓才会发出这种叫声。缅因猫很少单独进食，喜欢跟众猫们或者众人们一起大快朵颐。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">值得注意的是，缅因猫绝对不是那种随便可以抱起来又亲又搂的宠物猫，这当然是因为随着它们成长而倍增的体积原因，所以当缅因猫像其他猫种一样坐在一个人的大腿上的时候，这种幸福的感觉应该还是有那么一点小小的不愉快与遗憾。或者像其他猫一样贴在一个人的胸口上的时候撒娇的时候，被压住的人一定很希望练过健身或者柔道；不过喜欢黏人的缅因猫也不多就是了。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">有的缅因猫喜欢玩水，注意，是玩水，不是戏水。它们会把玩具先丢进装水的碗中然后开始玩，或者干脆把碗打翻。缅因猫也会用爪子在水面上轻轻的划过来滑过去。缅因猫如果实在感到无聊，偶尔就会故意捣蛋。例如故意把桌上的东西推下来，要不然就是把家里冰箱当圣母峰一样，“一步一爪印”，“凡爬过必留下痕迹”地一样攻顶。当攻顶胜利之后，现场的情景就是一只开心的猫与对冰箱感到心痛欲绝的主人。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫也可以表现地像狗一样，尤其最爱玩你丢我捡游戏，就像狗一样，它们会自己带着自己的球，走到想要一起玩耍的人面前放下球，然后等著球被丢出去。缅因猫会陪伴主人做杂务，例如收信、跟狗一起蹓，而且一叫唤就来，就连在野外也不例外。</p><p><br/></p>"
+            },
+            "price": "9000~10000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M41/M4100.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中至大的身型，骨骼粗壮，肌肉发达，胸部宽阔、厚实，雌猫一般比雄猫细小。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头大而圆，颧骨高，呈椭圆形，口呈方形。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳朵：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">大而尖，两耳间距宽，耳内有密生的长饰毛，并与体毛相衬。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">眼睛大，眼角稍吊，为绿色、金黄色或古铜色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">鼻子：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">鼻梁长，稍凹陷。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">下巴：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">下巴强壮结实，与上唇及鼻子成一直线，侧面看去，下巴的轮廓几近正角。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">长度中等，肌肉发达，结实有力。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">足掌：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">脚爪大而圆。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾巴：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">尾长端细，尾毛蓬松，有深色斑。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">披毛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">披毛能适应四季。头部，肩部和腿浓密，丝质，短；而背部，胁部较长，而且裤子明显而毛多。有领圈毛为佳。底层绒毛柔软，细腻；表层毛发光滑，防水，微微油腻。除了巧克力色，淡紫色，重点色，以及芥末色和浅黄褐色外，所有其它颜色都是可以接受的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">毛色：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">毛色以单色、条纹色、混合色系为主，共约30种左右毛色。其中以红色、棕褐色、巧克力色、银白色为多见，有时尚见条状或块状的斑点。</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M41/M4103.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫产于美国缅因州而得名，起源可追溯到1850年。当时的缅因州贸易繁盛，世界各地船只云集此港，各种猫种也随之带到此地。在这些猫种混种交配中，最能适应缅因州的严寒气候，存活下来的那些猫种就是现在缅因猫的祖先。另一种说法是缅因猫的血统是由美国农场猫咪所繁衍而来，是早期安哥拉猫与非纯种短毛猫杂交的品种。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">缅因猫第一次出现于猫展是在1895年的纽约。当时，缅因猫初次登台做了一次漂亮的演出，一举夺标而名噪猫界，成为众所瞩目的焦点。不过后来，声势渐落在波斯猫及暹逻猫等猫之后，缅因猫的人缘开始逐渐下滑。第二次再度展露头脚是在第二次世界大战之后，尤其是60年代，猫迷们还成立缅因猫繁殖者协会及爱猫同好会，到现在为止都还是很受猫迷们的喜爱。1895年在纽约举行的猫展上，它成为美国第一种本土展示猫。</p><p><br/></p>"
+            },
+            "alisName": "缅因猫;缅因库恩猫",
+            "showImage": "http://p2.ycw.com/201609/08/3926a5e97d5923d3843c925faaae5d69",
+            "bodyType": "大型",
+            "woolLength": "长毛",
+            "diseaseIds": "[496]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "4"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "4"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "2"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "4"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "4"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/f6603066590ba514c3934c7e37224ab9",
+            "status": 1,
+            "name": "浣熊猫"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "1",
+                "运动量": "8",
+                "耐热程度": "6",
+                "护家程度": "1",
+                "耐寒程度": "6",
+                "美容程度": "4",
+                "友善程度": "6",
+                "口水程度": "1",
+                "粘人程度": "6",
+                "掉毛程度": "2",
+                "喜叫程度": "1",
+                "可训程度": "6",
+                "饲养难度": "6",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Dragon Li;Chinese Li Hua"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "中国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "7~10",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~12",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "2000~5000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "虎斑,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M65/M6507.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饲养狸花猫要注意的5大养护要点：</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1.成年的狸花猫性格独立，不十分喜欢和人玩耍，但是会对主人特别依赖，会随时在你的视线之内走动。主人要时刻表示对狸花猫的关注，留意它的举动。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">2.喂养狸花猫非常简单，只要非常干净的清水和适合它的口粮，没有什么特殊的需要，这些就是它过快乐生活的必备条件。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">3.狸花猫非常惧怕寒冷的天气，所以狸花猫的猫窝一定要暖和，特别在冬天的时候，要在猫窝中放足够的毛毯，猫窝摆放的位置最好向阳。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">4.狸花猫喜欢运动，主人要适当的带猫猫外出运动，例如每天散步，家里安装猫爬架让猫猫随时爬爬走走。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">5.狸花猫的被毛很漂亮，所以要注重对狸花猫的被毛护理。每天至少要梳毛一次，定期为狸花猫猫猫洗澡、捉跳蚤。如果狸花猫外出了，回来主人一定要给它们做好被毛护理。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">6.狸花猫对环境的改变特别的敏感，所以非不可避免的情况比如打疫苗、去宠物医院等等，最好不要带狸花猫外出。值得注意的是，狸花猫对主人特别的有感情，一般接受不了中途换主人，所以要做到养了就不抛弃。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M65/M6506.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狸花猫天生拥有比一般品系猫种更强的体质，它们健壮结实，一般没有遗传病，基因缺陷也没有，和品系猫相比有一定的野外求生能力，可以说是猫之中拥有最强适应能力和体质的猫。所以饲养中国狸花猫不用像饲养其他品系猫那么谨慎小心，因为它们都有基因缺陷，而中国狸花猫它们的进化是经过上千年了，普通的小毛病是不会把它们困住的，因为有非常高的自我调整能力。平时只要有非常干净的清水与适合它的口粮就可以，这是必备条件，当然如果给它吃更好的那是算好了。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">要养成从小吃猫粮的好习惯，幼猫从4周龄开始就可以吃猫粮，开始用温水浸泡。小猫在10周龄时就可以喂食干猫粮了，可让它自由采食，并备清洁饮水。少食多餐，喂食要注意定时、定量、定点。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">定时：每天在固定的时间喂食，养成良好的吃饭习惯。定量：饭量不要忽多忽少，随着猫咪年龄的增加，在某一段时间里（一般三、四个月的时候）小猫的饭量逐渐增加，到八个月以上就保持稳定了。一般2个月左右的猫一天要吃5~6次以上。小猫三个月以前一般每日喂食四次，如早9点，中午12点，晚6点及10点。三至六月大时，每日喂三次。六个月大以后每日两次，从这时期最好全用猫食干粮，这对它的牙齿和牙龈有好处。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">给小猫吃的奶水不够或没奶时，可饮用专门的宠物奶粉，大一点的时候可在奶粉中加一些米粉。注意要用专用的奶粉，而不是牛奶。</p><p><br/></p>"
+            },
+            "petBreedId": 311,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M65/M6503.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狸花猫成年公猫的体型大，大多在十斤以上，母猫成年后不少于8斤，公猫母猫个体大小差别较大，大约会差出10到15公分。公猫母猫背毛差别也大，公猫粗且硬，母猫相对柔软。躯干长且粗壮，胸膛肌肉发达，背部基本平坦，或肩微有不明显突出，但绝无下塌，腹部无下垂及赘肉。有非常圆的头部，非常宽大的面颊，两只耳朵存在的间距不是很短，耳朵的大小十分的合适，有非常宽广的耳根，很深的耳廓，位于尖端的部分是比较圆滑的。它那非常大的眼睛是很闪亮的，形状是圆杏核的，从黄色、金色到绿色不等的颜色是人们认可的，其中绿色为上品，眼睛在一般情况下会有眼线出现。鼻头有砖红色、深棕和黑色，长有鼻线。四肢同尾巴一样，长度适中，并且强健，具有发达的肌肉。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M65/M6505.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">狸花猫有独立的性格，爱好运动，如果周围的环境出现了改变，那它会表现的十分敏感，它对主人的依赖性非常高，如果给它换了个主人，它的心理会受到伤害。虽然成年猫不十分喜欢和人玩耍了，但它还是会随时在你的视线之内走动。它是含蓄的动物，并且对自己充满自信，对主人非常忠心。</p><p><br/></p>"
+            },
+            "price": "2000~5000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M65/M6501.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">体型较大，躯干长且粗壮，胸膛肌肉发达，背部基本平坦，或肩微有不明显突出，但绝无下塌，腹部无下垂及赘肉。母猫比公猫体格小，骨骼也没有那么粗壮。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头部整体像是被修整过的六角形，长比宽长。耳间有稍突起半圆型头盖骨，与眼睛的同一水平线的位置面部较宽，自内眼角起面部轮廓突然收缩。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">眼睛杏核形，外眼梢略微上吊，眼色以黄，绿，棕为主，其中绿色为上品。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳朵：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">耳朵大小中等或稍偏小，在头部稍中间的位置，二耳间距适中，耳根打开较宽，基本向前方打开，偏向二侧不超过15度。耳朵尖端呈尖的形状，成年雄壮公猫，有时耳尖有一簇明显的长毛。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">下巴：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">下巴结实，下额强壮，下额短于上额，且下巴平直，无凸起，咬合紧密，胡须直且硬，无弯曲现象，外观无软弱感。母猫下额相对不发达，且尖。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">鼻子：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">鼻梁端正隆起而直，大小适中，无过宽或无窄表现，鼻头有砖红色、深棕和黑色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈与头身相连处过度弧度流畅无明显的过渡，颈长约等于鼻长。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">肌肉发达，粗壮，爪宽而大，四肢较粗壮，肌肉感强，具备灵巧感，爪子椭圆形，前爪五指，后爪四趾，爪背从腕端到指尖开始呈淡黄的浅色，腕以上为黑色环状环绕，爪垫为黑色，爪垫缝间毛为黑色，其中以指甲黑者为上品。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾巴：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">尾巴长度短于身体长度且直，粗壮有力，尾毛短，紧贴有光泽，无蓬松散乱现象。整个尾部像被深色环状分割成几段似的，尾尖端没有明显的突然变细现象。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">披毛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">被毛短且硬，有健康油亮光泽，顺贴身体，无蓬松散乱现象。无厚实绒毛。除腹部、下额的淡黄色毛以外，身上的毛都是一根毛上三种颜色，例如呈现棕色部分的毛，其根部为黑色，中段为浅色，毛尖成棕色，而呈黑色毛部分，其根部为浅色，中段为深棕，毛尖成黑色。认可棕色虎斑为品种标准色。并且成年猫，拨开被毛可见皮肤为灰蓝色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">虎斑图纹</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">鱼骨刺虎斑：头部前额有花纹到额顶为全黑色，又从颈开始出显黑色明显分水线（即从头到尾的一条使身体二侧图纹平等分开的背线），清晰。两眼外眼角和两腮有线条沿耳下延伸到肩膀。侧腹为若干完整或不完全连接的竖条纹覆盖，胸部有至少一条不断裂的环纹。四肢覆盖环纹，四爪为黑色，尾巴覆盖黑色环纹，尾尖为黑色，其他颜色为不合格。下腹部为棕黄色，有纵两排横四排以上的细碎豹点。纹路以清楚对比明显为上品。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">斑点纹</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">额头有M形花纹，两眼外眼角和两腮有线条沿耳下延伸到肩膀背部有明显的分水线（即从头到尾的一条使身体二侧图纹平等分开的背线），清晰。从肩以下，侧腹为细碎豹点（这种豹点并非圆形，很是细碎的不规则边沿的圆），或众多完全不链接小纵条或者为玫瑰花瓣形花纹，其他同上。</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M65/M6502.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中国是狸花猫的源产地，它属于自然猫，因为是在千百年中经过许多品种的自然淘汰而保留下来的品种。人们最熟悉的就要算是“狸猫换太子”（宋朝）的故事了，但中国关于狸花这一品种的介绍却远在此之前。2003年，中国长城猫俱乐部向国际申请，将中国狸花猫做为中国特有猫种向世界展示。中国长城猫俱乐部为尊重中国人习惯，公布了狸花猫在国际上的标准名字为：Chinese Lihua。经过七年的努力，于2010年2月8日，CFA休斯顿董事会议上通过狸花猫的注册。狸花猫正式进入CFA，从此中国拥有了自己本土的纯种猫。</p><p><br/></p>"
+            },
+            "alisName": "狸猫;黄狸猫;玳瑁色虎斑猫",
+            "showImage": "http://p2.ycw.com/201609/13/ea63c95078ba46a28daad807439e8819",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "1"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "1"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "6"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "6"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "6"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "8"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/13/c6b2d723aafd38fa08230b333b59e5e4",
+            "status": 1,
+            "name": "黄狸猫"
+        },
+        {
+            "attentionInfo": {
+                "相关疾病": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M21/M2105.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">对于那些希望养一只可以时时抱在手中的猫咪来说，哈瓦那棕猫的确是一个不错的选择，因为它们非常的粘人，非常喜欢活得主人的关注。另外，对于一些搬家担心会给让宠物无法适应的爱猫人士，哈瓦那棕猫也是非常不错的选择，因为它们适应新环境的能力非常的强。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "2",
+                "运动量": "4",
+                "耐热程度": "6",
+                "护家程度": "1",
+                "耐寒程度": "6",
+                "美容程度": "4",
+                "友善程度": "3",
+                "口水程度": "2",
+                "粘人程度": "8",
+                "掉毛程度": "2",
+                "喜叫程度": "6",
+                "可训程度": "8",
+                "饲养难度": "8",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Havana"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "英国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "3.5~7",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~10",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "5000~8000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "黑色,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M21/M2107.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">哈瓦那棕猫是聪明、易喂养、易交流的猫种，基本不需要特别的照顾，在日常的养护过程中，重点注意耳部和尾巴的护理就可以了。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳部的护理</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">用75%的酒精棉球消毒外耳道，再用棉棒蘸取橄榄油或食用菜油，浸润干燥的耳垢，待其软化后，用镊于将耳垢小心地取出，不要将耳道的粘膜碰破，防止感染化脓。一旦猫的外耳道感染化脓，可用棉棒蘸双氧水轻轻地擦洗，反复擦洗至抽出棉棒上不沾有脓迹，再用脱脂棉将耳道内的双氧水吸干。擦洗数次，感染即可痊愈。如果猫的耳垢太多，猫摇头搔耳，应及时请兽医诊治。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾巴的护理</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">猫咪尾巴根处的皮脂腺很发达，能分泌大量的油性物质，所以尾巴很易被弄脏。特别是长毛的品种，脏得更厉害。如果对其置之不理的话，就会发展成皮炎。所以要把脏的地方好好清洗干净。和雌性相比，一般雄性的分泌物较多，特别是末被阉割的雄猫尾巴更脏。清洗方法是：在尾巴脏处抹上香波，然后用软牙刷轻轻刷洗。分泌物很多的尾巴根要特别细心地洗。之后用热水洗去香波，拿毛巾擦去水分，再用吹风机吹干后，扑上香粉。</p><h2 style=\"margin: 10px 0px; padding: 0px; font-weight: normal; font-stretch: normal; font-size: 14px; line-height: 40px; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; color: rgb(153, 153, 153); -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 1903px; height: 40px; position: relative; text-indent: 25px; box-shadow: rgba(0, 0, 0, 0.498039) 0px 1px 1px -1px inset; white-space: normal; background: url(&quot;http://res.ycw.com/app/images/book/icon-title.png&quot;) 15px 50% / auto 12px no-repeat rgb(245, 245, 245);\">养护知识</h2><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">家里有哈瓦那棕猫的朋友们可能都在为一件事情发愁，那就是为哈瓦那棕猫洗澡，活泼好动的哈瓦那棕猫在洗澡的时候总是乱动，洗澡的顺序到底是什么，要怎么洗才能洗干净呢？</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1.水温不能太低或太高，以不烫手(40~50℃)为宜；室内保持温暖，防止猫着凉引起感冒。<br/>2.先在水中滴一些浴液，再把哈瓦那棕猫放入浴盆。先用手泼水把猫背部淋湿，放上一些浴液，从猫的头后部、颈、背尾、腹部、四肢的顺序进行搓洗。动作要迅速，尽可能在短时间内完成。注意不要让水灌入猫的眼内和耳朵内，以免引起猫的反感，可先在猫耳中塞上脱脂棉球，洗澡后才取出。<br/>3.洗完了如果是冬天一定要吹干，短毛的夏天可让它自然干。如果你的猫猫怕风筒，用大毛巾把它包住，把水擦干后把它放在温暖的地方。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M21/M2106.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">哈瓦那棕猫是出了名的很好喂养的猫猫，但是都绕不开挑选合适猫粮这个问题，怎么给哈瓦那棕猫挑选适合它的猫粮呢？</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1.看成分中的头五位最高成分，如果有肉类或家禽副产品、谷物占大多数(比如有3项)、肉类没有指明为何种肉类、防腐剂为BHA/BHT或Ethozyquin的猫粮不推荐购买。<br/>2.尽量选购一些大厂及有信誉的公司出品，道理是这样，但是，是否大公司出品的猫粮一定是健康的猫粮，却未必为事实，所以，猫家长们应该以品质为考量点。<br/>3.市面上的猫干粮，有些还会因应猫猫不同需要而生产，如：去毛球配方、肠胃敏感配方、皮肤敏感配方、牙肉健康配方、防尿石配方、长毛波斯猫配方……等等不同配方，猫奴可以因应哈瓦那棕猫不同需要而选购。<br/>4.一般的干粮的存放期都是1~2年，请小心看清楚包装袋上的最后食用日期，开封时顺便嗅一下干粮的味道，如发觉味道有异常或不新鲜请勿给猫喂食，可要求厂商退换。<br/>5.如果想替哈瓦那棕猫更换猫粮的牌子，不可乱心急地一次过转换，先混合三分之一的新猫量跟三分之二的旧猫粮，然后每天逐渐增加新猫量的比例，慢慢过渡至完全取代旧猫量为止。这样做是为了猫猫的肠胃着想，否则一次过转换新猫粮可能会带来肠胃不适(猫猫的肠胃适应了旧有猫粮)。<br/>6.不同年龄的猫咪需要不同的猫粮。哈瓦那棕猫需要各种营养，矿物质也是其中很重要的一族。钙和磷对骨骼的发育有着很重要的作用。随着猫咪年龄的增加，食物中的钙磷含量应该逐渐减低。尤其是磷的含量更是幼年猫&gt;成年猫&gt;老年猫。这是因为磷的代谢主要是在肾脏中完成的，猫咪年龄越大，肾脏对磷的代谢能力越低，这样一来，如果长期给成年猫甚至老年猫喂食幼猫粮，会容易引起肾脏问题，如肾衰。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">另外，食物中钠的含量也应该是随着哈瓦那棕猫年龄的增加而减低。猫咪的年龄越大，发生心脏疾病的几率就越高，钠离子对心脏的负担比较大，为了减轻心脏的负担，应随着猫咪年龄的增加减少食物中的钠的含量。</p><p><br/></p>"
+            },
+            "petBreedId": 312,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M21/M2103.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">哈瓦那棕猫体毛、胡须、鼻子都是褐色的，与古巴著名的哈瓦那雪茄烟颜色一样，因而取名为哈瓦那棕猫，意为雪茄烟色猫。体形苗条，柔软，肌肉有跃跃跳动的感觉；四肢细长，前肢比后肢略短；脚爪小，为椭圆形；头部呈楔形，鼻子短直，眼睛杏仁形，吊眼，为绿色；耳朵很大，稍向前倾，其前端略带圆状，尾巴中等长度呈锥形。被毛为很短而有光泽，毛色为均匀的鲜栗褐色。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M21/M2104.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">哈瓦那棕猫性格非常的粘人，它们非常喜欢家庭生活，渴望得到主人不断地关注。如果你冷落了它们，它们可是不会轻易放过你的——总在你面前出现，然后轻柔地叫唤或者直接卖萌，它们这么做为的只是让你来关注一下自己。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">从它们的这种行为中，我们也不难发现，哈瓦那棕猫其实也是一种非常聪明的猫咪，所以基本的生活训练对它们来说完全没难度。除了粘人、聪明外，哈瓦那猫还很活泼，如果有养一只哈瓦那棕猫，你就会发现家中的气氛不再沉闷，而且它们喜欢跟主人一起玩，所以如果你有时间，那么就多陪它们玩个游戏，它们一定会越来越依赖你。如果你长时间不在家，那么最好给它们准备好玩具和猫爬架，这样它们也不会因为无聊而苦闷。</p><p><br/></p>"
+            },
+            "price": "5000~8000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M21/M2110.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中等体形，体重，身材纤细，修长。肌肉结实。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">长大于宽，英国版：东方型，没有脸颊和下巴分界，没有中断。美国版：微微呈三角形，脸颊和下巴分界及中断明显。头骨微圆。成年雄猫允许有双下巴。长而有棱角的吻部。有力，棱角分明而坚实的下巴。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳朵：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">大，尖部呈圆形。间距大。警觉时朝前倾斜。毛发很少，尤其是耳内。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">大而呈椭圆形，而不是圆形。靠近鼻梁。颜色：任何深浅的绿色。1岁前的颜色改变是可以接受的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">粗细和长度中等。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">四肢细长，前肢比后肢略短点。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾巴：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">长度中等，基部不太粗，向尖部逐渐变细。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">毛色：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">巧克力：栗棕色，褐色棕单色。棕色髭毛和鼻头，粉红色足垫。淡紫：褐灰色带粉红强调色。小猫出生时有胎痣，长到1岁时消失。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">被毛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">短，丝质，细腻，平复地贴在身体表面。底层绒毛非常厚。淡紫色被毛允许是较长的绒毛状被毛。</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M21/M2102.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">哈瓦那棕猫是由英国人工培育出来的品种，但真正的起源地可能是在东南亚一带，19世纪作为暹罗猫的一个分支流派来到英国。1894年，MasterTimkeyBrown首次出现在猫展上，它被形容为“披着一身茶色的光滑皮毛，有着蓝绿眼睛的暹罗猫”。许多人相信全棕色的猫可以保护主人，使之免于厄运，因此一直闻名。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1930年，哈瓦那棕猫形成了一个全棕色的品种，为了使这种猫在棕色的基础上得到更加浓艳、温暖的赤褐色，英国繁育家经过各种组合试验，用带有巧克力毛色基因、身上有巧克力色花片的暹罗猫与英国黑色短毛猫雌猫交配，得到了改变颜色的后代。1953年后又进一步用它和俄罗斯蓝猫、暹罗猫等猫种交配，最后培育出今天的哈瓦那棕猫。</p><p><br/></p>"
+            },
+            "alisName": "棕猫;哈瓦那",
+            "showImage": "http://p2.ycw.com/201609/08/5cfa292e5710c9437a21ca61db6825db",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "3"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "8"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "8"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "6"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "6"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "4"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "8"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/d4f26b55a22fb76c52e79f00f2b7e710",
+            "status": 1,
+            "name": "哈瓦那棕猫"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "1",
+                "运动量": "8",
+                "耐热程度": "4",
+                "护家程度": "1",
+                "耐寒程度": "6",
+                "美容程度": "2",
+                "友善程度": "6",
+                "口水程度": "1",
+                "粘人程度": "6",
+                "掉毛程度": "2",
+                "喜叫程度": "4",
+                "可训程度": "6",
+                "饲养难度": "6",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Abyssinian"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "阿比西尼亚(今埃塞俄比亚)"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "4~7.5",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~12",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "6000~9000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "褐色,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M110.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饲养阿比西尼亚猫，要注意以下几个养护要点：</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">1.饲养阿比西尼亚猫前一定要先规划好它们的活动空间，和其它喵咪不同的是，阿比西尼亚猫喜欢宽敞的房间，如果你把它们放到狭小的空间中，它们是会很生气的。<br/>2.给它们准备猫爬架，因为阿比西尼亚猫喜欢爬树，有人将它们称为攀岩高手，一个有趣的猫爬架绝对可以让它们享受生活。由于这种好动的性格，主人在养护猫咪的过程中要注意把家里的易碎物品收放好。<br/>3.如果你在外时间较长，一定要在回家后勤跟猫咪玩耍，否则你在它们心目中的地位会逐渐下降。如果主人长期冷落它们，还可能会患上“抑郁症”。<br/>4.阿比西尼亚猫是短毛猫，因此主人不必经常为它们洗澡，一般情况下，每月洗一次澡即可。但给它们洗澡要特别注意以下的事项：<br/>A.水温不能太低或太高，以不烫手（40~50℃）为宜；室内保持温暖，防止猫着凉引起感冒。<br/>B.所用的洗涤剂刺激性不能太大，以免刺激皮肤；为防止洗澡水进入眼睛，在洗澡前，把猫的眼睛滴上油性眼药水，以保护眼睛。<br/>C.猫健康状态不佳时不宜洗澡，6月龄以内的小猫容易得病，一般不要洗澡。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M105.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫在饮食上有比较多的禁忌，出于对健康的考虑，记住不要给它们喂的食物，有时主人很注意，但小孩子会喂，所以全家都得小心。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">洋葱：含有会破坏猫血红细胞的物质，喂养时要特别注意不要误加。<br/>鱼骨、鸡骨：猫吃东西是不咀嚼也是直接吞下去的，鸡骨和鱼骨等大骨头可能会刺伤猫的食道和胃，喂养猫猫之前应该剔除。<br/>生肉：因为可能有弓形虫，应该煮熟后再喂给猫猫吃。<br/>墨鱼、章鱼：猫猫吃完后不易消化。<br/>鲍鱼、海螺：有可能会诱发光线过敏症和易得皮炎，尤其对猫的耳朵会更有影响。<br/>刺激食物：如胡椒、芥末、辣油。<br/>太冷和太热食物：猫猫的舌头很怕热，身体对太冷太热的食物也会很排斥。<br/>内脏：内脏一般都含有维生素A，会损害猫猫的骨节。</p><p><br/></p>",
+                "驯养知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饲养阿比西尼亚猫比较常见的一个问题就是掉毛严重。主要原因一般是季节性换毛、猫藓引起、盐分摄入过量及营养不良。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">季节性换毛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">当春夏到来时，阿比西尼亚猫要脱去绒毛；当秋冬来临时，阿比西尼亚猫要换上厚厚的绒毛。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">猫癣引起：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">如果一周岁以内的阿比西尼亚猫和八周岁以上的阿比西尼亚猫忽然出现大量脱毛，且毛根部有皮屑，毛质脆弱一拔就掉，甚至出现裸露皮肤的现象，就要注意了，阿比西尼亚猫是患上了猫癣，需要及时治疗。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">盐分摄入过量：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">盐是阿比西尼亚猫食物中的禁忌之一。阿比西尼亚猫对盐的需求量极少，而阿比西尼亚猫的味觉较差，如果在饮食上不注意，往往会不知不觉的摄入过多的盐分，过多的盐分除了会造成阿比西尼亚猫的肾脏的负担，也会造成阿比西尼亚猫毛发干枯、掉毛等现象。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">营养不良：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">肠胃功能较弱的阿比西尼亚猫容易出现因为营养不良而掉毛的现象，如果阿比西尼亚猫出现毛发干枯没有光泽，毛发易断易脱落，有可能就是阿比西尼亚猫出现了营养不良的问题，主人要考虑给猫猫补充营养。</p><p><br/></p>"
+            },
+            "petBreedId": 307,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫属于中等体形的猫，在北美洲及欧洲各有不同的体型发展，如在北美洲发展的阿比西尼亚猫头形比较圆，而欧洲的品种嘴比较细尖。阿比西尼亚猫身躯柔软灵活，有着楔形的脸蛋、大而尖的耳朵、呈杏仁状的双眼，眼睛的颜色为琥珀色、浅褐色或是绿色，眼睛的周围并有一圈深色的色环，像是画了眼线一样。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">毛色：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">淡红色(Ruddy)：底毛橙啡色，毛尖则为深啡或黑色；<br/>红色(Red)：底毛红色，毛尖朱古力色；<br/>蓝色(Blue)：底毛啡黄色，毛尖为深蓝灰色；<br/>淡黄褐色(Fawn)：底毛带红的啡黄色，毛尖为深棕色。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫的毛色并非单一毛色，它们每一根毛都具有两到三个色带，使得其被毛出现相当美丽的明暗光泽变化，它们的毛质非常细致柔软，虽然是短毛猫种，但是中等长度的毛发摸起来相当柔顺，其额头则有M字形的斑纹装饰之。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头形精巧，为稍带圆的三角形。鼻梁稍隆，嘴短而坚实，齿为剪式咬合。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">耳大而直立，基部宽，耳廓边缘很薄，耳端稍尖并前倾。耳毛短而密，红褐色种毛尖黑色或黑褐色；红色种毛尖呈巧克力色。耳内长有饰毛。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">眼大呈杏仁形，略吊眼梢；眼缘黑色，周围为褐色毛覆盖。眼色为绿、黄、淡褐等色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">四肢细长，脚爪纤巧，与圆形而修长的身材协调一致。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">趾：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">趾为小而坚实的卵形，立起时，能看到用爪尖站起来。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">尾长而尖，呈锥形，尾根部粗大。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">CFA对阿比西尼亚猫的评分标准如下：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头部25分；嘴6分；头颅6分；耳朵7分；眼形6分；身体30分；身躯15分；腿及脚10分；尾巴5分；毛发、毛质10分；颜色35分；毛色15分；毛发条纹15分；眼色5分。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M104.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">聪慧灵敏</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫在纯种猫中绝对是数一数二的聪明，它们智商都非常高，活动能力也很强，因为其聪慧和耐力而被形容为猫中的边境牧羊犬（犬类中智商综合第一）。这种聪明可能无法直接体现在算术或者是杂技表演上，但你会发现它们很容易和你沟通，反应也非常快。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">骄傲自信</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫是非常古老的猫种，也许是因为它们流淌着最原始的血液，把猫骄傲自信的特性表现得淋漓尽致。它是宠物，但你在疼爱的同时要对它保持尊重。它就像是有着良好教养的贵族，优雅的穿梭在你房间里。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">顽皮好动</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫的活泼也是出了名的，给它们任何小玩具，它们都会很开心的自娱自乐，即使什么都不给它们也能找到乐趣。因为它们玩耍时的动作调皮可爱又滑稽，它们又被成为“猫中小丑”。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">温顺忠诚</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫性格非常的温顺，喜欢和人相处不怕生，特别是对主人非常的忠诚，被呼唤的时候会以最快的速度回到你的身边。不过，阿比西尼亚猫虽然喜欢和人相处，但在某些方面也是非常有个性的，比如它们喜欢被人抚摸但却非常不喜欢被人抱在怀里。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M107.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫热衷独居，喜欢宽敞的空间，不喜欢限制在狭小的地方，还喜欢晒太阳、爬树和游泳。它们叫声小且非常悦耳，就算当它处于发情的时期里，也不会出现十分大的叫声，无论你住在公寓还是家属楼都可以放心的饲养。更值得一提的是，阿比西尼亚猫步态轻盈，行动敏捷，行走时不落半点声音，它们甚至能用爪尖走路。如果有对陌生人出现在它的身边，它会显得非常的害怕，它还有一个和别的猫不同的特点，就是讨厌人们把它抱起来玩。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫每次产崽大概是在4只左右，刚出生的小猫是非常小的，它的发育是比较缓慢的，刚开始的时候，毛色是稍微呈黑色的，到后来就一点点的变浅了。</p><p><br/></p>"
+            },
+            "price": "6000~9000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M103.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫属于中等体形的猫，在北美洲及欧洲各有不同的体型发展，如在北美洲发展的阿比西尼亚猫头形比较圆，而欧洲的品种嘴比较细尖。阿比西尼亚猫身躯柔软灵活，有着楔形的脸蛋、大而尖的耳朵、呈杏仁状的双眼，眼睛的颜色为琥珀色、浅褐色或是绿色，眼睛的周围并有一圈深色的色环，像是画了眼线一样。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">毛色：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">淡红色(Ruddy)：底毛橙啡色，毛尖则为深啡或黑色；<br/>红色(Red)：底毛红色，毛尖朱古力色；<br/>蓝色(Blue)：底毛啡黄色，毛尖为深蓝灰色；<br/>淡黄褐色(Fawn)：底毛带红的啡黄色，毛尖为深棕色。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫的毛色并非单一毛色，它们每一根毛都具有两到三个色带，使得其被毛出现相当美丽的明暗光泽变化，它们的毛质非常细致柔软，虽然是短毛猫种，但是中等长度的毛发摸起来相当柔顺，其额头则有M字形的斑纹装饰之。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头形精巧，为稍带圆的三角形。鼻梁稍隆，嘴短而坚实，齿为剪式咬合。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">耳大而直立，基部宽，耳廓边缘很薄，耳端稍尖并前倾。耳毛短而密，红褐色种毛尖黑色或黑褐色；红色种毛尖呈巧克力色。耳内长有饰毛。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">眼大呈杏仁形，略吊眼梢；眼缘黑色，周围为褐色毛覆盖。眼色为绿、黄、淡褐等色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">四肢细长，脚爪纤巧，与圆形而修长的身材协调一致。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">趾：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">趾为小而坚实的卵形，立起时，能看到用爪尖站起来。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">尾长而尖，呈锥形，尾根部粗大。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">CFA对阿比西尼亚猫的评分标准如下：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">头部25分；嘴6分；头颅6分；耳朵7分；眼形6分；身体30分；身躯15分；腿及脚10分；尾巴5分；毛发、毛质10分；颜色35分；毛色15分；毛发条纹15分；眼色5分。</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M102.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">阿比西尼亚猫又称埃塞俄比亚猫，因其毛色同野兔相像，英国人亦称它为兔猫或球猫。阿比西尼亚猫是人类最早饲喂的猫咪之一，关于它的历史起源至今仍然争论不休。在保存下来的古埃及神猫的木乃伊中，有一种血红色的猫与它十分相像，所以许多人认为它是远古埃及猫的直系后代。但由于阿比西尼亚猫今天仍然保留着所有家猫的祖先——非洲野猫的丛林野性本色，且它的整体外形、毛色、直立耳均同非洲山猫接近，也有人认为它源于非洲山猫。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">大约在1860年，一位英国军官把数十只阿比西尼亚猫从阿比西尼亚（今埃塞俄比亚）带回大不列颠，接着便对这种猫进行了精心的培育，使其迅速地传播开来。1929年确立了阿比西尼亚猫的品种标准，还相继成立了阿比西尼亚猫爱好者俱乐部。第二次世界大战期间以及1960年和1970年，由于猫白血病的盛行，阿比西尼亚猫在英国几乎绝迹。后来爱猫人士又从外国引进并精心培育，才有了今天的阿比西尼亚猫。</p><p><br/></p>"
+            },
+            "alisName": "兔猫;埃塞俄比亚猫",
+            "showImage": "http://p2.ycw.com/201609/13/f6b9339d99359a053bd0f46b8ac7e1a7",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "4"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "1"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "2"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "6"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "6"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "4"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "8"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/13/46c77efff8085816f95dc25d39060196",
+            "status": 1,
+            "name": "红阿比"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "1",
+                "运动量": "1",
+                "耐热程度": "1",
+                "护家程度": "1",
+                "耐寒程度": "1",
+                "美容程度": "1",
+                "友善程度": "1",
+                "口水程度": "1",
+                "粘人程度": "1",
+                "掉毛程度": "1",
+                "喜叫程度": "1",
+                "可训程度": "1",
+                "饲养难度": "1",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Toyger"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "美国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "3~6.8",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "8000~15000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "黑色,褐色,虎斑"
+                }
+            ],
+            "feedInfo": {},
+            "petBreedId": 310,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M53/M5303.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">虎皮猫由杂交而来，有着橘色和黑色相间的条纹，体态魁梧，盛气凌人，宛如老虎。身体强壮，头大而圆。鼻宽大，在鼻梁上有条纹状花纹。耳朵小，稍带圆形。眼睛圆，面颊丰满，面部有细斑点。胸部结实，四肢匀称，尾根粗，尖端细，毛短而柔软，呈现斑纹和圆状花斑。沿脊柱有三条深色斑纹，肩膀有蝴蝶状花纹，侧腹部有连续细条纹。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M53/M5307.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">虽然虎皮猫外表凶悍，但是性格和普通家猫没什么两样，它们同样性情温顺，酷爱猫食。它们行动矫捷，喜欢玩毛线球。唯一不同的是，虎皮猫擅长戏水，非常特殊，而这正是普通家猫的弱项。</p><p><br/></p>"
+            },
+            "price": "8000~15000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M53/M5300.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中等长度，轮廓圆润，不是块状，肌肉结实。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中型，歪斜，椭圆形。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中等大小，间距宽。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">口吻：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">宽而深，圆润的轮廓肌肉。嘴和下巴小。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳朵：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">小而圆，短。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">鼻子：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">长，鼻梁宽。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中等长度，结实有力。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾巴：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">很长，不厚。锥度为轻微钝，圆形的尖端。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">披毛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">被毛短，均匀。标志为黑褐色，甚至棕褐色，对比必须是极端的和独特的，给人一种清晰，边缘尖锐的感觉。</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M53/M5302.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">虎皮猫又称叙利亚大理石猫、虎猫，是由美国宠物爱好者朱迪•萨金经过15年尝试培育而成。1980年，美国宠物爱好者朱迪•萨金发现自己的两只斑猫拥有非常独特的斑纹。于是，她从印度引进了另一种带有相似条纹的雄猫与自己的斑猫进行交配，出生的混血猫则拥有更为明显、美丽的虎纹斑，这就是最早的虎皮猫。1995年，朱迪对培育出的新品种终感满意，开始把独创的虎皮猫上市出售。虎皮猫很快在全球拥有了大批拥趸。后来，又有培育者引入了孟加拉猫血统，使得虎皮猫外表看起来更具野性，体形更大。1993年，国际猫协会（TICA）接受了虎皮猫的注册。</p><p><br/></p>"
+            },
+            "alisName": "叙利亚大理石猫;玩具虎猫",
+            "showImage": "http://p2.ycw.com/201609/13/0cdcc2870cfd35d07ad9ac5a7b82d49a",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "1"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "1"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "1"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "1"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "1"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "1"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "1"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "1"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "1"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "1"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/13/1d595c24350b9d46f58ce41ca21df5d9",
+            "status": 1,
+            "name": "虎皮猫"
+        },
+        {
+            "attentionInfo": {
+                "相关疾病": "<p><span style=\"font-family: &quot;Microsoft YaHei&quot;; line-height: 26px;\">猫若长期食用含过量鲔鱼的饮食，可能会造成黄色脂肪症，该病的病因是食物中维生素Ｅ的含量不足，形成一种黄色物质沉积在体内脂肪，该疾病会产生一种疼痛性的发炎反应。 要预防猫发生该病的最关键便是给猫营养完整而均衡的食粮，同时避免喂饲过量的鲔鱼。</span><span style=\"font-family: &quot;Microsoft YaHei&quot;; line-height: 26px;\">&nbsp;此外，许多成猫都有乳糖不耐症，它们没有乳糖酵素，所以无法消化牛奶中的乳糖，因而在喝了牛奶后数小时会发生</span><a href=\"http://www.boqii.com/tag/159/\" target=\"_blank\" style=\"color: rgb(0, 0, 0); text-decoration: none; font-family: &quot;Microsoft YaHei&quot;; line-height: 26px; white-space: normal; border-bottom: 1px dotted rgb(254, 115, 12);\">软便</a><span style=\"font-family: &quot;Microsoft YaHei&quot;; line-height: 26px;\">或下痢的情形。&nbsp;</span></p>"
+            },
+            "details": {
+                "体味程度": "1",
+                "运动量": "9",
+                "耐热程度": "2",
+                "护家程度": "1",
+                "耐寒程度": "8",
+                "美容程度": "2",
+                "友善程度": "10",
+                "口水程度": "1",
+                "粘人程度": "10",
+                "掉毛程度": "2",
+                "喜叫程度": "4",
+                "可训程度": "8",
+                "饲养难度": "10",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "American Shorthair"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "美国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "4~6",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "4000~5000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,虎斑,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M34/M3409.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">虽然说美国短毛猫的毛发短，和其他长毛动物一样它也需要主人们认真仔细的梳理，作为美国短毛猫的主人最好每天都要定时为其梳理毛发，时间可以是十分钟也可以是十五分钟。梳理毛发不仅能保证美国短毛猫毛发的干净以及让其变得更加亮泽健康，还能促进美国短毛猫的血液循环，降低皮肤病的感染几率。在梳理毛发期间还能很好的促进主人和美国短毛猫的感情。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M34/M3408.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">美国短毛猫出生后10个月以内的要喂它幼猫猫粮，当它到达3个月后，最好每个星期给它吃一些肉类，如牛肉、鸡肉等。猫科动物应保证要有较多的肉类供给量量，食物中应该保证含有20%的蛋白质。有时候吃单纯的肉类会导致小猫的消化不良，这是相对于三个月以下的小猫。因为它体内的消化酶较少，会因为消化不好而拉稀，如果这样可以喂一些调节肠胃的药，如酵母片或乳酶生等。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">喂3个月以内的小猫猫粮时应用专用牛奶或温水把猫粮泡软，这样更容易消化，当它长到3个月后就不能喂太软的食物，那样对猫牙齿的健康有影响，喂猫吃猫粮同时也要保证水分的充足，记住要喂凉白开，不要生水。除了专业的猫粮之外还需要给其准备新鲜的蔬菜等。年幼以及老年时期的美国短毛猫需要主人们的特别照顾，在饲养这类猫咪时主人们最好在食物中添加适量的维生素等营养性物质，\u007f以确保猫猫的生理需求。</p><p><br/></p>"
+            },
+            "petBreedId": 308,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M34/M3403.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">美国短毛猫属工作猫种，它有着非常结实的体型，粗大的骨骼，肌肉也是很发达，结实胸部肌肉，被毛比较厚，能耐寒冷，身形匀称，没有多余的赘肉，雄性猫比雌性猫体型较大，侧面看，身体可分成三等分：胸骨至肘；后腿前端至臀部眼端，尾巴长度，应与肩胛骨至尾巴连接身体部分的长度相同。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M34/M3405.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">美国短毛猫性格乖巧，通人性、重感情。只要在平时饲养的时候对它温柔有爱，它会对饲养主人的一家都非常亲近，家里有小朋友的也不必担心，美国短毛猫对小朋友也是非常友好的。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">也许是继承了父辈们在货船上捕捉老鼠的技能，美国短毛猫非常喜欢运动，你会发现它们就连吃奶的时候也喜欢不断变换位置来活动活动，你很少看到它们能安安静静的坐着。因此，经常陪它们一起玩耍，是和它们培养感情最好的方式。它们不仅喜欢运动，还有运动员的优秀的素质和独立温和的个性，让饲养它们的人觉得轻松而愉快，即使你不能时刻陪着它们玩耍，它们也能自娱自乐，不会因此变得闷闷不乐。主人记得要给它们准备一个大大的猫爬架，和定制的运动玩具。</p><p><br/></p>"
+            },
+            "price": "4000~5000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M34/M3404.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">体型中等，骨骼粗大，肌肉发达，结实胸部肌肉。身形匀称，没有多余的赘肉，雄性猫比雌性猫体型较大。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">大呈椭圆形状，双颊丰满，且流露可爱和坦率的表情，额头M字部位花样。额头由头顶至颈项，形成凸形且平滑的线条，从正面看，头顶平缓。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳朵：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">部分中等长度，耳尖较圆，基部宽阔，双耳距离，应是双眼距离的一半。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">大且阔，微微上扬，上眼睑像半粒杏仁，下眼睑则形成图形曲线，双眼距离应至少有一只眼睛的宽度，眼睛明亮清晰，眼神机警，眼色依披毛颜色而不同。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前额：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">由侧面看，前额平滑，头至颈部呈现略为隆起的曲线；由正面看。两耳间并无明显的圆顶。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">鼻子：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中等长度，宽度与长度相当，由侧面看，鼻梁到前额呈现略为下凹的曲线。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">毛色：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">超过一百种，而CFA承认可的颜色共62种，其中包括白色、黑色、蓝色、红色、棕虎斑、银虎斑、红虎斑、蓝虎斑、虎斑补丁、双色、玳瑁色等。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">披毛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">短且厚，毛发较硬，披毛浓密，以抵御水气，寒冷和表皮损伤。</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/M34/M3402.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">关于美国短毛猫的历史起源，有两种说法。第一种认为该猫是美洲本土的土著猫，另一种则认为它是17世纪从欧洲随美国移民后带来，经过改良而成的。后一种说法是因为有纪录显示在“5月花号”上饲养了几只猫，它们的职责就是捕捉船上那些偷食物及传播病菌的老鼠。经过不断的繁殖，最终建立了土生的北美洲短毛猫。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">20世纪初，由于有一些外国的猫品种被介绍到美国，美国短毛猫的土生血统便开始被削弱，与长毛猫及暹罗猫交配后所得的小猫相比，有着多种不同长度的披毛，身形，颜色及性情。而那些钟情于土生美国短毛猫的人，他们唯有开始选择性地繁殖以保留美国短毛猫的特征，早期的繁殖者成功地获得完美的斑纹，颜色，亦保留了强壮的形态，美丽的面孔及可爱的性格。起初这个猫种被注册为“短毛猫”，1966年改为“美国短毛家猫”。这个猫种也是CFA在初始做猫猫品种认证时，最先得到人证的五个品种之一。</p><p><br/></p>"
+            },
+            "alisName": "美国短毛猫",
+            "showImage": "http://p2.ycw.com/201609/08/e6ea5723d62e41e2f57eae9807812fd2",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "10"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "4"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "1"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "2"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "10"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "10"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "2"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "9"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "8"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/dad8034f9fb8bf206c1aadcaf44b30e6",
+            "status": 1,
+            "name": "虎豹猫"
+        }
+    ],
+    "pageSize": 8,
+    "count": 109,
+    "total": 14
+}

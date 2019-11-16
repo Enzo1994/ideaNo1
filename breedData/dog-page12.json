@@ -1,0 +1,1314 @@
+{
+    "pageNum": 12,
+    "petRaceId": 1,
+    "list": [
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "4",
+                "运动量": "6",
+                "耐热程度": "7",
+                "护家程度": "4",
+                "耐寒程度": "8",
+                "美容程度": "4",
+                "友善程度": "6",
+                "口水程度": "6",
+                "粘人程度": "2",
+                "掉毛程度": "4",
+                "喜叫程度": "4",
+                "可训程度": "1",
+                "饲养难度": "3",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "G",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Wire-haired Pointing Griffon"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "100"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "法国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "23~27",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "56~61",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "灰色,红棕色,咖啡色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,猎枪犬"
+                }
+            ],
+            "feedInfo": {
+                "驯养知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G170/170-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">刚来到你家中的狗狗，或许完全不能领会你的口令或是观察你的脸色，但是他可以分清楚你声音的抑扬顿挫。你可以用比较严厉的语气告诉他在家中大小便是不对的，并且在他还没解放之前，将他带到你希望他大小便的地点。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">以后他每每在指定地点排泄，你就应该以正面语气鼓励他，说声：好棒～～喔，或是给他一点口欲上的满足。重复不断的严厉语气制止，加上称赞语气的鼓励，他便会记住哪里可以大小便，哪里不行。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">不过别忘了狗狗是用联想式记忆法去学习，所以以上的制止与鼓励都必须在狗狗做出动作的第一时间进行。而且记忆学习是需要花些时间培养，不是一两天就能做到，主人们要有耐心喔！ 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">室内训练省时省事 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">不管是新生的狗狗，还是成犬，当他们来到一个新的环境，都需要经过大小便训练。而且这项训练，应该从狗狗居住的室内环境开始。包括帮他安排一个舒适的窝，以及给予他一个固定的如厕地点。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">其中幼犬的训练会比较困难，有如新生儿需要包尿布是同样的道理。幼犬因为器官还未发育完成，在玩耍活动的时候，大小便更是控制不住，再加上你与他的沟通默契尚未建立，所以，持续耐心爱心的教导与鼓励，是最好的教育方法。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">如果你长时间不在家，而且无法固定带狗狗外出散步，那么你可以选择让他在家中较易清理的地方上厕所。室内的大小便训练，只需要简单的辅助工具——报纸，就可以顺利完成。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">散步时顺便大小便 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">主人每天固定带狗狗出门散步的时间，也是训练狗狗大小便的绝佳时机。因为狗狗在活动的过程当中，也会比较想要上厕所。而且狗狗天生喜欢占地盘的性格，更迫不及待渴望解放。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">只要你能够在每天同一时间固定带他出去散步，他很自然而然就会习惯在外面解决他的大小便问题。狗狗在外随意大小便，虽然方便，但是最重要的收尾工作一定要确实做到。不管你用什么方法，什么器材都好，别忘记在狗狗解放完毕之后，将大便拾起带走，留给大家一个干净的道路环境。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">家家都有天才狗宝贝 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">一个大小便问题真的说大不大，说小不小，但是，因为小狗突然造反到处乱尿，导致全家人仰马翻，甚至弃养的情形也时有所闻。很多主人不知道狗狗的大小便问题可以用教学方法解决，一味地用打骂的方式对付，结果打到狗狗疑神疑鬼，甚至个性丕变都还学不会。 　　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">别以为别人家的狗是天才，所以大小便都会自己解决。看完本篇的教学报导，是不是突然惊觉，狗狗还真的蛮聪明，只是我们人类太笨了。只要花爱心和耐心训练，家家都有天才狗宝贝喔！</p><p><br/></p>"
+            },
+            "petBreedId": 93,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G170/170-9.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">身高 56-61厘米</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">体重 23-27公斤</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">头大而长，脸上的特征是丛状的眉毛和浓密的长须。眼睛大，蓝色或黄色，神情活泼而温和。耳朵下垂。颈相当长，没有皮肉下垂。尾巴被剪短，保持水平姿势。四肢壮健，肌肉发达，与体型相比较短，前腿直而有力，后肢结实健壮。双层毛，外毛粗糙坚硬，像雄野猪毛，给人产生蓬乱的印象，下层绒毛厚而较软。毛色有铁灰色间栗色斑纹，或白色间栗色、或纯栗色、白色。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G170/170-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">　　尺寸：刚毛指示格里芬犬的肩高是22至24英寸(雄性)；20至22英寸(雌性)。十分标准的尺寸对它来说是非常关键的。严重缺陷：有过大的体型。比例：刚毛指示格里芬犬的体长(由肩胛骨最前端至臀部最后端的长度)和肩高(肩胛骨最高处至地面的垂直长度)相比是要稍微大一些的，两者之间大约有10：9的比例。刚毛指示格里芬犬是不可以出现正方形体形的。体质：它有非常合适的体质，可以看出它是可以在任何环境及地形下工作的猎犬。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">头部：刚毛指示格里芬犬有一个和全身的比例搭配的非常的和谐的头部。头部的宽度是中等的，鼻尖与止部之间的长度等于止部与后枕骨之间的长度。它有适当的呈圆拱形的脑袋顶端。口吻侧面和头部侧面的形状是正方形的。刚毛指示格里芬犬有稍微向上突起的止部和后枕骨。它的眉毛和胡须一定要非常的多，要形成一种表情是十分和善的效果。它有非常大的眼睛，是睁开的，稍微可以算是圆形的，椭圆是不可以出现的。它拥有非常警觉的眼神，是十分和善的，可以看出是很灵敏、聪明的。它拥有深浅不一的黄色及褐色的眼睛。是不可以看见瞬膜的，而且不可以有向外突出的眼睛。它有大小是中等的耳朵，十分平坦的向下坠着，和头部是贴在一起的。耳朵是有稍微高一些的位置，和眼睛是在同一水平线上的。鼻镜：刚毛指示格里芬犬有非常宽阔的鼻孔。褐色是鼻镜的颜色，始终如一的。失格：除了褐色以外的其他颜色。咬和：刚毛指示格里芬犬的咬和是剪状的。严重缺陷：出现上颚或下颚突出式咬和的现象。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部、背线、身躯</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">颈部：刚毛指示格里芬犬有略微长些的颈部，是稍微有些圆拱形的，是不会有赘肉的出现。背线：它有非常结实的背部，是很稳当、牢固的，由马肩隆的部位一点点的向尾根处倾斜，方向是向下的。身躯至胸部：胸部是一定要伸展到肘部的，肋骨的支撑是非常合适的。胸部是不可以过宽或过窄的，有非常好的宽度，十分的合适，前肢的活动是非常自如的。腰部：刚毛指示格里芬犬有非常牢固、结实健壮的腰部，其长度是十分合适的，中等。它的臀部非常的强健，长度是很充裕的，可以给予它想要的标准速度。尾巴：背线的自然延伸就是它的尾巴，非常直或者是稍微有些向外突起是它尾巴的姿势。它是要断尾的，长度大概是全长的1/3，或者是1/2就可以了。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前躯</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">肩胛：刚毛指示格里芬犬有非常长的肩胛，形成的角度是很充裕的，并且是倾斜于向后的。它拥有十分直的前肢，是和地面垂直的，位于肩胛的下面，位置是十分标准的。它的骹骨呈稍微倾斜的样子。长有的狼爪是要被切除的。足爪：刚毛指示格里芬犬有十分圆的足爪，是很稳当、牢固的，有排列十分紧密的脚趾，脚趾间长有蹼。刚毛指示格里芬犬有非常丰厚、结实的脚垫。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">后躯</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">刚毛指示格里芬犬肌肉非常发达的大腿是很长的。形成的角度是和前躯非常搭配的。它的后肢与地面是保持垂直的，刚毛指示格里芬犬是不会出现有向内弯曲和向外翘起的飞节的。膝关节和飞节都是十分结实、牢固的，并且形成非常合适的角度。足爪的特点见前肢。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">被毛</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">被毛是刚毛指示格里芬犬这个品种的代表之一。它的被毛是两层的。外层有长度中等的披毛，有可能是非常直的，也有可能是稍微有些波浪状的，是不可以出现有卷曲的现象的，当然羊毛质的也是不被允许的。非常粗糙的毛发也是有好处的，当它身处在灌木丛中的时候就可以对它进行掩饰了。刚毛指示格里芬犬有非常细滑的底毛，并且是十分丰厚的，还有防水的功能。因为季节、天气和荷尔蒙的周期变化，所以底毛的厚实程度也会有所变化的。刚毛指示格里芬犬在通常情况下，它有相当浅的颜色。有十分多的眉毛和胡须长在它的头部上，和延伸出来的底毛形成它的面貌，可以说它有非常乱的外貌。它有非常短的毛发长在耳朵上，并且是很松软的。有十分粗糙的被毛掺杂在其中。长在刚毛指示格里芬犬足爪上的刚毛和身躯上的相比是要稍微少些的。十分密集、浓厚、并且又很短的粗糙被毛把腿部(前肢和后肢)全部遮盖住了。尾巴上和身躯上的毛发是完全一样的，要记住的是，是不可以出现有羽状饰毛的。它这个品种是要有十分丰厚、密集的被毛的，不管什么借口都是不可以对它的被毛进行修剪的。只有耳朵、头顶、面颊和足爪的毛发是可以被修剪的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颜色</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">如果刚毛指示格里芬犬出现兰灰色带褐色斑纹的颜色，这是非常标准的。一般情况下出现的颜色是栗褐色的，也有可能是杂色的，白色带褐色的，也有可能是白色带橘色的。不理想：全身的颜色为褐色的、纯白色的、白色带橘色的。失格：有黑色的被毛。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">刚毛指示格里芬犬是不用工作的，但是它还是要可以非常自如的遮盖地面。它的速度是属于中等的，前肢也后肢的搭配是非常和谐的。当它处于小跑的时候，前肢与后肢会向身体的中心线靠拢，是因为重力的作用。它的前肢和后肢可以得到完全的伸展。由刚毛指示格里芬犬的侧面看，它有非常稳当、牢固的背线，是和运动方向相同的。它的覆盖能力是非常大的，平滑、顺泽，十分的有力气。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">气质</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">刚毛指示格里芬犬是非常灵敏的，有十分聪明、伶俐的头脑，想要对它进行训练是非常简单的。对于户外活动它是非常的喜欢，并且还很喜欢逗主人开心，是人们值得信赖的宠物。它作为家庭犬是非常优秀的，同时作为一个搜索伙伴它也是非常合格的，做事总是十分的谨慎。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">失格</h3><p><span style=\"font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; font-size: 18.018px; line-height: 18.018px;\">　</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">刚毛指示格里芬犬如出现除了褐色以外颜色的鼻颈，就属于失格。同时还有被毛是黑色的。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">(该标准可作为挑选刚毛指示格里芬犬的参考标准！)</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G170/170-12.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">活泼、聪明、灵敏、富有感情。忠诚的小狗，很好的家庭宠物。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G170/170-2.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">硬毛指示格里芬犬敏捷，且头脑聪明，容易训练。他喜欢外出，非常热衷于取悦主人，而且可信赖。他是一个非常卓越的家庭犬，同样也是一个小心翼翼的搜索同伴。</p><p><br/></p>"
+            },
+            "price": null,
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G170/170-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">刚毛指示格里芬犬</span><br/>英文名：Wire-haired Pointing Griffon&nbsp;<br/>别名：硬毛向导格里芬猎犬、硬毛波音达格里芬犬<br/>生源地：法国&nbsp;<br/>智商：第46名&nbsp;<br/>体型：大型犬&nbsp;<br/>肩高：56-61厘米<br/>体重：23-27公斤&nbsp;<br/>毛长：长毛&nbsp;<br/>功能：枪猎犬、伴侣犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G170/170-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">原产地法国，起源于19世纪。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">刚毛指示格里芬犬的原产地无疑是荷兰，但它通常被认为是法国犬种，因为对其品种所做的主要培育都是在法国进行的。在1870年到1873年期间，荷兰育种者科萨尔(E.K.Korthals)培育成功，可能由格里芬犬和法国指示猎犬混合而成。该犬多才多艺，有极好的嗅觉，爱好狩猎。可以指示和追寻猎物，主要用于捕猎鹌鹑、野兔、狐狸等。</p><p><br/></p>"
+            },
+            "alisName": "硬毛向导格里芬猎犬;硬毛波音达格里芬犬",
+            "showImage": "http://p2.ycw.com/201609/08/4de76954f521df7c33ea4a4a4ac536f0",
+            "bodyType": "大型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "4"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "4"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "3"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "2"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "7"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "1"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "6"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/09/c8349068049b49b503cf0b3d961c15ba",
+            "status": 1,
+            "name": "刚毛指示格里芬犬"
+        },
+        {
+            "attentionInfo": {
+                "相关疾病": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G64/64-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">支气管炎</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">这个就是速成的着凉，不很严重。一般来説，狗除了干咳以外，精神。胃口。体温大致都正常的话，就有可能是支气管炎。症状不严重的加强营养，就会慢慢好转；症状严重的情况下，去冬五亿元，兽医也可以轻松应付。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">犬窝咳</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">犬传染性极强，常常被一些人误认为是犬温热。最明显的症状是病狗出现猛烈的咳嗽，有时候咳嗽严重的好像在吐一样，主人也往往误认为狗的嗓子被什么东西卡住了。主人可以用手轻轻按压狗的喉咙，如果立刻传来一阵咳嗽声，那就要小心了。这种病主要在狗比较集中的地方大发作。只要及时就医，一般可以治愈。还要注意的就是要将病狗与其他狗隔离。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">心丝虫病</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">被蚊子叮咬而感染的一种寄生虫。这种寄生虫到达肺动脉时候会引起肺炎或支气管炎。如果你的小狗咳嗽的同时还有耐力降低，食欲不佳的状况，就要去医院检查一下了。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">犬温热</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">可怕的传染病，死亡率為30%~80%。犬温热主要危害没有进行过疫苗接种的幼犬，这种病在寒冷季节(10月到转年4月)容易发生，特别多见於犬类比较集聚的单位或地区。如果小狗崽咳嗽之外还有发烧，呕吐，下痢等症状的话，不要犹豫，立刻送它去医院。及时的治疗能够大大增加它的生存几率。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "2",
+                "运动量": "4",
+                "耐热程度": "2",
+                "护家程度": "4",
+                "耐寒程度": "8",
+                "美容程度": "1",
+                "友善程度": "8",
+                "口水程度": "2",
+                "粘人程度": "4",
+                "掉毛程度": "1",
+                "喜叫程度": "2",
+                "可训程度": "1",
+                "饲养难度": "2",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "G",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Chinese Crested Dog"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "61"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "中国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "2~5",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "23~33",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,黑色,黄色,褐色,红棕色,咖啡色,貂色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "玩赏犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G64/64-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">虽然狗狗身体上的毛发量非常的少，而且更多的皮肤是裸露在外，所以冠毛犬的毛发护理就显得更加的难做。身体上无论哪里都没有毛，皮肤柔软，且光滑。身体上无论哪里都没有毛，皮肤柔软，且光滑。冠毛从止部开始，到头颅后开始稀疏，从头颅到后颈这段区域逐渐减少，无毛品种的脸和耳朵允许有毛，但为了整洁，两个品种都可能修剪这部分的毛。尾羽在尾巴下端。粉扑型覆盖着双层柔软的丝质被毛。仔细查看可以发现在短短的底毛外面还有一层长长的披毛。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G64/64-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">对冠毛犬的饲养，首先要养成其定时进食的良好习惯，一般在供食后不论其是否吃完，都应在10～20分钟后将饲具取走。冠毛犬很贪食，故给食一定要定量，不能任它进食过量。食物质量要求较高，荤食每天都不能缺少。一天要为给鲜鸡肉、鲜猪肉或鱼肉、牛肉200～250克。喂前要将肉类切碎，并煮至半熟。除肉类荤食外，还应给些蔬菜（开水烫一下）或饼干。要特别注意的是，此犬没有前臼齿，千万不可给它啃骨头。冠毛犬不需要使其有过大的运动量，只需让其在室内走动走动或小跳、散步就够了。此犬还喜欢玩耍玩具，可给它些玩具让它在玩具周围活动，但不能给它玩尖锐和又角的玩具，以防其皮肤被戳破或碰伤。可能是由于其体表无毛的缘故，冠毛犬对羊毛容易产生过敏反应，喂养者与它接近时最好不要穿着羊毛衣裤。</p><p><br/></p>",
+                "美容知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G64/64-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中国冠毛犬身体的毛发非常少，只有少许不诶长成毛发。对于这种狗狗来说，做美容似乎倒成了一件轻松愉快的事情。其实，给中国冠毛犬美容需要做的工作比较少，梳理毛发，修剪毛发也比其它狗狗的美容更为简单。当然，虽然冠毛犬身体的毛发很少，但是日常的梳理确实必要的，用宠物专用的梳子，梳理狗狗身躯上的毛发，促进狗狗身体血液循环，促进毛发生长得更为健康。中国冠毛犬长毛品种的毛发很容易打结变脏。所以饲养者要注意充分地做好毛发的日常护理工作。例如、清洗、梳理、修剪等等。对于毛结，饲养者可以先用手拉松，然后用针梳慢慢挑开，最后洗澡。最好每天梳理一下毛发，冠毛犬的毛比较少，所以梳理起来也是很简单的事情。在夏季的时候，为了保护狗狗皮毛更为健康，要及时的做好防止暴晒的工作。经常使用婴儿油或者是宠物皮毛护理液，涂擦在皮肤表层，使皮肤变得更加的光泽靓丽，促进狗狗皮毛的健康生长。饲养狗狗的过程中，还要及时的给它洗澡清洁。虽然冠毛犬的毛发少而且稀疏，但是定期的修剪也是必要的。将毛发修饰得整洁干净，让中国冠毛犬看起来更精神，皮毛的质地更光洁柔顺。</p><p><br/></p>"
+            },
+            "petBreedId": 98,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G64/64-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">尺寸：理想的尺寸是23-32厘米。体重：3.1-5.4公斤。当然，如果略大或略小也可以考虑，但要从整体去看。比例：矩形比例，身体能自由活动。体长（肩至尾根）略大于肩高。骨骼纤细，身材苗条，属于虽然精致但不脆弱的情况，也不能出现下列情况：强壮或笨重。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">表情警惕而且热情。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">眼睛：杏仁状的眼睛分的很开。深色狗的眼睛颜色深，浅色狗的眼睛颜色也浅。眼圈的颜色和狗的颜色相称。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">耳朵大且竖立，未剪耳，耳朵位置是：耳根与外眼角对齐。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">脑袋：脑袋从两耳间到后脑的地方略呈拱形。从后脑到止部的距离等于从止部到鼻尖的距离。从上方或侧面看，头部都呈楔子形。止部轻微但很清楚。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">口吻：面颊逐渐变细，使口吻呈清楚的锥形。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">鼻镜：深色犬的鼻镜呈深色；浅色犬的鼻镜呈浅色，但颜色要求一致。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">唇：嘴唇干净、整齐。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">咬合：剪状咬合，粉扑型如果有缺齿现象被视为缺点，而无毛型有缺齿现象没有关系。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部、背线、身躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">颈部倾斜且干净，从肩部起向上支撑着头部，略呈弓形。背线略向臀部倾斜。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">身体：胸部深度与肘齐平。胸骨不明显。肋骨发育良好。从肩至腰，胸部的深度逐渐减小。腰细。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">尾巴：尾巴细长，尾尖处变的更细。尾巴的长度使它能碰到飞节。当狗走动时，尾巴欢快的运动或翻卷在背上。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">肩甲骨向后呈45度角。肩部整洁且窄。使肘部紧靠身体。腿长、细、直。腕部竖直、精致且强壮。狼爪也许已经被切除。脚呈兔形足，脚窄且脚趾细长。趾甲被修剪成中等长度。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">整个前躯给人的印象是非常有力，但不沉重。肩胛倾斜而整洁。前肢骨量充足，肌肉发达，中等长度；上臂有充分的长度，保证能有效的伸展。肘部位置贴近身躯。足爪大，厚实且略微张开，脚趾上和中间都覆盖有毛发。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">后躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">后膝关节呈适当的角度。从飞节到地面呈垂直状态。狼爪可能已被切除。足部同前肢。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">被毛</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">无毛品种只在身体的几个部位有毛：头部（叫冠毛），尾巴（叫尾羽），前腕和后腕（叫短袜）。所有的毛发不论垂到什么长度，都像丝一样软。毛发的位置不如整体重要，有毛发的区域通常逐渐变细。身体上无论哪里都没有毛，皮肤柔软，且光滑。冠毛从止部开始，到头颅后开始稀疏，从头颅到后颈这段区域逐渐减少。无毛品种的脸和耳朵允许有毛，但为了整洁，两个品种都可能修剪这部分的毛。尾羽在尾巴下端。粉扑型覆盖着双层柔软的丝质被毛。仔细查看可以发现在短短的底毛外面还有一层长长的披毛。被毛的密度和长度适中，直。过多过重，扭曲的被毛或卷毛都属于严重缺陷。修饰是为了使外表看上去干净整洁。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颜色</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">任何颜色或颜色的组合。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">活泼、敏捷，流畅且没有不自然或平庸。来或者去都用小跑并保持直线运动。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G64/64-2.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">选购中国冠毛犬的时候，要特别注意品种是否纯种，因为假如购到了窜种，它的性格特征也许会完全改变，那就会出问题，而且使饲养者也不知该怎样去饲养它。其次还要注意犬的外形，是否与这种犬的特征相符。也就是说过高、过重、过矮、过轻都不会是比较好的冠毛犬。犬的头部、口鼻、双朵、是否端庄。这种犬只有头部、双耳、四肢以及尾巴应该有长毛，而躯体的其他部位都应该是没有毛的。在身体裸露的无毛部分，应当是粉红色的，而且上面应该有一些魔点和魔块，裸露部分的皮肤是否光滑柔软，无皮炎以及伤疤伤痕。要特别注意犬的健康状况，例如行动是否活泼灵敏，精神是否饱满，双眼是否炯炯有神，如果发现形神疲倦，懒洋洋等现象，这犬即使没有病，也不会是理想的良犬。</p><p><br/></p>"
+            },
+            "price": null,
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G64/64-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">冠毛犬</span><br/>英文名：Chinese Crested Dog<br/>别名：中国无毛犬、半毛犬、中国裸体犬、中国食用犬、中国皇家裸犬、中国船犬<br/>生源地：中国&nbsp;<br/>智商：第61名&nbsp;<br/>体型：小型犬&nbsp;<br/>肩高：23-33厘米<br/>体重：2-5公斤&nbsp;<br/>毛长：长毛&nbsp;<br/>功能：玩具犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G64/64-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">关于此犬的来历各说不一，墨西哥研究犬类的学者认为美洲的无毛犬来自中国，而且比较具体地指出了由中国传入美洲的时间是1580～1600年。有的认为源于非洲，它是由洲裸犬演化而来。也有的认为来自土耳其，是由土耳其的无毛犬演化而来。还有的认为是几个世纪以前，中国的航海家和水手们在航行中带来的，并沿途停靠各港口码头时，将此犬与港口商人们进行交易，因而在各地传播开来的。所以至今世界各个古老的港口城市还有这种犬流传下来。冠毛犬现在已经不多，但在英国和美国还有不少在繁衍着，而且很受当地养犬协会和养犬俱乐部的器重。一些动物学家鉴于一些无毛哺乳动物都来自非洲，而将中国冠毛犬分为非洲犬。冠毛犬是犬中稀有品种，遗传学家对此更感兴趣。此犬身上无毛，但是在母犬生出的一窝犬仔中能出现一只有毛的，这只有毛的被视为不是纯种而淘汰。遗传学家一直在研究其中奥秘所在。此犬之珍贵是因为很稀有，同时它的怪异模样提高了身价。无毛的身体，头上却长了一撮长毛，看上去很是可爱。</p><p><br/></p>"
+            },
+            "alisName": "中国无毛犬;半毛犬;中国裸体犬;中国食用犬;中国皇家裸犬、中国船犬",
+            "showImage": "http://p2.ycw.com/201609/08/733603a07902279c011b7e122f624b8e",
+            "bodyType": "小型",
+            "woolLength": "无毛",
+            "diseaseIds": "[380,351]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "8"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "2"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "1"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "1"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "2"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "4"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "2"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "4"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "1"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/6703df551eb5c6567f7bc9c249427929",
+            "status": 1,
+            "name": "冠毛犬"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "2",
+                "运动量": "4",
+                "耐热程度": "5",
+                "护家程度": "5",
+                "耐寒程度": "7",
+                "美容程度": "6",
+                "友善程度": "6",
+                "口水程度": "6",
+                "粘人程度": "6",
+                "掉毛程度": "2",
+                "喜叫程度": "6",
+                "可训程度": "6",
+                "饲养难度": "1",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Irish Water Spaniel"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "62"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "英国 "
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "7~8",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "12~14",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "2000~8000",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "33~38",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "黑色,其它颜色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬"
+                }
+            ],
+            "feedInfo": {
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G73/73-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">湖畔梗犬的饲料中，每天都需有肉类。最小的需要180克左右，较大的需要200-250克。肉类应加少量水煮熟然后切成小块，再加入等量的素干料或不含或少含糖的饼干，用水拌调均匀，分成早晚两次喂饲，并给一些新鲜的饮水。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饲养这种犬，主人最好是比较空闲的老人，因为它需要有较多的时间去照料，例如洗澡、梳理被毛、修剪趾爪、清除污物等等，都需要有一定时间。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">在喂饲食物时，要掌握好分量，若所供给的食物过量会导致它发胖，变得呆笨而失去活泼、灵活的优点。在生活中，既不能让其养成骄气十足的样子，也不能任其过分放纵，否则，就会养成对主人的命令不肯听的坏习惯。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">湖畔梗犬是比较爱动的，因而每天都应在一定的时间内让它在院内活动，或带它上街或到公园散步，这样可以促进它消化和吸收的能力，保持正常的食欲。</p><h2 style=\"margin: 10px 0px; padding: 0px; font-weight: normal; font-stretch: normal; font-size: 14px; line-height: 40px; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; color: rgb(153, 153, 153); -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 1903px; height: 40px; position: relative; text-indent: 25px; box-shadow: rgba(0, 0, 0, 0.498039) 0px 1px 1px -1px inset; white-space: normal; background: url(&quot;http://res.ycw.com/app/images/book/icon-title.png&quot;) 15px 50% / auto 12px no-repeat rgb(245, 245, 245);\">养护常识</h2><p><br/></p>",
+                "美容知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G73/73-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">饲养这种犬，主人最好是比较空闲的老人，因为它需要有较多的时间去照料，例如洗澡、梳理被毛、修剪趾爪、清除污物等等，都需要有一定时间。在喂饲食物时，要掌握好分量，若所供给的食物过量会导致它发胖，变得呆笨而失去活泼、灵活的优点。在生活中，既不能让其养成骄气十足的样子，也不能任其过分放纵，否则，就会养成对主人的命令不肯听的坏习惯。湖畔梗犬是比较爱动的，因而每天都应在一定的时间内让它在院内活动，或带它上街或到公园散步，这样可以促进它消化和吸收的能力，保持正常的食欲。湖畔梗犬是全身洁白如雪的美犬，要保持它毛色洁白柔顺，就要经常为它进行梳理，由于它浑身都是长毛，所以要做全身梳理。方法是：在梳理前，先喷上护发素或洗毛剂，然后用梳子或软毛刷，由上到下顾次梳刷。只要每天都进行梳刷，就能保持它的被毛光洁柔顺，不结不乱，洁白干净，飘洒美观。除了作上述的干洗之外，还要替它作定期的湿洗。每次湿洗之后，要先用干毛巾吸尽水分，再用电吹风吹干。边吹边梳理。至于多长时间湿洗一次，这要视季节和气沮而定，原则上天凉时间隔可长一些；天热时间隔要短一些，隔3-5天就要湿洗一次。对犬的趾爪，需要定期修剪，否则会抓伤人的皮肉和损坏人的衣物。在气温较高的季节，除了要多为犬洗澡外，还要多注意犬的耳部的清洁，在洗湿水澡前，要先清除耳垢，并用消毒脱脂棉湿润后清除耳道和耳周边的污垢，但要注意棉球不可带水，严格防止有水留在耳内。在每次洗澡前，都要先用棉球将犬的耳道塞住，避免有水进入。因为夏天此犬很容易患上耳炎。平时要经常注意观察犬的精神状态，若精神不佳就可能有病。注意犬的鼻垫是否有干燥发热现象；大便有无拉稀现象；食欲是否有所减退，若食欲不好，就很可能患了消化系统的疾病。一旦发现有上述不正常的情况，就要及时找出原因，并采取针对性的措施给予治疗；若病情较重，就应及早请兽医诊治。</p><p><br/></p>",
+                "驯养知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G73/73-9.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">对湖畔梗进行服从训练最好由家中与贝湖畔梗最为亲近的人进行。由专门一人负责对狗进行训练，可以减少由于不同人的不同指令对狗造成的混乱。为了尽快让湖畔梗习惯主人的指令，训练的时候，应该特别注意语调的使用，不要随自己的脾气和情绪任意改变命令的口气。 　</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">语音和语气的训练　</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">　　1.号令与信号在开始训练时，特别是开始教新的内容时，使用语气要温柔点，同时辅以适当的动作指引，口令要清晰简短，这样可方便狗狗记忆。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">当狗出现厌烦情绪时，及时用牵绳纠正它。若牵绳无效时，则改用强硬的口气呵斥它，因为此时再用鼓励的语气已毫无作用。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">2.夸奖如果狗正确地按照主人的指令完成动作要求，则需要用愉快的语气来夸奖它，向它表明“你的表现博得了主人的高兴”。但是，不能为了训斥狗而用夸奖的话把它骗到身边。这会使狗觉得受骗，次数多了以后就不会再到主人的身边。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">3.命令如果确信狗已经明白了主人的指令，但又不付诸于行动，而是在揣测主人的态度时，则一定要用强硬的语气命令它，迫使它照办。不过在此之前，应该先仔细考虑一下是否主人的要求太高，狗狗还暂时无法办到。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">4.严厉斥责这一方法要慎用。饲养者经常会犯的一个错误是：主人指令狗做某些动作，但因为表达的不清或狗尚未明白，就开始对狗狗大声斥责。贝灵顿梗会对斥责的原因感到莫名其妙。严厉地斥责仅限用于一些特别的情况下。比如将发生关系到狗生死的严重事故等。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">5.叫狗的名字为狗狗取一个固定的名字。例如狗的名字叫“贝贝”，而不同的家人，邻居在不同场合，也有叫“宝贝”、“小贝”的，这就会给狗造成混乱。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">叫狗狗名字时的语气避免粗声粗气，斥责时禁止附带上狗的名字。否则，下次再叫它的名字时，狗将不理睬。叫名字仅限于发号指令和夸奖的时候，给狗形成一个好的印象。下次一叫它的名字，就会马上跑到你身边。 　　</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">　大小便的训练　</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">　　在室内饲养时，如果没有确实做好如厕的训练，狗就会地排便排尿，让人大伤脑筋。有的人以为，让狗的厕所有尿的臭味，狗就会在那里上厕所。但是事实上，这种使用沾有尿臭味的报纸或厕纸让狗记住厕所的位置方法，几乎都会惨遭失败，因为狗不喜欢在沾有自己尿臭的地方尿尿。即使报纸和厕纸的表面已经干了，只留下微乎其微的臭味，狗也会凭着自己锐的嗅觉，闻到这种异味认为这里已经脏了，就会到其它处所排泄。那么到底该如何进行如厕训练呢？秘诀在于狗的习性。 　</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">有人一定会有这种疑问，现在许多人不管是养在阳台，庭院或是家里面，都是它在空间内自由活动，很少有人为狗做一个像样的狗屋，让狗可以在里面安心的休息。看过西洋电影或卡通的人一定对狗屋不陌生。狗窝就是在家里代替巢穴的地方。狗窝的设置与否，和小狗的上厕所训练有很大的关系。为狗安排狗窝，然后厕所设置在距离狗窝稍壤的地方，当狗一离开狗窝时，就要先带它去厕所。所以可以用铁丝将厕所围起，把起放在里面，在狗完成排泄之前，就一直将牠关在铁丝网中，完成排泄后，才放它出来。平常可以让它在室内自由活动，但在饲主外出或晚上睡觉时，仍然要将牠关进狗屋内。只要一离开狗屋，就要带它去厕所排泄。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">在不断的练习后，狗就会产生条件反射，只要一带它去厕所，就会立刻排尿排便。当可以做到这一点时，就不需要铁丝网了。之前提到过，使用没有狗的尿臭的东西没有任何意义，因此，在狗排泄后要立刻换上干净的报纸和垫子，这才是正确的如厕教育。相信各位已经有所了解，要点在于要将狗屋和厕所分开，在狗离开狗屋时，要立刻带它去厕所，使它对这一系列的行动产生制约，训犬师认为，如厕教育失败时，百分之一百的原因是在于让狗在室内自由自在的活动。让狗在房子里面居无定所，其实是让它们缺乏自己的私人空间。或许有人认为让爱犬在房间内自由自在的活动，就可以减少压力的产生，其实却相反，由于缺乏可以安心休息的场所，会使狗产生极大的精神压力。</p><p><br/></p>"
+            },
+            "petBreedId": 111,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G73/73-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">成年公犬的理想身高为36.8厘米，上下不超过3.8厘米。母犬的身高要较公犬的身高矮2.5厘米。成年公犬的体重平均约7.71千克。其他的高度成比例地或多或少。整个外形呈方形，母犬可能较公犬稍长。其协调和比例是最重要的。短腿的，过重或过轻的，非典型的品种个体均视为劣等犬。湖畔梗身体强壮，以示其结实、精巧而不粗糙。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">表情据犬当时的情绪而定；虽然表现得特别机警，但它也可能紧张而果断，或者快乐，甚至顽皮。眼中等稍小，椭圆形外观，位置明显，睁得相当大。红褐色或红褐色和黑褐色的犬，眼睛颜色自深黄褐色至淡棕色，眼缘棕色。其他颜色的犬，眼的颜色自浅棕色至黑色，有黑眼圈。耳小，V形，皱褶处稍弯于头顶，内侧边紧贴于头的侧面，耳朵指向外眼角。直鼻梁。头部对称。成直角，从后脑至口角的长度与从口角到鼻端的距离相等。头部的比例要求严格。前脸过长或过短，楔形头均不合格。鼻黑，有色素沉着的粉红色鼻头也可以接受，但不理想。红褐色的鼻子和嘴唇仅在红褐色被毛的犬身上被接受。粉红色的或有明显斑点的鼻子不理想。唇黑，上下颌强壮有力。牙齿相对较大，可能是齿缘相对或微露出唇外而呈剪刀或钳式咬合。牙齿过长或过短均不合格。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部、背线、身躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">颈长，不粗但很强壮，喉部匀称，微曲，向肩部逐渐变宽。肩胛部(肩与背的连接点)明显高于背水平线。躯干强壮丰满，胸深，中等程度狭窄，呈椭圆形，露于肘外。肋骨外展并且与椎骨形成圆形。湖畔梗是一种中等体形的犬。圆筒胸，体形较大是较差的。腰部短而紧凑，母犬的腰可能稍短。腰部微下弯。尾高举过背。一般做断尾，以便其表达情感时上举的尾巴与后脑相平。尾抬起时直立，向头部弯曲者不理想。骨盆宽阔而且棱角分明，公犬的骨盆较母犬的要发达。卷尾则视为不足。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">肩部角度适合。肩胛骨的上缘与肘部在同一直线上，肩胛骨在此例上比上臂长，它们之间允许有合理的角度。肩部肌肉发达而且平滑。无论站立还是运动时，肘部紧贴在身体上，使整个犬体前倾。从前看或侧看，前肢强壮，笔直。掌骨也笔直。脚圆，指向前方，脚趾强壮结实。脚垫厚，呈黑色或煤灰色，除红褐色的犬以外其他的犬均为棕色，趾甲发达，墨黑色或自身的颜色。狼爪摘除。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">后躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">大腿强壮有力，肌肉发达。后肢自然成角，但不影响前后对称。膝关节不内收也不外展，跗关节距地很近，而且跗关节从侧面看成一条直线。从后方看，两跗骨平行。脚如前肢。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">被毛</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">能抵御任何气候条件的被毛是由两层毛组成的，披毛长、平坦、厚实，毛发粗硬，毛直或略呈波浪形；底毛浓密、纤细、棉絮状。雄性颈部和肩部的毛发尤其浓密，形成围脖或鬃毛。尾巴上较长的毛发形成羽状饰毛。饰毛还延伸到前肢后面和大腿后面，形成“裤子”的效果。脸部和耳朵的毛发短而质地好。正确的被毛比毛量更为重要。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颜色</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">湖畔梗有多种颜色，各种颜色均得到认可。具体的为蓝色、黑色、红褐色、红色和土黄色。在用鞍标记的犬，躯体上有鞍座般的黑色记号，覆盖于颈背部、背部、尾部两侧和上侧，鞍座的颜色可能为蓝色、黑色、红褐色或灰色。犬(头、喉、肩、脚)的颜色为土黄或金黄褐色。杂色是红色或上黄色里混以不同比例的黑色、蓝色或红褐色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">直线前行。来往时，腿直而脚不外展也不内收，肘部贴于胸壁，跗关节绷直，当其快速运动时，身体趋于重心一点。但这并不影响运动。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G73/73-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">湖畔梗的性格开朗，对人类很友善。充满着自信，但攻击性很弱。具有很强警惕性，并做好时刻出发的准备。柔弱的步态显得非常优雅，一副昂首阔步的神态。除不屈不挠和勇敢以外，湖畔梗还有吸引人的安静的性格。典型的湖畔梗应该大胆，快活而友好，自信。胆怯，尤其是非常胆怯，对成年湖畔更而言属于严重缺陷，反之，具有强烈攻击性倾向也属于严重缺陷。</p><p><br/></p>"
+            },
+            "price": "2000~8000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G73/73-2.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">湖畔梗</span><br/>英文名：Irish Water Spaniel<br/>别名：佩特戴尔梗<br/>生源地：英国&nbsp;<br/>智商：第62名&nbsp;<br/>体型：小型犬&nbsp;<br/>肩高：33-38厘米&nbsp;<br/>体重：7-8公斤&nbsp;<br/>毛长：长毛&nbsp;<br/>功能：伴侣犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G73/73-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &quot;Helvetica Neue&quot;, &quot;Microsoft yahei&quot;, arial; white-space: normal;\">原产地英国，起源于18世纪。最初叫做佩特戴尔梗(ThePatterdaleTerrier)，是在英国北部湖畔地区由贝德灵顿梗和老式英国刚毛梗交配发展而来的。原来有不少分枝，1912年归为一类。与威尔士梗相似但个体稍小，它的身躯深而且较窄，使它能顺利地钻进石洞，完成工作。它有足够长的腿，使它能适应各种崎岖的地形。过去用来猎取小动物如獾、狐狸和水獭等，可以在水中和参差不齐的地形里追杀猎物。后来这一漂亮的品种转变为受欢迎的伴侣狗和展示狗。曾分别在1967和1968年的展示中夺魁。1921年被美国养狗人俱乐部（AKC）承认。</p><p><br/></p>"
+            },
+            "alisName": "佩特戴尔梗",
+            "showImage": "http://p2.ycw.com/201609/08/0c4739966918ed56ba29f2e3b2523436",
+            "bodyType": "小型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "6"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "5"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "7"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "5"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "4"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "6"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/f3b4deaa65190d2617c0d54754151c3b",
+            "status": 1,
+            "name": "湖畔梗"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "6",
+                "运动量": "6",
+                "耐热程度": "6",
+                "护家程度": "4",
+                "耐寒程度": "10",
+                "美容程度": "6",
+                "友善程度": "4",
+                "口水程度": "6",
+                "粘人程度": "8",
+                "掉毛程度": "6",
+                "喜叫程度": "1",
+                "可训程度": "10",
+                "饲养难度": "3",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Black Russian Terrier"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "100"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "俄罗斯"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "36~65",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "66~72",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "黑色,灰色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,守卫犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G68/68-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">幼犬的成长发育期所需的热量是成年犬的2倍据说狗大约能活12-16年，与人相比狗要短得多。可以说狗的一生就像浓缩的人生。狗的发育速度也非常快。出生1年到1年半就可以长成成犬。这段成长期非常重要，甚至可以左右小狗的一生。为了让小狗健康茁壮地成长，应该特别注意它在发育过程中的饮食。幼犬大约在出生6周左右就断奶，以后就可以吃普通食物了，但在出生1-6个月内，每天应喂它3-4次食。断奶后至第3个月左右，喂食时间应定为早晨7点、中12点、傍晚5点和夜里10点，每天4次。出生第5个月至第8个月，可在早晨、中午、傍晚分3次喂食，这段时间内给幼犬的喂食量大约相当于成犬的三分之一至一半。从断奶2-3个月到3个月以内的几个月中，幼犬的食物构成将决定它终生的饮食习惯。如果准备将来继续用专用狗粮饲养的话，必须在这段时间里让它适应专用狗粮的品口味。如果准备将来以家庭配餐方式饲养的话，食物应以动物性蛋白为主，多喂食高热量的食物。幼犬在出生2-3个月时，由于牙齿和下鄂尚未完全发育应把肉类切成细块之后再喂它。牛奶、黄油、奶酪等等也比较适宜。但较硬的骨头等还是先别给它们吃。出生后6个月至1周岁以内大约相当于人的十来岁，所以狗在1年中可发育成相当于18岁年龄的青年人的青年犬。这时期正是狗成长最旺盛的时期，所城的热量大约相当于成长的1倍，可以多喂食一些动物性蛋白类食物。狗吃不惯硬质专用狗粮怎么办绝大部分幼犬长到2个月大左右就可以吃硬质专用狗粮了。如果幼犬一时还吃不惯，可以用开水、牛奶或汤先泡软后再喂它们。怎样判断喂食量是否合适每只狗的食量大小并不完全一样，刚开始可以喂得稍多一些，再视吃剩的食物多少判断喂食量是否过远多。可以随幼犬长大的过程慢慢增加喂食量。喂食量应该根据幼犬的进食状况，大约3个星期调整一次。如何投喂高热量肉类食物幼犬时期为了满足迅速发育的需要，必须让它吃下尽可能多的高热量食物。但如果摄入过多的脂肪，也很容易损坏消化器官。因此可以把肉类中的脂肪部分剔除后喂它，也可以少喂些肉糜等含脂肪较多的食物。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G68/68-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">饲养一只黑俄罗斯梗想必主人最担心的问题大概就是喂食什么食物才能使狗狗更健康吧？从整体上来讲，不存在哪种最好，只有最适合你家狗狗的才是最好的。下面小编介绍几种比较健康的食粮。最健康的宠物食粮是经过充分研究、由新鲜食材自制的食物。这里面应该包括生食和熟食。“充分研究”这个词蛮吓人的。在我看来能做出这样食物的差不多就是动物园饲养员级别了。但是，就是不那么充分研究，也是要好于其他食粮的。第二健康的宠物食粮是完美搭配的、我们从市场上买到的冷冻生食或脱水食物。“完美搭配”这个词也蛮吓人的，不是你随便搞一个鸡架或几片脱水肉干。注意，脱水食物是指仅经过脱水的食物，和我们一般说的干粮不同，而且也不光指脱水肉干。另外，从这条我们也可以看出，“生食流”是予以相当高的评价的，但是也是有条件的，而且没有放在最健康级别上。再次健康的宠物食粮是优质湿粮。</p><p><br/></p>"
+            },
+            "petBreedId": 104,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G68/68-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">雄性成犬在27英寸到30英寸之间。雌性成犬在26到29英寸之间。背离理想的高度将被认为是缺陷。失格：26英寸以下的雄犬或雌犬。黑俄罗斯梗的长度稍大于高度。最理想的比例是9.5－10。长度的测量位置是从胸骨到后骨盆的边缘。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">头部与身体成一定比例。应当看上去有力强健。头部应当有强有力的结构，脑袋宽度适中，结实。从侧面看很匀称。头部由两个平面组成。后脑勺到口吻从眼角处分开。后头部发育充分。前额平整，有一个明显的但是不明确的止部。雄性的头部明显具有阳刚之气，而雌性的较为柔和。耳朵位置很高，相当小，三角形。前边缘应当紧贴面颊。耳朵的长度应当能到达外眼角。耳朵在脑袋上的位置偏低为缺陷。不能是剪耳。眼睛大小适中，深色。眼框为黑色，没有下垂，也没有瞬瞙。眼睛为椭圆形。浅色眼睛为严重缺陷。鼻子又大又黑。鼻子不是黑色。口吻比后脑勺稍短。口吻和后脑勺的长度比约为4比5。嘴唇丰满，紧闭，黑色。没有下垂。牙龈为黑色。允许在舌头上有黑色标记。牙齿又大又白。要有完整的齿系。门牙在根部形成一条直线。剪状咬合。任何牙齿的缺少都是严重的缺陷。上鄂突出或下鄂突出的咬合都是失格。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">前腿笔直且肌肉发达，后肢大腿肌肉发达，骨量充足。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">足掌</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">足爪大，紧凑，圆形。脚垫厚且坚硬。指甲短，为黑色。后部的狼爪应当切除。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾巴</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">尾巴位置高，尾巴粗，断尾，留下3到5根尾骨。不断尾不会被扣分。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">披毛</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">凌乱的双层被毛。外层被毛质地粗糙。底层被毛厚且柔软。被毛的长度从1.5到4英寸，覆盖了整个身体。被毛很乱，但不是金属丝状或卷曲状。修饰：在表演中装扮此品种，外形清晰；犬可以被修饰，但不能显示出特意的造型；耳朵内外的毛应当进行整理，耳朵要平平的趴在头上。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">毛色</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">黑俄罗斯梗的颜色只能是黑色或黑色与很少的灰色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">黑俄罗斯梗的动作是自由的，有流畅的、轻松的、轻快的动作。动作要平衡流畅。当黑俄罗斯梗移动加快时，脚会汇聚到一条中心线上。背线应当保持水平。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G68/68-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">壮士、好学、容易调教，另外它们的一致坚定、头脑翻译很快、判断能力强、警惕性高，随时做好防御的准备，绝不会无缘无故地发起攻击。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G68/68-10.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">黑俄罗斯梗的性格和性情是极其重要的。黑俄罗斯梗是一种平和、自信、勇敢的犬，有时会非常自信，甚至有些疏远陌生人。它们非常聪明，非常可靠。培育这个品种是为了警卫和保护。在比赛中的行为应当表现出易于控制，自愿，适应能力强，要接受服从考核的训练。</p><p><br/></p>"
+            },
+            "price": null,
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G68/68-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">黑俄罗斯梗</span><br/>英文名：Black Russian Terrier<br/>别名：黑梗 、黑俄罗斯爹利<br/>生源地：俄罗斯&nbsp;<br/>体型：超大型犬&nbsp;<br/>肩高：66-72厘米<br/>体重：36-65公斤&nbsp;<br/>毛长：长毛&nbsp;<br/>功能：伴侣犬、工作犬、守卫犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G68/68-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">俄罗斯为了当时海关、军队的需求，通过用亚雷特梗、罗威那犬和巨型狐狸犬与本土的黑色梗进行杂交，培育出这种黑梗。从亚雷特梗身上希望获取毅力和容易驯养的特点；从巨型狐狸犬身上希望获取大型的体格和凶猛的精神；从罗威那犬身上希望获取健壮的体魄和平稳的心态。从外形上看，用这种方法培育出来的犬，其毛皮与没有经过定型的巨型狐狸犬或者是佛兰德斯牧羊犬几乎没有什么差别。1981年，这种新品种犬得到俄罗斯农业部的认可。</p><p><br/></p>"
+            },
+            "alisName": "黑梗 ;黑俄罗斯爹利",
+            "showImage": "http://p2.ycw.com/201609/08/c2b9ca5041e5c5a30948fa7bf4ea4fa0",
+            "bodyType": "大型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "1"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "6"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "6"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "6"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "3"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "8"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "10"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "6"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "10"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "6"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/09/f3dce9a9860fe7662e59fbb92d84a41b",
+            "status": 1,
+            "name": "黑俄罗斯梗"
+        },
+        {
+            "attentionInfo": {
+                "相关疾病": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G71/71-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">髋关节发育不全</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">白内障</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "6",
+                "运动量": "6",
+                "耐热程度": "4",
+                "护家程度": "2",
+                "耐寒程度": "6",
+                "美容程度": "6",
+                "友善程度": "8",
+                "口水程度": "6",
+                "粘人程度": "8",
+                "掉毛程度": "8",
+                "喜叫程度": "2",
+                "可训程度": "8",
+                "饲养难度": "4",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Havanese"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "999"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "法国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "3~6",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~12",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "2000~3000",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "20~28",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,黑色,灰色,黄色,褐色,红棕色,咖啡色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "玩赏犬"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G71/71-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">1.食量小，体重轻。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">2.聪明，好训练。 house break其本不用费劲。一般来说，宠物狗形体越小越难训练，但哈瓦那犬非常聪明。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">3.个性温顺，和孩子相处很好。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">4.毛发不会导致过敏。 哈瓦那犬虽然是长毛犬，但狗毛很少掉，而且它们的毛质和人的很类似，所以此犬种是为数不多不会导致毛发过敏的狗狗。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">5.安静，不需要太大活动空间。如果你比较懒，懒得经常溜狗，也没关系，哈瓦那个性安静，不需要太多的活动。此类狗也适合城市公寓养。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">缺点：只有一个，就是毛发打理。狗狗一岁以后，毛发长长，最好是每4-6周理发一次，或者一星期两次梳理，否则毛发会结块。</p><p><br/></p>"
+            },
+            "petBreedId": 109,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G71/71-9.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">其高度约在21.6～29.1厘米，理想高度为22.9～26.7厘米。体重在3.18～5.90千克之间，其理想体重为3.63～4.99千克，任何偏离正常体重和身高范围太多将视为重大的缺点。从胸到臀部的身体长度要比肩部高度长，并且从一侧看不能呈正方形，前腿和后腿相对短，但是其长度足以支持起身体不使身体着地，哈瓦那犬是一种强健的小型犬，既不柔弱也不夸张。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中等长度与身体的大小成比例，眼睛大，杏仁状，非常黑，表情温驯，头部在蓝色或银色毛发的衬托下，眼睛可能稍微淡一些，在巧克力色的毛发下，眼睛可能显得颜色更浅一些，然而黑色(深色)的眼睛是最好的，眼圈为黑色可被除了巧克力色的任何颜色的毛发所遮盖。眼睛小而圆；破碎或不完整的色素沉着在眼圈上将视为缺点。肿胀或突出的眼睛将视为严重的缺点，在一个或两个眼圈上整个缺少色素将视为缺陷。眼睛既不能太高也不能太低。头骨宽阔，多为圆形，有合适的前额、吻间的凹陷线，颊部平整，嘴唇干净，吻的长高等于前额吻间凹陷线到后脑勺的距离，吻既不尖也不钝圆，鼻子和口唇为深黑色，对于咖啡色的犬其鼻唇结实，可为自身的颜色棕色。鼻唇不是黑色，除了全身为咖啡色的犬都将视为不合格。咬合整齐紧密，上下颌切齿齿列完整，钩形或残缺牙齿将视为缺点，上颌突出或下颌突出以及咬合不齐视为严重的缺点。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部、背线、身躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">颈中等长度，既不能太长也不能太短。背线直，在臀部略微上翘；侧腹略微上升，肋骨呈圆形，尾巴竖起很高，一直弓向背侧并有长而细的深色毛。当站立时，下垂的尾巴是比较合适的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">前腿骨髓比较直，从肘部到肩隆部的长度与脚到肘的距离相等，飞节可以被去除，脚紧凑，脚趾弓形，脚垫厚实。脚内收或外展都视为缺点。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">后躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">后腿相对较短，骨骼良好，肌肉发达，有合适的角度，从后面观看非常直，飞节可以被移除，脚如前脚。缺点也如前脚。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">被毛</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">哈瓦那犬是具有软毛的双层毛发的品种，分别是内层的短绒毛和外层的粗毛，毛发总体长而浓密。毛发的类型从直到卷曲的都有，其中波状卷曲的最好。卷曲的毛发也可以为绳索状，成年犬的毛发长度可达 15.2～20.3 厘米长，过于厚密和长的毛发并不好。除了幼犬，短毛属于缺点，眼睛上方头两侧可以有毛发，但是不可以分离背部中间的毛，不能剪除头顶的毛发，也不能修剪或整理其他部位的毛发。可以修理脚部的毛，以免出现“小船状”或“拖鞋状”脚，但除了修剪脚部的毛对于修剪其他任何部位的毛发都视为不合格。颜色多种多样，从纯白色到淡黄色、淡橙黄色、金色、黑色、蓝色、银色、咖啡色或所有这些颜色的部分或全部的组合，而纯色并不是最好的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">步态非常独特，并有弹性，明显体现了哈瓦那犬欢快的特点，前腿直线行走，肩部活动自由，后腿也会趋于同一直线向前行走。迈步时尾巴后翘到背部，骑马状步态，划紧状，臀部运动受阻和尾巴不能上翘到背部都视为缺点。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G71/71-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">1.在选购哈瓦那犬之前，请参阅有关介绍本品种犬体形特征和特性的资料，对这种犬心中有了个谱，就可避免盲目乱选。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">2.选购时一定要挑选身体健壮，生气勃勃，行动灵活，两眼炯炯有神，不带有任何疾病的幼犬。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">3.选购中应对该犬的各个部分认真考察，看它是否符合该品种应有的体形标准。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">4.具体地说，该犬在身高和体重方面，不可超过标准过多，否则就可能不是本品种的纯种。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">5.对性格特性的考察，要注意该犬对人是否和善可亲，是否动作灵活矫健，会不会乱吠乱咬等。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">6.对体形特征的考察，应从犬的头、胸、背、腰、腹、前肢、后肢、颈、尾、趾、爪、眼、鼻、吻、耳、被毛、毛色等各个部分按标准全面对照。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">7.不宜选同一种群中个体最小的。因为这个“小不点儿”可能就是一窝犬中最弱的一条。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">8.如果这条想买的犬是纯种犬，卖主一般能拿出该犬的父本和母本的血统谱系证书，拿不出来，纯种犬难以保障。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">9.如果这是一条体质很好且饲养恰当的犬，出售时卖主都愿意出具1—2星期的安全保证书。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">10.在选购工作完成确定购买后，双方应签订转让证书。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G71/71-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">聪明友善，对孩子温和，是可爱的伴侣犬，但对陌生人很警惕，需要经过严格而温和的训练。</p><p><br/></p>",
+                "生活习性": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G71/71-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">对孩子温和，是可爱的伴侣犬，适合公寓生活，适合炎热的天气，每天要梳理被毛，容易与别的犬相处。</p><p><br/></p>"
+            },
+            "price": "2000~3000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G71/71-10.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">哈瓦那犬</span><br/>英文名：Havanese<br/>别名：哈瓦那比雄犬、哈瓦那卷毛狮子犬、哈瓦那绒毛犬<br/>生源地：法国&nbsp;<br/>体型：小型犬&nbsp;<br/>价格：2000元以上&nbsp;<br/>肩高：20-28厘米<br/>体重：3-6公斤&nbsp;<br/>毛长：长毛&nbsp;<br/>功能：玩具犬</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G71/71-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">哈瓦那犬是比公犬家族中的一个古老品种，最早提到现在哈瓦那犬的祖先可追溯到地中海地区的波利尼斯时代（23～79B.C.），并且该品种可能起源于马耳他岛。在西班牙和意大利的犬可能有一部分就来自哈瓦那犬，而且现在人们已称之为哈瓦那犬。今天的哈瓦那犬来自于在古巴发现的当地犬的后代，1959年古巴革命以后，许多哈瓦那犬进入美国。今天的哈瓦那犬是一种令人满意的、友善的、坚强的短腿小型犬，在训练时由于它们友善的性格而成为服从训练的优秀候选者。</p><p><br/></p>"
+            },
+            "alisName": "哈瓦那比雄犬;哈瓦那卷毛狮子犬;哈瓦那绒毛犬",
+            "showImage": "http://p2.ycw.com/201609/08/eebf913c2e30f221a16a8fa8c1c63fb3",
+            "bodyType": "大型",
+            "woolLength": "长毛",
+            "diseaseIds": "[237,313]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "8"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "2"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "8"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "6"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "6"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "4"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "2"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "8"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "6"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "4"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "8"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "6"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/5ff0eed4791579ecfddd7fc0c016e233",
+            "status": 1,
+            "name": "哈瓦那犬"
+        },
+        {
+            "attentionInfo": {
+                "常见问题": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-10.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">随着养犬数量的增多，犬伤人、犬扰民、破坏环境卫生等问题。为了将因养犬而给社会和他人造成的危害降到最低程度，希望通过地方性法规对养犬行为进行规范，以达到文明养犬，保障公民健康和人身安全，维护社会公共秩序和市容环境卫生的目的。各地依据《中华人民共和国民法通则》、《中华人民共和国行政处罚法》、《中华人民共和国治安管理处罚法》、《中华人民共和国动物防疫法》等法律、法规，参考外地立法，并结合养犬管理工作的实际情况拟定《养狗条例》。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "2",
+                "运动量": "8",
+                "耐热程度": "4",
+                "护家程度": "4",
+                "耐寒程度": "10",
+                "美容程度": "6",
+                "友善程度": "4",
+                "口水程度": "2",
+                "粘人程度": "4",
+                "掉毛程度": "1",
+                "喜叫程度": "6",
+                "可训程度": "6",
+                "饲养难度": "3",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Siberian Husky"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "45"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "西伯利亚"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "16~27",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "1300~1400",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "51~60",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,黑色,灰色,黄色,咖啡色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,雪橇犬"
+                }
+            ],
+            "feedInfo": {
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-5.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">哈士奇幼犬由于体型还没有完全长开，大多数看上去是瘦瘦的，不大好看，因此要特别注意幼犬的喂养，哈士奇需要一年半才能够彻底发育成熟，八个月以前都应该算作哈士奇的幼年期，幼年期的饮食很重要。哈士奇幼犬在刚出生时会本能的去食用母奶，这时候只要注意母犬身体卫生和营养充足就可以，在狗狗四十多天后就要断奶了，断奶后的哈士奇喂养才是重点。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">哈士奇幼犬由于胃口很小，所需营养又多，因此要少食多餐，在断奶初期应该一天喂食四次以上。到了六个月左右时，则一天应该保证喂食三次。随着年龄增大才逐步降为每天喂食两次。每次喂食要掌握好分量，不能让小狗吃过量。尽量不要喂给幼犬吃一些人吃的东西，幼犬对于吃的要求很单纯，而且狼吞虎咽，来者不拒。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">幼犬习惯吃一些人吃的东西后，会对人所吃的东西产生依赖性。因为人吃的东西中的营养与幼犬的营养需求不一样，结果会造成幼犬营养吸收不均衡，影响小哈士奇发育。现在喂养哈士奇分为两种方式，一种就是纯狗粮了，这个好说，哈士奇幼犬就给它吃幼犬专用狗粮，只要注意卫生，不要吃多了，还有狗粮的质量就可以。另一种就是自己给哈士奇幼犬配狗粮。这些食物应以动物性蛋白为主，多喂食高热量的食物。幼犬在出生2-3个月时，由于牙齿和下鄂尚未完全发育应把肉类切成细块之后再喂它。牛奶、黄油、奶酪等等也比较适宜。但较硬的骨头等还是先别给它们吃。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">出生后6个月至1周岁以内大约相当于人的十来岁，所以狗在1年中可发育成相当于18岁年龄的青年的青年犬。这时期正是狗成长最旺盛的时期，所城的热量大约相当于成长的1倍，可以多喂食一些动物性蛋白类食物。哈士奇幼犬的肠胃功能比起它的成年时期更是不堪，要特别注意食物的安全卫生，还有食物的量也要控制好，吃多了，对于小哈士奇的小肠胃来说是不能承受的哦，特别注意，不要给小哈士奇喝牛奶，不管是熟的还是生的。哈士奇的肠胃功能比较独特，需要高质量的饮食，对蛋白质和脂肪的需求量都很大，尤其是那些需要拉狗拉雪橇的哈士奇们。哈士奇利用食物的效率很高，它们比相似体型和运动量的狗们需要的食物都要少。它们的食物必须根据它们的工作及活动量来加以调整；肥胖是缺少运动且过度喂养的宠物经常有的问题。</p><p><br/></p>",
+                "美容知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-9.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">西伯利亚雪橇犬一年换两次毛，主要在春秋两季的时候，在其他时间里掉毛的情况并不严重。在换季的日子里替它每天梳理2～3次，把它将快要脱落的毛发一起梳掉，免得弄得到处都是。夏天每隔10～14天左右洗一次澡；冬天可以隔3～4星期洗1次澡，因为有丰厚的毛，所以在使用浴液时也要选用质量较好的，冲完后也要过1次护发素。然后用最快速的方法吹干它。</p><p><br/></p>",
+                "驯养知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-8.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">在训练时个性开朗的哈士奇总会出现不同的反应，让主人来个措手不及。想要好好的训练哈士奇随行，不让自己在训练半途而狼狈的跑去追狗，那么小编就来告诉你，哈士奇训练的三个小贴士。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">1.食物诱导，适当鼓励。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">在哈士奇随行训练中，要注意用食物、物品等诱导哈士奇与狗主并排前进。只要哈士奇依令保持在正确位置时，就给予奖励。如此反复训练，也能使哈士奇对“靠”的口令、手势形成条件反射。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">2.避免误踩哈士奇。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">训练刚开始时，人、哈士奇的动作互不协调。训练哈士奇者要注意不要踩着哈士奇，以免哈士奇产生恐惧感。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">3.牵引带的使用要灵活，要松紧适度。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">在纠正哈士奇的位置时，牵引带只是瞬间被拉紧，哈士奇一回到正确位置，应立即放松牵引带，以免哈士奇感到不舒服。如哈士奇超前、偏离，用急扯牵引带的方法不能纠正的话，可采用转弯的方法纠正。</p><p><br/></p>"
+            },
+            "petBreedId": 99,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-6.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体型</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">高度：肩高：雄性53-58cm；雌性51-56cm。重量：雄性20-27kg；雌性16-23kg。重量与身高协调。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">表情：坚定，但是友好；好奇，甚至淘气。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">眼睛：杏仁状，分隔的距离适中，稍斜。眼睛可以是棕色或蓝色；两眼颜色不同，或每只眼都有两种颜色是不能接受的。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">耳朵：大小适中，三角形，相距较近，位于头部较高的位置。耳朵厚，覆盖着厚厚的毛，背部略微呈拱形，有力的竖起，尖部略圆，笔直地指向上方。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">颅骨：中等大小，与身体的比例恰当；顶部稍圆，从最宽的地方到眼睛逐渐变细。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">额段：角度非常明显，鼻梁从上至下都很直。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">口鼻：长度中等、从鼻子的末端到额段的长度等于从额段到枕骨的长度。口鼻的宽度适中，逐渐变细，末端既不尖也不方。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">鼻镜：灰色、棕褐色或黑色犬的鼻镜为黑色；古铜色犬为肝色；纯白色犬可能会有颜色鲜嫩的鼻镜。粉色条纹“雪鼻”也可以接受。嘴唇着色均匀，闭合紧密。牙齿剪状咬合。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颈部、背线、身躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">颈：长度适中、拱形，犬站立时直立昂起。小跑时颈部伸展，头略微向前伸。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">胸：深，强壮，但是不太宽，最深点正好位于肘部的后面，并且与其水平。肋骨从脊椎向外充分扩张，但是侧面扁平，以便自由活动。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">背部：背直而强壮，从马肩隆到臀部的背线平直。中等长度，不能因为身体过长而变圆或松弛。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">腰部：收紧，倾斜，比胸腔窄，轻微折起。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">臀部：以一定的角度从脊椎处下溜，但是角度不能太陡，以免影响后腿的后蹬力。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">前躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">肩部：肩胛骨向后收。从肩点到肘部，上臂有一个略微向后的角度，不能与地面垂直。肩部和胸腔间的肌肉和韧带发达。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">前腿：站立时从前面看，腿之间的距离适中，平行，笔直，肘部接近身体，不向里翻，也不向外翻。从侧面看，骨交节有一定的倾斜角度，强壮、灵活。骨骼结实有力，但是不显沉重。腿从肘部到地面的距离略大于肘部到马肩隆顶部的长度。前腿的上爪可以去除。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">倾斜：骨交节无力；骨骼太笨重；从前面看两腿分得太宽或太窄；肘部外翻。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">脚：椭圆形的脚，不长。爪子中等大小，紧密，脚趾和肉垫间有丰富的毛。肉垫紧密，厚实。当犬自然站立时，脚爪不能外翻或内翻。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">后躯</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">站立时从后面看，两条后腿的距离适中，两腿平行。大腿上半部肌肉发达，有力，膝关节充分弯曲，踝关节轮廓分明，距地的位置较低。如果有上爪，可以去除。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">被毛</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">西伯利亚雪橇犬的被毛为双层，中等长度，看上去毛很浓密。下层毛柔软，浓密，长度足以支撑外层被毛。外层毛的粗毛平直，光滑伏贴，不粗糙，不能直立。应该指出的是，换毛期没有下层被毛是正常的。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">颜色</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">从黑到纯白的所有颜色都有。烟灰色的优雅、黑白的经典、棕红的活泼，头部有一些其他色斑是常见的，包括许多其他品种未发现的图案。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">步态</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">西伯利亚雪橇犬的标准步态是平稳舒畅，看上去不费力。脚步快而轻，在比赛场地时不要拉得太紧，应该中速快跑，展示前肢良好的伸展性以及后肢强大的驱动力。行进时从前向后看，西伯利亚雪橇犬不是单向运动，随着速度的加快，腿逐渐向前伸展，直至脚趾全部落在身体纵向中轴线上。当脚印集中在一条线上后，前腿和后腿都笔直地向前伸出，肘部和膝关节都不能外翻或内翻。每条后腿都按照同侧前腿的路线运动。犬运步时，背线保持紧张和水平。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-7.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">挑选哈士奇时，挑选它的性格比它的性别重要得多。令人觉得奇怪的是，雄性的哈士奇却比雌性的哈士奇来得可爱和温驯。雄性的哈士奇脾气较好，容易教导，反而雌性的哈士奇有时会过分地活跃。当然这只是概括而论，不同的哈士奇有不同的性格，所以在挑选自己合意的哈士奇时必须多花点时间在宠物店内或在繁殖者的地方，多方观察方可找到你想买的。那么怎样在较短的时间内分辨出哈士奇的性格呢？我们可以从以下几个方面来考虑：</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">一是太年幼的哈士奇(10个星期或以下)因为太小，表现还是呆呆的，性格或思想还未显明，故无法分辨。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">二是十个星期或以上的哈士奇虽然年纪小，但是它的性格在这个时候应该已经有所显现。哈士奇本身很爱与人在一起，所以当你抱着它的时候它会感到十分满足，非常舒服地伏在你的身上，如果小哈士奇表现异常或不安定，请不要选择。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">三是放它落地后表现应是活泼和好奇，与其它狗狗一齐玩的时候也可以看得出它的性格：如果是个“小霸王”，它的性格会是十分自我，比较难教；太羞怯的表现又会怕它不能逗你开心。因此，如果它与其他狗狗一齐玩的时候十分合群，没有意图对其他狗仔作出任何攻击的行为，就可以看出它会是一只懂得社交和温驯的小狗。那么小的年纪就有这个表现，显然它是与生俱来的性格，我们便可以放心购买。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">最后，买一只年纪较大的狗 (例如4—10个月大) 也不失为一个好主意。哈士奇本身非常喜欢人，所以它们很快就可以适应你和跟你熟络，并且只要你喜欢与它沟通和相处，它们很快就会把你当作主人。再者，现在繁殖者通常都会留起一些哈士奇幼犬来训练用以参加犬展，这些哈士奇都已经过了一定的训练，无论在外貌及骨架上都会更胜一筹。如果买到这样一只有适当训练的哈士奇只会锦上添花，带回家后马上就可以带给你的是欢乐而不是烦恼。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-4.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">哈士奇的性情很温顺。由于是一种工作犬 ，它们精力充沛，喜欢探索和运动。这使得它们成为了广受欢迎的家庭宠物和经常用于展示的犬种。哈士奇可以表现出对人类深厚的感情和强烈的好奇，因为充分社会化了的哈士奇对人类幼儿十分友好，并且喜爱与人类相处，所以它们不能做为看门狗。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">在中大型犬种中，哈士奇尤其好动，固执，个性独立的脾气，由于它的血统来自西伯利亚狼，是犬种中基因跟狼最接近的狗。它们并不是那种善于阿谀和讨好主人的犬种。很多情况下它们会拒绝执行命令，直到它们找到一个比简单地向主人让步更好的理由为止。哈士奇并不适合那些第一次尝试养狗的人，它们强烈的愿望和渴求对于没有充分经验的人来说是很难处理的。哈士奇有强烈的奔跑本能，所以最重要的规则之一就是不要让它们在不安全的地方奔跑。</p><p><br/></p>",
+                "适养人群": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-11.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">城乡均可，宽敞为佳。最好是住在郊区，有一个有围栏的院子更佳。也适合居住小区空地较多的饲养者，害怕孤单，须有人陪伴，精力旺盛，运动量大。不适宜老年人和休闲时间不多的上班族与学生饲养。</p><p><br/></p>"
+            },
+            "price": "1300~1400元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-1.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">哈士奇</span><br/>英文名：Siberian Husky<br/>别名：西伯利亚雪撬犬<br/>生源地：西伯利亚&nbsp;<br/>智商：第45名&nbsp;<br/>体型：中型犬&nbsp;<br/>价格：1300-1400元&nbsp;<br/>肩高：51-60厘米<br/>体重：16-27公斤&nbsp;<br/>毛长：长毛&nbsp;<br/>功能：伴侣犬、雪橇竞赛犬&nbsp;<br/>饲养：好养</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/dog/G65/65-3.jpg\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; font-size: 18.018px; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">新石器时代之前，一群中亚的猎人们移居到西伯利亚生活，经过了长久时间，这群跟随在猎人身边的狗，在长期与北极狼群交配繁育之下，发展成为北方特有的犬种，其中包括哈士奇、萨摩耶、阿拉斯加雪橇犬等。在西伯利亚东北部的原始部落楚克奇人，用这种外型酷似狼的哈士奇犬作为最原始的交通工具来拉雪橇，并用 猎取和饲养驯鹿，或者繁殖后带出他们居住的冻土地带来换取温饱。由于哈士奇体型小巧结实，胃口小，无体臭且耐寒，非常适应极地的气候环境，而成为楚克奇人的重要财产。18世纪初，阿拉斯加的美国人开始知道哈士奇雪橇犬。1909年，西伯利亚哈士奇雪橇犬第一次在阿拉斯加的犬赛中亮相。1930年，由于苏联政府关闭西伯利亚地区的边境禁止对外贸易，最后一批哈士奇在这一年里被出口到其他国家。同年哈士奇被美国犬业俱乐部（AKC）正式承认。1939年，哈士奇在加拿大正式注册。21世纪初在北美洲注册的哈士奇大多数都是1930年从西伯利亚进口和Leonhard Seppala的狗的后代。</p><p><br/></p>"
+            },
+            "alisName": "西伯利亚雪撬犬",
+            "showImage": "http://p2.ycw.com/201609/08/0c2e8225808b2fc6aa0163581405ba39",
+            "bodyType": "中型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "1"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "6"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "3"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "4"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "10"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "4"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "8"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/09/5cec1572e4ca857271250147b2ad1fcd",
+            "status": 1,
+            "name": "哈士奇"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "2",
+                "运动量": "1",
+                "耐热程度": "7",
+                "护家程度": "6",
+                "耐寒程度": "8",
+                "美容程度": "4",
+                "友善程度": "4",
+                "口水程度": "2",
+                "粘人程度": "1",
+                "掉毛程度": "6",
+                "喜叫程度": "6",
+                "可训程度": "1",
+                "饲养难度": "8",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Japanese Spitz"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "100"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "日本"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "6.4~10",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "10~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "2500~3000",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "36~38",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,其它"
+                }
+            ],
+            "feedInfo": {},
+            "petBreedId": 107,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {},
+            "price": "2500~3000元",
+            "baseInfo": {},
+            "alisName": "日本丝（绒）毛犬、日本尖嘴犬",
+            "showImage": "http://p2.ycw.com/201609/12/4243394077f59ba6c16a752fe8657f96",
+            "bodyType": "小型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "6"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "8"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "6"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "1"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "7"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "1"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "1"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/1a819a0ed4e710f8f28513b0d341f4cd",
+            "status": 1,
+            "name": "狐狸犬"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "3",
+                "运动量": "8",
+                "耐热程度": "8",
+                "护家程度": "6",
+                "耐寒程度": "9",
+                "美容程度": "4",
+                "友善程度": "5",
+                "口水程度": "5",
+                "粘人程度": "6",
+                "掉毛程度": "6",
+                "喜叫程度": "6",
+                "可训程度": "10",
+                "饲养难度": "9",
+                "关爱需求": "5"
+            },
+            "woolColor": null,
+            "fisrtWord": "H",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "German Shepherd Dog"
+                },
+                {
+                    "id": "2",
+                    "name": "智商",
+                    "unit": "名",
+                    "value": "3"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "法国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "34~43",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "10~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "2500~6000",
+                    "unit": "元"
+                },
+                {
+                    "id": "7",
+                    "name": "肩高",
+                    "value": "55~56",
+                    "unit": "厘米"
+                },
+                {
+                    "id": "15",
+                    "name": "功能",
+                    "value": "伴侣犬,牧羊犬,搜查犬"
+                }
+            ],
+            "feedInfo": {},
+            "petBreedId": 102,
+            "smallRace": null,
+            "petRaceId": 1,
+            "breedInfo": {},
+            "price": "2500~6000元",
+            "baseInfo": {},
+            "alisName": "德国牧羊犬;狼狗;德牧",
+            "showImage": "http://p2.ycw.com/201609/12/e106c60b865111ebfa0f9488d2c65e78",
+            "bodyType": "大型",
+            "woolLength": "短毛",
+            "diseaseIds": "[290]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "5"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "6"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "3"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "9"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "6"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "9"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "8"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "8"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "10"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "5"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "5"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/a3f6b515e77e2fde70e0ab194022d1fe",
+            "status": 1,
+            "name": "黑背"
+        }
+    ],
+    "pageSize": 8,
+    "count": 251,
+    "total": 32
+}

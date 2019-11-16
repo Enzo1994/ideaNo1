@@ -12,10 +12,14 @@ Page({
     index: null,
     gender:0,
     avatarUrl: "",
+    bodyLengthPicker: [Array(100).fill('').map((item, index) => index), Array(10).fill('').map((item, index) => index),['cm']],
+    bodyLengthIndex:0,
+    weightPicker: [Array(100).fill('').map((item, index) => index),Array(10).fill('').map((item,index)=>index),['kg']],
+    weightIndex:0,
     isModify:false,
     isImageModify:false,
     diaryBookIndex:0,
-    buttonDisabled:false
+    buttonDisabled:false,
   },
   chooseAvatar: function() {
     wx.chooseImage({
@@ -40,6 +44,16 @@ Page({
     this.setData({
       date: e.detail.value
     });
+  },
+  bodyLengthChange(e) {
+    this.setData({
+      bodyLengthIndex: e.detail.value
+    })
+  },
+  weightChange(e) {
+    this.setData({
+      weightIndex: e.detail.value
+    })
   },
   chooseImages() {
     wx.chooseImage({
@@ -80,6 +94,7 @@ Page({
     });
   },
   formSubmit(form) {
+
     this.setData({
       buttonDisabled:true,
     })
@@ -90,6 +105,10 @@ Page({
       duration:20000
     })
     const { value } = form.detail;
+    value.bodyLength = this.data.bodyLengthPicker[0][this.data.bodyLengthIndex[0]] + this.data.bodyLengthPicker[1][this.data.bodyLengthIndex[1]] / 10
+    value.weight = this.data.weightPicker[0][this.data.weightIndex[0]]+this.data.weightPicker[1][this.data.weightIndex[1]]/10
+
+    console.log(value)
     // if (!value.sex) {
     //   wx.showToast({
     //     icon: "none",

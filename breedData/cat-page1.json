@@ -1,0 +1,1240 @@
+{
+    "pageNum": 1,
+    "petRaceId": 2,
+    "list": [
+        {
+            "attentionInfo": {
+                "常见问题": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M108.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>饲养阿比西尼亚猫比较常见的一个问题就是掉毛严重。主要原因一般是季节性换毛、猫藓引起、盐分摄入过量及营养不良。</p><p>\n\t\t\t\n\t\t\t</p><h3>季节性换毛：</h3><p>当春夏到来时，阿比西尼亚猫要脱去绒毛；当秋冬来临时，阿比西尼亚猫要换上厚厚的绒毛。</p><p>\n\t\t\t</p><h3>猫癣引起：</h3><p>如果一周岁以内的阿比西尼亚猫和八周岁以上的阿比西尼亚猫忽然出现大量脱毛，且毛根部有皮屑，毛质脆弱一拔就掉，甚至出现裸露皮肤的现象，就要注意了，阿比西尼亚猫是患上了猫癣，需要及时治疗。</p><p>\n\t\t\t\n\t\t\t</p><h3>盐分摄入过量：</h3><p>盐是阿比西尼亚猫食物中的禁忌之一。阿比西尼亚猫对盐的需求量极少，而阿比西尼亚猫的味觉较差，如果在饮食上不注意，往往会不知不觉的摄入过多的盐分，过多的盐分除了会造成阿比西尼亚猫的肾脏的负担，也会造成阿比西尼亚猫毛发干枯、掉毛等现象。</p><p>\n\t\t\t</p><h3>营养不良：</h3><p>肠胃功能较弱的阿比西尼亚猫容易出现因为营养不良而掉毛的现象，如果阿比西尼亚猫出现毛发干枯没有光泽，毛发易断易脱落，有可能就是阿比西尼亚猫出现了营养不良的问题，主人要考虑给猫猫补充营养。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "1",
+                "运动量": "8",
+                "耐热程度": "4",
+                "护家程度": "1",
+                "耐寒程度": "6",
+                "美容程度": "2",
+                "友善程度": "7",
+                "口水程度": "1",
+                "粘人程度": "6",
+                "掉毛程度": "2",
+                "喜叫程度": "4",
+                "可训程度": "6",
+                "饲养难度": "6",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "A",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Abyssinian"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "阿比西尼亚(今埃塞俄比亚)"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "4~7.5",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "6000~9000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "黑色,蓝色,黄色,褐色,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M110.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>饲养阿比西尼亚猫，要注意以下几个养护要点：</p><p>\n\t\t\t</p><p>1.饲养阿比西尼亚猫前一定要先规划好它们的活动空间，和其它喵咪不同的是，阿比西尼亚猫喜欢宽敞的房间，如果你把它们放到狭小的空间中，它们是会很生气的。<br/>2.给它们准备猫爬架，因为阿比西尼亚猫喜欢爬树，有人将它们称为攀岩高手，一个有趣的猫爬架绝对可以让它们享受生活。由于这种好动的性格，主人在养护猫咪的过程中要注意把家里的易碎物品收放好。<br/>3.如果你在外时间较长，一定要在回家后勤跟猫咪玩耍，否则你在它们心目中的地位会逐渐下降。如果主人长期冷落它们，还可能会患上“抑郁症”。<br/>4.阿比西尼亚猫是短毛猫，因此主人不必经常为它们洗澡，一般情况下，每月洗一次澡即可。但给它们洗澡要特别注意以下的事项：<br/>A.水温不能太低或太高，以不烫手（40~50℃）为宜；室内保持温暖，防止猫着凉引起感冒。<br/>B.所用的洗涤剂刺激性不能太大，以免刺激皮肤；为防止洗澡水进入眼睛，在洗澡前，把猫的眼睛滴上油性眼药水，以保护眼睛。<br/>C.猫健康状态不佳时不宜洗澡，6月龄以内的小猫容易得病，一般不要洗澡。</p><p><br/></p>",
+                "饮食知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M105.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>阿比西尼亚猫在饮食上有比较多的禁忌，出于对健康的考虑，记住不要给它们喂的食物，有时主人很注意，但小孩子会喂，所以全家都得小心。</p><p>\n\t\t\t</p><p>洋葱：含有会破坏猫血红细胞的物质，喂养时要特别注意不要误加。<br/>鱼骨、鸡骨：猫吃东西是不咀嚼也是直接吞下去的，鸡骨和鱼骨等大骨头可能会刺伤猫的食道和胃，喂养猫猫之前应该剔除。<br/>生肉：因为可能有弓形虫，应该煮熟后再喂给猫猫吃。<br/>墨鱼、章鱼：猫猫吃完后不易消化。<br/>鲍鱼、海螺：有可能会诱发光线过敏症和易得皮炎，尤其对猫的耳朵会更有影响。<br/>刺激食物：如胡椒、芥末、辣油。<br/>太冷和太热食物：猫猫的舌头很怕热，身体对太冷太热的食物也会很排斥。<br/>内脏：内脏一般都含有维生素A，会损害猫猫的骨节。</p><p><br/></p>"
+            },
+            "petBreedId": 266,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "性格特点": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M104.jpg\" alt=\"\"/></p><h3>聪慧灵敏</h3><p>阿比西尼亚猫在纯种猫中绝对是数一数二的聪明，它们智商都非常高，活动能力也很强，因为其聪慧和耐力而被形容为猫中的边境牧羊犬（犬类中智商综合第一）。这种聪明可能无法直接体现在算术或者是杂技表演上，但你会发现它们很容易和你沟通，反应也非常快。</p><p>\n\t\t\t</p><h3>骄傲自信</h3><p>阿比西尼亚猫是非常古老的猫种，也许是因为它们流淌着最原始的血液，把猫骄傲自信的特性表现得淋漓尽致。它是宠物，但你在疼爱的同时要对它保持尊重。它就像是有着良好教养的贵族，优雅的穿梭在你房间里。</p><p>\n\t\t\t\t\t\t</p><h3>顽皮好动</h3><p>阿比西尼亚猫的活泼也是出了名的，给它们任何小玩具，它们都会很开心的自娱自乐，即使什么都不给它们也能找到乐趣。因为它们玩耍时的动作调皮可爱又滑稽，它们又被成为“猫中小丑”。</p><p>\n\t\t\t\n\t\t\t</p><h3>温顺忠诚</h3><p>阿比西尼亚猫性格非常的温顺，喜欢和人相处不怕生，特别是对主人非常的忠诚，被呼唤的时候会以最快的速度回到你的身边。不过，阿比西尼亚猫虽然喜欢和人相处，但在某些方面也是非常有个性的，比如它们喜欢被人抚摸但却非常不喜欢被人抱在怀里。</p><p><br/></p>",
+                "生活习性": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M107.jpg\" alt=\"\"/></p><p>阿比西尼亚猫热衷独居，喜欢宽敞的空间，不喜欢限制在狭小的地方，还喜欢晒太阳、爬树和游泳。它们叫声小且非常悦耳，就算\n当它处于发情的时期里，也不会出现十分大的叫声，无论你住在公寓还是家属楼都可以放心的饲养。更值得一提的是，阿比西尼亚猫步态轻盈，行动敏捷，行走时不\n落半点声音，它们甚至能用爪尖走路。如果有对陌生人出现在它的身边，它会显得非常的害怕，它还有一个和别的猫不同的特点，就是讨厌人们把它抱起来玩。</p><p>\n\t\t\t\n\t\t\t</p><p>阿比西尼亚猫每次产崽大概是在4只左右，刚出生的小猫是非常小的，它的发育是比较缓慢的，刚开始的时候，毛色是稍微呈黑色的，到后来就一点点的变浅了。</p><p><br/></p>"
+            },
+            "price": "6000~9000元",
+            "baseInfo": {
+                "品种介绍": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M103.jpg\" alt=\"\"/></p><p>&nbsp; &nbsp; &nbsp; &nbsp;\t\t\t</p><h3>体形：</h3><p>阿比西尼亚猫属于中等体形的猫，在北美洲及欧洲各有不同的体型发展，如在北美洲发展的阿比西尼亚猫头形比较圆，而欧洲的品\n种嘴比较细尖。阿比西尼亚猫身躯柔软灵活，有着楔形的脸蛋、大而尖的耳朵、呈杏仁状的双眼，眼睛的颜色为琥珀色、浅褐色或是绿色，眼睛的周围并有一圈深色\n的色环，像是画了眼线一样。</p><p>\n\t\t\t\t</p><h3>毛色：</h3><p>淡红色(Ruddy)：底毛橙啡色，毛尖则为深啡或黑色；<br/>\n\t\t\t红色(Red)：底毛红色，毛尖朱古力色；<br/>\n\t\t\t蓝色(Blue)：底毛啡黄色，毛尖为深蓝灰色；<br/>\n\t\t\t淡黄褐色(Fawn)：底毛带红的啡黄色，毛尖为深棕色。</p><p>\n\t\t\t</p><p>阿比西尼亚猫的毛色并非单一毛色，它们每一根毛都具有两到三个色带，使得其被毛出现相当美丽的明暗光泽变化，它们的毛质非常细致柔软，虽然是短毛猫种，但是中等长度的毛发摸起来相当柔顺，其额头则有M字形的斑纹装饰之。</p><p>\n\t\t\t</p><h3>头部：</h3><p>\n\t\t\t</p><p>头形精巧，为稍带圆的三角形。鼻梁稍隆，嘴短而坚实，齿为剪式咬合。</p><p>\n\t\t\t\t</p><h3>耳：</h3><p>\n\t\t\t</p><p>耳大而直立，基部宽，耳廓边缘很薄，耳端稍尖并前倾。耳毛短而密，红褐色种毛尖黑色或黑褐色；红色种毛尖呈巧克力色。耳内长有饰毛。</p><p>\n\t\t\t</p><h3>眼睛：</h3><p>\n\t\t\t\t</p><p>眼大呈杏仁形，略吊眼梢；眼缘黑色，周围为褐色毛覆盖。眼色为绿、黄、淡褐等色。</p><p>\n\t\t\t\t</p><h3>四肢：</h3><p>\n\t\t\t\t \t\t</p><p>四肢细长，脚爪纤巧，与圆形而修长的身材协调一致。</p><p>\n\t\t\t\t\t\t</p><h3>趾：</h3><p>\n\t\t\t\t\t\t</p><p>趾为小而坚实的卵形，立起时，能看到用爪尖站起来。</p><p>\n\t\t\t</p><h3>尾：</h3><p>\n\t\t\t\t \t\t</p><p>尾长而尖，呈锥形，尾根部粗大。</p><p>\n\t\t\t\t\t\t</p><h3>CFA对阿比西尼亚猫的评分标准如下：</h3><p>\n\t\t\t\t\t\t</p><p>头部25分；嘴6分；头颅6分；耳朵7分；眼形6分；身体30分；身躯15分；腿及脚10分；尾巴5分；毛发、毛质10分；颜色35分；毛色15分；毛发条纹15分；眼色5分。</p><p><br/></p>",
+                "发展起源": "<h2></h2><p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M1/M102.jpg\" alt=\"\"/></p><p>阿比西尼亚猫又称埃塞俄比亚猫，因其毛色同野兔相像，英国人亦称它为兔猫或球猫。阿比西尼亚猫是人类最早饲喂的猫咪之一，\n关于它的历史起源至今仍然争论不休。在保存下来的古埃及神猫的木乃伊中，有一种血红色的猫与它十分相像，所以许多人认为它是远古埃及猫的直系后代。但由于\n阿比西尼亚猫今天仍然保留着所有家猫的祖先——非洲野猫的丛林野性本色，且它的整体外形、毛色、直立耳均同非洲山猫接近，也有人认为它源于非洲山猫。</p><p>大约在1860年，一位英国军官把数十只阿比西尼亚猫从阿比西尼亚（今埃塞俄比亚）带回大不列颠，接着便对这种猫进行了精\n心的培育，使其迅速地传播开来。1929年确立了阿比西尼亚猫的品种标准，还相继成立了阿比西尼亚猫爱好者俱乐部。第二次世界大战期间以及1960年和\n1970年，由于猫白血病的盛行，阿比西尼亚猫在英国几乎绝迹。后来爱猫人士又从外国引进并精心培育，才有了今天的阿比西尼亚猫。</p><p><br/></p>"
+            },
+            "alisName": "兔猫、红阿比、埃塞俄比亚猫",
+            "showImage": "http://p2.ycw.com/201609/08/54a2ffb594ba2eb037d6bb0497147a45",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "7"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "4"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "1"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "2"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "6"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "6"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "4"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "8"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/14/ea47a8db8c7a874a9727fb1b0a9401e7",
+            "status": 1,
+            "name": "阿比西尼亚猫"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "1",
+                "运动量": "6",
+                "耐热程度": "2",
+                "护家程度": "1",
+                "耐寒程度": "10",
+                "美容程度": "4",
+                "友善程度": "4",
+                "口水程度": "1",
+                "粘人程度": "6",
+                "掉毛程度": "2",
+                "喜叫程度": "1",
+                "可训程度": "4",
+                "饲养难度": "1",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "A",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Russian Blue"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "俄罗斯"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "3~6",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "1300~1800",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "蓝色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M19/M1906.jpg\" alt=\"\"/></p><p>国内血统纯正的俄罗斯蓝猫相当稀少，要想获得一只纯正俄罗斯蓝猫相当不易。所以，一定要确保纯种繁殖，避免杂交，这样才能\n保证纯正的俄罗斯蓝猫数量在国内不断增加。有多年从业经验的医生指出，纯种的俄罗斯蓝猫已经非常罕见，市面上见到的号称俄罗斯蓝猫的猫多由英国短毛猫配种\n而来。购买仅仅是根据毛色来鉴别是不正确的，不要忘记问宠物店或者原主人出示出生证和血统证。&nbsp;</p><p><br/></p>",
+                "饮食知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M19/M1909.jpg\" alt=\"\"/></p><h3>定时定量定点</h3><p>主人定时定量定点给猫咪供应食物，一刻避免猫猫出现各种胃肠道疾病。对于大部分健康的成年猫咪来说，它们会控制好自己的食\n量，只要吃饱了便不会多吃食盆里的食物。然而对于一些幼年猫咪或某些成年猫来说，它们对吃多少可能完全没有概念，每次主人喂多少，它们就会吃多少，如果你\n养的猫咪是这样的，那么一定要注意每次的喂食量。</p><p>\t\t</p><h3>禁忌食物把关好</h3><p>像动物肝脏这类的食物在猫咪看来是珍馐美味，可是对它们的身体来说却不是一件好事，动物肝脏中维生素A的含量固然高，但过\n量食用会导致猫咪维生素A中毒，因此正确的做法是给猫咪少量供应动物肝脏类食物。而有些食物则是一定不能给猫咪吃的，比如巧克力、洋葱、葡萄等，如果给它\n们吃了，可能会出现一些意外状况，主人一定要当心。对于牛奶之类的争议性食物，最好不给猫猫吃。</p><p>\n\t\t\t</p><h3>零食供应要控制</h3><p>供应零食要控制好量，吃太多零食可能会让猫猫养成挑食的坏习惯，也可能会导致猫猫得肥胖病。有些家长会利用零食来训练猫咪，不过家长们千万不能完全依赖零食来帮助你进行训练，否则到后期，猫咪会觉得零食已经司空见惯、不能满足自己的需求，进而变得难以训练。</p><p><br/></p>",
+                "美容知识": "<p>俄罗斯蓝猫是短毛猫，无需过分的清洁，洗澡的次数不用太频繁，夏天大概相隔15天，冬天相隔一个月洗一次就足够了。给猫洗澡时，先用婴儿洗澡盆准备\n一盆40度左右的温水，将猫慢慢地浸入水中，一边爱抚猫背一边用手将水撩上猫身。注意不要把水弄湿猫的头脸部，引起猫反感。将猫毛完全湿润后，可把猫抱出\n水盆，用稀释的宠物专用洗毛精淋在猫的身上进行搓洗。搓洗中要注意不要漏掉猫腹和腋下等地方，脸一定不要洗，泡沫完全搓匀后，再把猫放入水盆中清洗一遍，\n如果有热水器的话，可直接用花洒给猫冲洗干净。如果没有，就要多换好几盆水，尽量将猫完全冲洗干净。</p><p>洗澡完后要快速用毛巾擦干猫身上的水分，尽可能擦的越干越好，这样可以缩短吹干毛发的时间。擦干后，可把猫放在纸箱里，用电热风筒将猫毛吹干。吹干过程注\n意温度不可太高，吹风口要与猫保持一定的距离，以免烫伤猫毛。猫毛吹干后，再用不含类固醇的抗生素眼药水和猫用滴耳油对猫的眼睛和耳朵进行适当保养就行\n了。&nbsp;</p><p><br/></p>",
+                "驯养知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M19/M1908.jpg\" alt=\"\"/></p><p>俄罗斯蓝猫是很性格是比较独立的品种，虽然对主人的感情比较专一，但也不喜欢过分的亲近，特别是对于它不高兴做的事，很难令其服从命令。但它又是很守规矩的动物，一旦形成规矩的事情，它则会自觉地遵守。所以，利用俄罗斯蓝猫的这种性格对其进行训练，能让它服从很多命令。</p><p>比如训练猫“招之即来”，拿一块猫喜欢的食物站在猫的对面，口中发出“来”的声音，当猫就会走过来时，让猫把食物吃掉，并轻拍抚摸，表示赞扬。猫如果不肯\n过来，可将食物让它看一下，再发出“来”的口令。经过多次训练之后，只要发出“来”的声音，即使没有食物，猫也会顺从地走过来。这时可进一步训练，在向猫\n发出“来”的声音的同时，向猫招手，猫过来了，就给予奖励，让猫形成条件反射。以后逐渐只招手，不发声，若猫能过来，继续给予食物鼓励和爱抚，经过一段时\n间的训练，就能让猫感觉到这是一条规矩，只要主人一招手，猫就会迅速过来。&nbsp;</p><p><br/></p>"
+            },
+            "petBreedId": 268,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M19/M1903.jpg\" alt=\"\"/></p><p>俄罗斯蓝猫体型细长，大而直立的尖耳朵，脚掌小而圆，走路像是用脚尖在走。身上披着银蓝色光泽的短被毛，配上修长苗条的体型和轻盈的步态，尽显一派猫中的贵族风度。</p><p><br/></p>",
+                "性格特点": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M19/M1905.jpg\" alt=\"\"/></p><p>俄罗斯蓝猫性格文静、害羞怕生。它们对主人非常的信任，喜欢用各种手段取悦主人，也能和其他宠物和平相处，是受很多爱猫人士喜爱的猫种。但是很保守不喜欢陌生人，因为它们敏感且感情很专一，如果你要饲养俄罗斯猫，你可能享受不了猫猫配合你在客人面前炫耀一番。</p><p>俄罗斯蓝猫喜欢安静的环境，不喜欢噪音和喧闹，对环境要求不高，能适应寒冷的环境。爱好独处，独善其身，哪怕主人对它太过亲热或充满保护欲时，会给\n它造成莫名压力，被它疏远，有自怜倾向，沉默寡言，心思敏感纤细，应保持一定距离耐心对待；对性别模糊、可以互舔伤口的同类抱有好感。 &nbsp;</p><p><br/></p>"
+            },
+            "price": "1300~1800元",
+            "baseInfo": {
+                "品种介绍": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M19/M1904.jpg\" alt=\"\"/></p><p>&nbsp; &nbsp; &nbsp; &nbsp;\t\n\t\t\t\t</p><h3>头部：</h3><p>短而呈楔形，带直线条，头骨和前额扁平，头宽脸尖细。</p><p>\n\t\t\n\t\t\t</p><h3>耳朵：</h3><p>\n\t\t\t</p><p>大，基部宽，耳尖向前倾。</p><p>\n\t\t\t\t\n\t\t\t</p><h3>眼睛：</h3><p>\n\t\t\t\t</p><p>大，间距大，眼睛呈杏仁形，生动的绿色。小猫中的眼睛从黄到绿。最终的颜色到1岁时才能定型。</p><p>\n\t\t\t\t</p><h3>身体：</h3><p>\n\t\t\t\t</p><p>长，异国型。细致到中等大小的骨架。肌肉发达。</p><p>\n\t\t\t\t\n\t\t\t\t</p><h3>四肢：</h3><p>\n\t\t\t\t \t\t</p><p>腿长而骨骼细致。小而圆的爪，呈椭圆形。爪子垫为淡紫色桃红色或淡紫色。</p><p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</p><h3>尾巴：</h3><p>\n\t\t\t\t\t\t</p><p>长而笔直，和身体成比例。</p><p>\n\t&nbsp; \n\t &nbsp;\t</p><h3>毛色：</h3><p>\n\t\t\t\t\t\t</p><p>始终明亮的蓝色。蓝色更轻的树荫更喜欢。针毛银分明地打翻了给猫一次银色光泽或发光泽的出现。一个确定对比应该是着名在底色和打翻之间。从平纹标号释放。</p><p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t</p><h3>被毛：</h3><p>\n\t\t\t\t\t\t</p><p>短，密而细腻，长绒毛感。全身浓密而柔软的厚绒毛，为双层毛，触之有天鹅绒般柔滑感觉，并闪烁着一种银蓝色光泽从身体向外张开。柔软，丝质手感。双重被毛带非常厚的底层绒毛。同一单色为蓝灰，银色光泽是由银色的毛尖着色所致。长时间在阳光下暴晒会导致被毛颜色变深。</p><p><br/></p>",
+                "发展起源": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M19/M1902.jpg\" alt=\"\"/></p><p>俄罗斯蓝猫，英文名Russian \nBlue。历史上曾被称做阿契安吉蓝猫，由于祖先起源于寒冷的西伯利亚地带，很多地方称它为“冬天的精灵”。17世纪时随着船只被带到英国繁衍，第二次世\n界大战期间险些绝种。俄罗斯蓝猫历史较为悠久，它们的祖先“阿契安吉蓝猫”早在17世纪就从俄罗斯的港口被带往英国。二次大战以后，俄罗斯蓝猫的数量急剧\n减少，为了把其种群数量恢复，培育者用暹罗猫与其进行杂交，使得俄罗斯蓝猫的外形带有一些东方情调。&nbsp;</p><p><br/></p>"
+            },
+            "alisName": "阿契安吉蓝猫;马耳他猫",
+            "showImage": "http://p2.ycw.com/201609/08/a6bec70ff1b397772e2ad308ac06c4eb",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "1"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "1"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "1"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "10"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "2"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "4"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/14/22baad9a172a2689c4e3f9563f0a12c5",
+            "status": 1,
+            "name": "阿契安吉蓝猫"
+        },
+        {
+            "attentionInfo": {
+                "相关疾病": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2007.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>整体而言，埃及猫一般都是很健康的猫咪，但是可能会影响这种品种的一个问题是遗传性脑白质失养症，可能出现在小猫7周龄左右的时候，主人要注意给猫猫补充营养。</p><p>\n\t\t\t\n\t\t\t\t</p><p>另外，要注意一个更常见的健康问题：肥胖。让埃及猫维持在一个适当的体重，有助于防止埃及猫晚年得到关节炎。埃及猫的跳跃能力非常好，保养关节也就成了埃及猫的保健课题之一。</p><p>\t</p><p>需要注意的是埃及猫对药物和麻醉剂比较敏感，一般手术需求或是需要吃药的时候，建议先与兽医讨论，并且注意猫咪服用药物之后的状况。</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "8",
+                "运动量": "8",
+                "耐热程度": "2",
+                "护家程度": "9",
+                "耐寒程度": "8",
+                "美容程度": "7",
+                "友善程度": "8",
+                "口水程度": "6",
+                "粘人程度": "6",
+                "掉毛程度": "7",
+                "喜叫程度": "1",
+                "可训程度": "10",
+                "饲养难度": "9",
+                "关爱需求": "3"
+            },
+            "woolColor": null,
+            "fisrtWord": "A",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Egyptian Mau"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "埃及"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "2~5",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "5000~6000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2008.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>埃及猫行动敏捷，要记得给猫猫准备一个猫爬架，让它们能不出门就能有足够的空间运动。此外，因为埃及猫对其他的动物比较敏感，饲养埃及猫后就不要考虑再养其他猫狗，就算是同品种的埃及猫也不行。</p><p>\n\t\t\t\t</p><p>虽然埃及猫看上去比较难控制，但它们内心其实是很希望主人能多关注它们一些。一般情况下，只要主人保持对它们的关注、经常跟它们互动，它们就会比较依赖有你在的生活。主人每天需要做的事包括清理猫砂盆、准备食物、陪猫咪玩耍等。</p><p>\t\n\t\t\t\t</p><p>埃及猫对温度十分敏感，它们喜欢待在温暖的地方，因此，当气温较低时，主人最好在靠窗能晒到太阳的地方给猫咪准备个小窝，这样它们就可以窝在里面尽情享受温暖的阳光。在冬天的时候，记得在猫窝里面放个暖水袋或者毛毯子保暖。</p><p>\n\t\t\t\t</p><p>最后，埃及猫的怀孕期比一般猫咪要长，通常为73天左右。在猫咪的怀孕期，饲主一定要保证猫咪能够摄取充足的营养，并且不要让它们与其他动物产生纷争，一般还是建议绝育。</p><p><br/></p>",
+                "饮食知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2010.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>跟所有猫咪一样，埃及猫的饮食也要避免高盐、高油、高糖食品。如果埃及猫摄入过多高盐食品，可能会出现泌尿系统疾病等；如果摄取过多的高油食品，则可能出现肥胖的现象；而如果摄取过多的高糖食品，猫猫不仅会变得肥胖，还可能会龋齿和糖尿病等风险。</p><p>\n\t\t\t</p><p>为了让猫咪既能获得充足的营养，通常主人都会干粮、湿粮再搭配零食来喂养猫咪，从猫咪健康的角度出发，主人最好以干粮为主，湿粮和零食为辅。\n不过如果埃及猫进入老年期，则可提高湿粮的比例。主人们需要注意的是，零食的供应一定要控制好量，如果零食提供太多，猫咪不仅可能会养成挑食的习惯，还有\n可能出现胃肠道紊乱的情况。</p><p>\n\t\t\t\t</p><p>不能给猫咪喂生鱼，因为可能会导致猫咪患上寄生虫病，而且鱼刺也有可能会伤及猫咪的消化道。想要给猫猫吃鱼，一定要煮熟，最好是清蒸，并且\n把鱼刺挑完再给猫猫吃。对于有争议的食品，比如牛奶，有些猫咪喝了后会出现呕吐、腹泻的症状，而有些则不会有不良的反应，不要轻易给埃及猫尝试。</p><p><br/></p>",
+                "驯养知识": "<h2></h2><p>\n\t\t\t\n\t\t\t</p><p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2012.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>埃及猫，拥有人们印象中法老的威严和神秘，看似很难训练。其实，只要掌握了其中的小窍门，想要把埃及猫训练得服服帖帖也不是一件困难的事。</p><p>\n\t\t\t\t</p><h3>把握好年龄和时机：</h3><p>\n\t\t\t\t</p><p>\t猫的训练应在2~3月龄时开始，这时较易接受训练，并为今后的提高打下基础。如果是成年猫，训练起来就比较困难。训练猫的最佳时间是喂食前，因为饥饿的猫愿意与人亲近，比较听话，食物对猫的诱惑力使训练容易成功。</p><p>\n\t\t\t\t</p><h3>态度和气不惩罚：</h3><p>\n\t\t\t\t</p><p>埃及猫自尊心很强，不愿听人摆布。所以，在训练时，要将各种刺激和手段有机地结合起来使用，而且，态度要和气，像是和它们玩耍一样，绝对绝对不能惩罚。</p><p>\n\t\t\t\t</p><h3>一次一个动作循序渐进：</h3><p>\n\t\t\t\t</p><p>一次只能教一个动作，切不可同时进行几项训练，猫很难一下子学会许多动作。如果总是做不好，也会使猫丧失信心，引起猫的厌烦情绪，给以后的训练带来困难。每次的训练时间不宜过长，不能超过10分钟，但每天可多训练几次。</p><p>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t</p><h3>单独训练保持安静：</h3><p>\n\t\t\t\t</p><p>埃及猫对陌生的动物和人都比较敏感，所以主人应该单独对猫猫训练，不能同时几个人围观或者发号施令，否则会分散猫猫的注意力。注意训练过程中保持安静，不要发出巨大的响声，以免惊吓猫猫。</p><p><br/></p>"
+            },
+            "petBreedId": 270,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2003.jpg\" alt=\"\"/></p><p>埃及猫的体形大小、骨骼、长度均为中等，肌肉非常发达。极为雄壮，四肢均匀，以身体协调，站立时后肢高，脚尖站立。脚掌纤细，略呈椭圆形，后脚脚趾长。尾巴长短适中，尾端会较细。</p><p>\n\t\t\t</p><p>埃及猫是点状虎斑种的猫中唯一不以人工繁殖，而是自然形成点状花纹的猫种，被誉为“小型豹”，身上充满野性风味的点状花纹。埃及猫毛色呈银白、青铜、暗灰黑等色，带有匀称斑点，毛细密柔滑、富有弹性。体型中等，长有一对大而尖的耳朵，头部有典型的“M”形斑纹。</p><p><br/></p>",
+                "性格特点": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2002.jpg\" alt=\"\"/></p><p>埃及猫一身豹纹，性格也如同小豹子一样聪明、敏捷。不少因为埃及猫散发的野性风味迷恋上它们，但想要饲养它们，必须先要了解埃及猫的性格特点。</p><p>埃及猫是非常聪明的猫种，会热烈回报主人的爱护，同样如果主人经常训斥它们，它们则会慢慢远离主人。所以，在饲养埃及猫的过程中，主人千万不能把它们抛到一边放任不管，因为埃及猫喜欢有责任心、有爱心的主人。</p><p>\n\t</p><p>埃及猫天性敏感，见到陌生的动物入侵它们的地盘时，会进行猛烈的攻击。此外，如果埃及猫碰到陌生的人类，它们则会立刻选择躲避，如果你不依不饶地逗弄它们，它们则可能会对你发起攻击。所以埃及猫不合适家里有多种猫咪混养或者是经常有客人来的家庭饲养。</p><p><br/></p>",
+                "生活习性": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2011.jpg\" alt=\"\"/></p><p>埃及猫的生活习性很特别，因为它们年代久远，在身体结构上、生长和行为上与其他现代家猫都有很大区别。埃及猫对温度很敏锐，非常喜欢温暖的地方。它们对药物和麻醉剂很敏感。埃及猫的孕期也会比其他家猫长，一般猫的怀孕期为65天到67天，而埃及猫则长约73天。</p><p>\n\t\t\t</p><p>埃及猫非常聪明，喜欢亲近负责任、有爱心的主人。但对其他品种的陌生猫都不大友善，特别是纯种的埃及猫，它们会非常凶猛地攻击入侵的猫，亦会极敏锐地躲避陌生的人类，因此埃及猫并不适合住在公寓或经常有客人的家庭。</p><p>埃及猫行动敏捷快速、天生聪明，如果不加看管，容易逃脱，很多兽医和主人不赞成它们到户外生活。但只要从它幼小时开始小心地带它们到户外，引导训练，基本都能学会避开户外的危险和记得回来。</p><p><br/></p>"
+            },
+            "price": "5000~6000元",
+            "baseInfo": {
+                "品种介绍": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2009.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><h3>头部：</h3><p>呈现略圆的楔形且大小适中，额头到鼻梁部分有些隆起。额头、脸颊和侧脸较为丰满。嘴不尖，公埃及猫的下腭较发达。</p><p>\n\t\t\t\t</p><h3>耳朵：</h3><p>耳朵大且耳朵的端部略尖向前倾。耳朵外侧的毛较短并且很密，在耳朵的内侧长有向外侧伸出并卷曲的饰毛。</p><p>\n\t\t\n\t\t\t</p><h3>眼睛：</h3><p>\n\t\t\t</p><p>呈杏仁形的眼很大，稍向上吊的眼梢，眼睛的颜色为玻璃绿、粟绿色或淡绿色。猫猫高兴时，眼睛是绿色的，当它生气时，会转为琥珀色。</p><p>\n\t\t\t\t</p><h3>躯体：</h3><p>\n\t\t\t</p><p>埃及猫的身材适中，苗条，强健的肌肉中最为发达分别是颈和肩两部分。</p><p>\n\t\t\t</p><h3>四肢：</h3><p>\n\t\t\t\t</p><p>四肢较其他猫种长，后腿长于前肢。肢体协调，并且能用爪尖站立起来。</p><p>\n\t\t\t\t</p><h3>趾：</h3><p>\n\t\t\t\t \t\t</p><p>呈现稍圆的小卵形。</p><p>\n\t\t\t\t\n\t\t\t</p><h3>尾：</h3><p>\n\t\t\t\t \t\t</p><p>尾巴的长度中等，根部较粗，尾尖部分较细。</p><p>\n\t\t\t\t\t</p><h3>被毛：</h3><p>\n\t\t\t\t \t\t</p><p>光滑、柔软、有光泽。埃及猫身体的每个部位有很多种斑纹，这是它最大的特征。额头有&quot;M&quot;形状花纹并且脸颊也有花纹的是典型的埃及\n猫。在它的颈部有呈细线形状的花纹，在肩部有较宽的条纹，肩部往后的部分为斑点状花纹，喉部的项链花纹断成两节，身体上无规则的分布色斑，尾巴上毛的颜色\n略深，四肢的花纹为横条形。</p><p>\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</p><h3>毛色：</h3><p>\n\t\t\t\t \t\t</p><p>埃及猫的毛色主要有银色、古铜色和烟色三种：<br/>银色的埃及猫底色为淡银色，有黑斑在没有规则的银色条纹上，黑线包围鼻、唇和眼的边缘，砖红色的鼻镜，足趾间的颜色为黑色。<br/>古铜色的埃及猫底色为淡棕色，有巧克力色斑点在没有规则的古铜色条纹上，棕褐色线包围鼻、唇和眼的边缘，砖红色的鼻镜，足趾间的颜色为棕褐色或黑色。<br/>烟色的埃及猫底色为深灰色，灰色中带有黑斑，绒毛为银色，黑线包围鼻、唇和眼的边缘，黑色的鼻镜，足趾间的颜色为黑色。</p><p><br/></p>",
+                "发展起源": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M2/M2006.jpg\" alt=\"\"/></p><p>埃及猫原产于埃及，是一个古老的品种，可能是世界上最早出现的家猫，在古埃及被奉为神猫。早在公元1400年前，古埃及时\n代的壁画或纸莎草等，都画有和今天的埃及猫模样一样的猫。后来，埃及猫的地位随着古埃及的没落而衰弱，直到公元4世纪康士坦丁统治时期，埃及猫才开始作为\n普通的小生物而存在。1953年第一只埃及猫传入意大利，后传入美国，1957年，埃及猫首次在英国伦敦皇家猫展上亮相，1972年得到猫协承认。</p><p><br/></p>"
+            },
+            "alisName": "法老王猫、埃及神猫",
+            "showImage": "http://p2.ycw.com/201609/08/cc32049dcd31c7921cf3a9fee1bb7224",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[424,492]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "8"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "1"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "7"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "8"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "7"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "9"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "9"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "6"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "2"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "8"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "10"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "6"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "3"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/08/7a95c1fd1eb8f9d258c0c295ed3d77e6",
+            "status": 1,
+            "name": "埃及猫"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "2",
+                "运动量": "6",
+                "耐热程度": "6",
+                "护家程度": "1",
+                "耐寒程度": "6",
+                "美容程度": "6",
+                "友善程度": "4",
+                "口水程度": "1",
+                "粘人程度": "7",
+                "掉毛程度": "2",
+                "喜叫程度": "6",
+                "可训程度": "6",
+                "饲养难度": "6",
+                "关爱需求": "5"
+            },
+            "woolColor": null,
+            "fisrtWord": "A",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Ocicat"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "美国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "5~7",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "10~20",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "5000~6000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "黄色,虎斑,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/m43/M4307.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">作为人工方式培育出的一个新品种，很多人都欧西猫的养护显得有点陌生。其实欧西猫的养护跟大部分猫咪都一样，不能喂食过咸的食物、不能过勤地洗澡等等。为了帮助新手主人们更好地饲养欧西猫，我们总结了以下几点：</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">刷牙</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">如有条件，应给定时给欧西猫刷牙，以减少牙龈发炎引起的细菌侵入。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛护理</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">经常用湿棉花清除过多的黏液，并清洁眼睛周围的皮肤。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳朵护理</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">定期检查内耳道。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">关节护理</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">关节痛是高龄宠物的通病，如果欧西猫到了一定年龄，不能足够的活动量，可在它休息时替它轻轻按摩肌肉或活动四肢关节。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">洗澡</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">洗澡前应准备好洗澡的用具，如洗澡盆、浴巾、洗涤剂、梳子（最好一头疏、一头密）、刷子等。洗澡时水温不宜太低，也不能太高，以不烫手为宜；所用的洗涤剂刺激性不能太大，以免刺激皮肤；普通欧西猫在洗澡前对被毛应进行梳理，防止纠结；洗澡动作要迅速，尽可能在短时间内洗完；洗完后，应立即用浴巾将毛擦干，气温偏低时，最好能盖上专用的毛巾被或其他保暖用品，以防止感冒。</p><p><br/></p>",
+                "饮食知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/m43/M4306.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">欧西猫是一种活泼好动的猫咪，主人除了要给它们正餐外，还可以适当地给予零食。零食的口味可以根据猫咪的喜好来选择，不过零食不能供应太多，否则可能会造成猫咪肥胖。如果猫咪因为运动量大而比较容易饿，主人可以适当增加正餐的供应量。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">我们都知道猫咪不太爱喝水，但如果猫咪体内缺水，可能会导致猫咪的正常平衡被打破，有些聪明的主人会给猫咪喂罐头来帮助它们补水，这的确是一个不错的方法。需要注意的是，罐头的含水量虽高，但猫咪会在较短时间内就饿，所以还需要配合其他主粮一起食用。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">欧西猫也需要补充食量的钙、铁、维生素及其他微量元素等，因此主人必须保证欧西猫食物的营养均衡，避免出现猫咪营养不良或微量元素缺乏症的情况。一旦猫咪表现出任何营养不良或微量元素缺乏症的症状，主人要及时配合兽医对猫咪予以治疗。</p><p><br/></p>",
+                "美容知识": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/m43/M4308.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">每天对毛皮的护理不仅能除去污垢、虱子、防毛球，使得欧西猫的毛发看起来光滑有光泽，对欧西猫还有利于血液循环，促进皮肤的新陈代谢，定期抚摸欧西猫还可以检查它的身体状况。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">梳理即用梳子对欧西猫进行护理。虽然大多数的欧西猫不喜欢被梳理，但长毛的品种如果没有每天梳理的话，毛就会绕到一起，破坏毛样。所以在欧西猫出生后两个月左右就要开始对其进行梳理，让欧西猫逐渐适应。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">每天在固定的时间，从头到尾进行梳理。梳到腰部时，把欧西猫翻转过来，从颈部向下腹部梳理。要一处不漏的梳理，连尾巴尖也不能放过。梳理时，梳子跟皮肤成直角。梳子即使被挂住一点点也要用手指压住毛根部先梳理上半部分，然后再梳毛根。腹部和尾部子最容易打结，所以要特别细心。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">刷毛可以防止脱毛，刺激皮肤，促进血液循环，使毛更亮泽。短毛的品种在污垢很明显的时候进行刷洗即可，平时只需用湿手轻轻抚摸即可起到防止脱毛和去污垢的作用。长毛的品种要每天一次，每次以5分钟为宜。</p><p><br/></p>"
+            },
+            "petBreedId": 353,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/m43/M4303.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">欧西猫的特征是其充满野性的斑点纹。除脖子附近及尾巴以外，全身皆布满富光泽的漂亮斑纹。体型大充满重量感，成猫体重达到5~7公斤。体型和阿比西尼亚猫相似，胴体稍长，有深度的胸部及宽幅的猫，有坚硬的骨骼及强韧的筋肉，四肢强壮且肌肉发达；头部呈楔形，耳朵中等大小，眼睛大且呈杏仁状，鼻子略有点方。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/m43/M4304.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">体形：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中到大型，身体较长。骨骼坚实，肌肉有力，呈现出运动的外观，有惊人的力量。在后方和侧面看，背部水平略高。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">头部：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">一种改进的楔形，略有曲线。脸颊，是温润的。口吻较宽，垂直度和轮廓显示良好的长度。下巴和下颚强劲，有适当的咬合。温和的晶须。优雅地呈拱形的脖子。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">耳朵：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中等大小，在头部的角上。如果把眉毛位置作为一个假想的水平线，耳朵应该被设置在45度角位置，应该是既不太高也不太低。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">眼睛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">杏仁型、大。眼角轻微翘向耳朵，两眼间的距离应不止一只眼的长度。除了蓝色，所有颜色的眼睛都被准允。眼睛颜色和被毛颜色无任何相关性。颜色的深度越深越好。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">四肢：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">脚应该是紧凑的，强大的，与身体有良好的比例。脚应该是椭圆形而紧凑，脚趾是四前五后，与腿成合适的比例。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">尾巴：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">尾巴相当长，呈现出轻微的锥度，末端应该为黑色。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">披毛：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">短，质地光滑，有光泽。紧密的，最好像羊毛一样。</p><h3 style=\"margin: 8px 0px 4px; padding: 0px 0px 0px 30px; font-stretch: normal; font-size: 14px; line-height: 1; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); white-space: normal; background-image: url(&quot;http://res.ycw.com/app/images/book/icon-subtitle.png&quot;); background-attachment: initial; background-size: 10px; background-origin: initial; background-clip: initial; background-position: 15px 50%; background-repeat: no-repeat;\">毛色：</h3><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">颜色要清晰悦目。最轻的颜色通常应该在面部眼睛周围和下巴、下颚处。最深的颜色应该在尾部。应该对比鲜明。那些在脸上、腿和尾巴上的毛应该比在躯干上的颜色深，最深的颜色在尾尖。</p><p><br/></p>",
+                "性格特点": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/m43/M4305.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">虽然欧西猫外表和野猫非常的相似，给人一种它们很孤傲凶猛的错觉，但其实它们性格非常的友善，它们喜欢跟自己的主人在一起，也很喜欢有孩子的家庭，它们的感情丰富到让你觉得它们的一身外表跟内心极不般配。它们的友善不仅体现在跟主人的感情上，对于到家作客的朋友它们也不会发出“呲呲”的不友好的声音。此外，欧西猫很喜欢孩子，因此主人不必担心小孩和猫咪无法和平相处，也许它们之间的感情比你跟猫咪之间的感情还要深厚得多。需要注意的是，欧西猫对其他的猫咪并不友善，所以两猫相遇，必有争斗。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">欧西猫还是一种活泼好动的猫咪，它们似乎对所有的东西都非常有兴趣。只要仔细观察，你就可以发现它们一会要玩玩这个，一会又要碰碰那个。它们希望自己的主人能跟它们多多互动，如果你没有足够多的时间，不妨多给猫咪准备点玩具，以免猫咪因孤独无聊而抑郁。因为欧西猫好动，所以主人最好给它们准备一个猫爬架，这样它们就不会因为想要登高而去占领你的书柜等家具。主人也要将家中易碎物品摆放好，防止猫咪在运动的时候碰坏它们。</p><p><br/></p>"
+            },
+            "price": "5000~6000元",
+            "baseInfo": {
+                "品种介绍": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/m43/M4300.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">中文名：<span class=\"cn-name\">欧西猫</span><br/>英文名：Ocicat<br/>别名：奥西猫<br/>生源地：美国<br/>价格：5000~6000元<br/>体型：中型<br/>毛长：长毛<br/>体重：5~7kg<br/>喜好：喜欢亲近人<br/>性格：友善而机警&nbsp;</p><p><br/></p>",
+                "发展起源": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\"><img src=\"http://res.ycw.com/app/images/book/breed/cat/m43/M4302.jpg\" alt=\"\" style=\"margin: 0px auto; padding: 0px; max-width: 100%; border: none; vertical-align: middle; display: block;\"/></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 5px 15px; word-break: break-all; color: rgb(51, 51, 51); line-height: 1.7; text-align: justify; font-family: &#39;Helvetica Neue&#39;, &#39;Microsoft yahei&#39;, arial; white-space: normal;\">欧西猫又叫奥西猫，兼具野生猫的精悍以及饲养猫的沉稳的气质。这种猫是在1950年后，由美国的饲养家们，以阿比西尼亚猫为基础，和暹罗猫，美国短毛猫交配作出的成果，是比较新的品种。1964年，密歇根州伯克利的育种专家BirginiaDaly将暹罗－阿比西尼亚猫和巧克力重点色遏罗猫杂交以期得到斑纹重点色暹罗猫。得到的幼猫中有一只名为汤加的雄猫身被象牙色被毛，有金色斑点，但不幸的是，这只公猫被阉割了。之后Daly和包括汤姆布郎的其它育种专家合作，将育种工作继续下去。它们使用了阿比西尼亚猫，暹罗猫，斑点东方短毛猫，埃及猫和美国短毛猫进行杂交选种，以期得到欧西猫现在所具有的形态特征。1986年，欧西猫品种得到了CFA的正式承认。1988年TICA为之公布了品种标准。现在阿比西尼亚猫不再允许和该品种杂交。1989年，第一只欧西猫引进法国。尽管欧西猫在美国很普遍，它在欧洲依然罕见。</p><p><br/></p>"
+            },
+            "alisName": "欧西猫",
+            "showImage": "http://p2.ycw.com/201609/10/5fda2d2af49c36d92a40b86d8fbeb0f2",
+            "bodyType": "中型",
+            "woolLength": "短毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "4"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "2"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "2"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "6"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "6"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "7"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "6"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "6"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "6"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "5"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/21/cfc67f141bb9404c41259a07480f8b7b",
+            "status": 1,
+            "name": "奥西猫"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "4",
+                "运动量": "4",
+                "耐热程度": "1",
+                "护家程度": "2",
+                "耐寒程度": "1",
+                "美容程度": "4",
+                "友善程度": "6",
+                "口水程度": "1",
+                "粘人程度": "8",
+                "掉毛程度": "1",
+                "喜叫程度": "6",
+                "可训程度": "9",
+                "饲养难度": "4",
+                "关爱需求": "4"
+            },
+            "woolColor": null,
+            "fisrtWord": "B",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Peterbald"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "俄罗斯"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "3.5~7",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "500~20000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M6/M6003.jpg\" alt=\"\"/></p><p>\n\t\t\t\t</p><p>彼得秃猫最好是3个月以后再洗澡。洗澡的时候要注意一下几点：</p><p>首先把彼得秃猫泡在浴液盆里，一手扶在其颈下位置，另一只手舀水轻轻的揉洗猫猫，顺序是由下至上，先后背后肚皮，别湿了猫猫的头，它会尤其惊恐的。让猫猫稍微适应水温后，用杯子舀水冲洗。整个过程，保证总有你身体的一个部分，或手或胳膊，贴着它，可以让它闻到。</p><p>如果看到彼得秃猫用惊恐的眼神盯着你，就亲亲它的脑门儿，安慰一下。你可以一直对它讲话，你的声音和味道，可以安抚它。特别脏的部位，如：脖子和胸脯、腹部、爪子可以用浴液专洗。最后再稍稍洗一下猫脸，用手轻轻洗洗就可以了，猫猫特别不喜欢脸湿。</p><p>然后将彼得秃猫抱在过洗的盆里，舀水过洗。一定要过洗干净，除尽残留浴液，否则，一来对彼得秃猫皮肤不利；二来容易沾染灰尘。</p><p>洗澡过程中一定要记得保暖。</p><p><br/></p>",
+                "饮食知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M6/M6009.jpg\" alt=\"\"/></p><h3>动物肝脏：</h3><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\t\t\t</p><p>一些猫很爱吃动物肝脏并且拒绝吃其他食物。动物肝脏中含有大量的维生素A，但过多地摄入维生素A会导致肌肉僵硬、颈痛、骨骼和关节变形以及肝脏疾病。</p><p>\n\t\t\t</p><h3>生鱼：</h3><p>&nbsp; &nbsp; &nbsp; &nbsp;\t\t\t</p><p>某些生鱼中含有可破坏维生素B1的酶，而维生素B1的缺乏可导致猫的神经疾病，严重时会致命，这种酶可以通过加热得以破坏，所以一定要将鱼做熟以后再喂猫。</p><h3>肉：</h3><p>\n\t\t\t</p><p>虽然猫的饮食应以肉类为主，但如果只给猫喂食肉类食品，会导致矿物质和维生素摄入不均，进而引发严重的骨骼代谢紊乱。</p><h3>狗粮：</h3><p>\n\t\t\t</p><p>狗粮与猫粮中的营养物质不尽相同，狗粮中的营养物质不能够满足猫的需求。虽然猫狗都是肉食动物，但狗对营养的需求不如猫大。</p><h3>鱼肝油：</h3><p>\n\t\t\t</p><p>在为猫补充额外维生素和矿物质时应特别谨慎，过量食用鱼肝油会导致维生素A和维生素D的超量摄入，进而引发骨骼疾病。</p><p>\n\t\t\t\n\t\t\t\t</p><p>如果您没有给猫配餐的经验，建议您最好使用由宠物护理专家专门研制的猫粮，猫粮不仅可以为猫提供均衡、完备的营养，而且还不需要再为它额外补充营养。使用这种产品还可以避免饲喂错误。</p><p><br/></p>",
+                "驯养知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M6/M6008.jpg\" alt=\"\"/></p><p>\n\t\t\t\t</p><p>很多朋友都反映，家养的彼得秃猫快满2个月的时候，看到人就抱着又抓又咬，尤其是公猫，经常是分秒不停，见人就咬。究竟为什么？其实也难说清楚，反正幼猫在发育期间，都喜欢玩守猎抓跳的游戏。如果彼得秃猫没有其它猎物可以玩的话，就只好玩你。</p><p>\n\t\t\t\t</p><p>解决的办法是帮彼得秃猫买些玩具，如磨爪用的地毯组合，吊起来的小球，会动的玩具鼠之类等，让猫猫玩玩具玩到它累了，自然没精神抓你玩了。另外还应该帮彼得秃猫剪指甲，避免指甲勾到或是抓伤人。</p><p>\n\t\t\t\t</p><p>其它办法还有假装叫痛也有效果，当彼得秃猫抓你的时候就大叫痛，然后不要理它也别跟它玩，大部分彼得秃猫不喜欢弄痛主人，所以会注意到主人不高兴，就会小心而不去咬痛你。或者干脆不理它，让彼得秃猫就意识到玩得太疯，所以主人不高兴了。</p><p>\n\t\t\t\t</p><p>另外比较恶劣的也可采取喷水的办法，就是当彼得秃猫要扑咬你的时候，就拿个准备好的水枪或喷水器喷猫猫水，几次后猫猫就不敢再扑咬你啦。</p><p><br/></p>",
+                "繁殖知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M6/M6006.jpg\" alt=\"\"/></p><p>\n\t\t\t\t</p><p>要使纯种猫顺利产下彼得秃猫，在母猫发情之前，可先向宠物店、育种者或所属的爱猫俱乐部咨询有关事项。如交配费用、公猫的分配等各种规矩。初次养猫者，不妨委由专家处理交配事宜；重要的是订定双方均可接受的条件，以免日后引起不必要的麻烦。</p><p>一般未满1周的母猫之首次发情，并不纳入交配的条件；因为这时母猫的身心不够成熟，常会难产，或不能照顾生下的阿比西尼亚猫。等母猫第2次以后的发情，才是较完善的生产状况。</p><p>至于公猫的选择，以2岁以上，繁殖能力佳且经验丰富者为宜。若是经验少的公猫，最好搭配经验丰富的母猫，较能顺利交配。</p><p>在健康的大前提下，选对象不宜近亲交配：若是双方条件合适，可在公猫家相亲。有些猫只和人相处，一见了别的猫十分怕生，到交配完成为止需花3~5天的时间。如果必须寄养在对方家里数天，要事先备妥平日常用的便器专用砂和食物。</p><p>相亲之前，先检查有无寄生虫、跳蚤；万一身体情况不佳，最好延期。此外，常有母猫寄养在公猫家逃脱的事件发生，所以，务必要小心看守。</p><p>成年的公猫和母猫，会迎向发情期，具有生育的能力。主人若能熟悉相亲到生产等知识，届时就不会手足无措。&nbsp;</p><p><br/></p>"
+            },
+            "petBreedId": 274,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M6/M6007.jpg\" alt=\"\"/></p><p>彼得秃猫是优美的东方型无毛猫，它们满身褶皱，并非完全没有毛，它的毛很幼细而且紧贴皮肤。而且皮肤带有皱纹，特别是头部。体型呈中等身躯短腿型。眼睛大成圆形，稍倾斜，多为金黄色。头部部呈楔形，耳朵大，尖呈圆弧形。鼻短。</p><p><br/></p>",
+                "性格特点": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M6/M6010.jpg\" alt=\"\"/></p><p>彼得秃猫只会让人产生两种感情，要么极为喜爱，要么恨得牙痒痒。</p><p>\n\t\t\t</p><p>“黑社会老大”型猫咪：猫咪通过抓磨留下自己的气味，表明这是自己的领地，同时也向其它的猫发出领地信息。这些熟悉的气味可以使猫感觉在家里安全，同时也能告诉家里其它的猫：“这是我的地盘！想在这儿待着就先准备好保护费吧！”。</p><p>\n\t\t\t</p><p>“先天性胆小”型猫咪：在家里感觉不安全的猫可能会有更多的抓磨动作。不安全感产生的原因可能是因为家里来了新猫，或者家里的环境发生了变化（搬家、家具位置移动、买了新家具等）。</p><p> \n\t\t\t</p><p>“家庭小卫士”型：很多猫咪都认为自己就是这个家的主人，所以，保卫家园成了它们义不容辞的责任。如果猫咪经常在靠近门的地方磨爪子，这可能是表示它们认为潜在的“入侵者”会从这里进来。</p><p><br/></p>",
+                "适养人群": "<p>适合喜欢猫又对猫毛过敏的朋友。</p>"
+            },
+            "price": "500~20000元",
+            "baseInfo": {
+                "品种介绍": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M6/M6005.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><h3>体形：</h3><p>体型中等，线条优美。</p><p>\n\t\t\t</p><h3>头部：</h3><p>无毛猫彼得秃猫头部呈楔形。</p><p>\n\t\t\t</p><h3>耳朵：</h3><p>无毛猫彼得秃猫耳朵大，尖呈圆弧形。</p><p>\n\t\t\t</p><h3>眼睛：</h3><p>\n\t\t\t</p><p>大且圆，稍倾斜，多为金黄色。</p><p>\n\t\t\t\t\t\t\t</p><h3>鼻子：</h3><p>\n\t\t\t</p><p>鼻短。</p><p>\n\t\t\t\t\n\t\t\t</p><h3>尾巴：</h3><p>\n\t\t\t\t</p><p>尾长且细。</p><p>\n\t\t\t\t\t\t\n\t\t\t\t\t</p><h3>被毛：</h3><p>\n\t\t\t\t\t\t</p><p>彼得秃猫并非完全没有毛，它的毛很幼细而且紧贴皮肤。而且皮肤带有皱纹，特别是头部。</p><p><br/></p>",
+                "发展起源": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M6/M6004.jpg\" alt=\"\"/></p><p>彼得秃猫，是一种无毛猫，原产于俄罗斯。起初养殖时叫无毛斯芬克斯猫，但在它被发现了之后，这只猫是完全与斯芬克斯猫不\n同，名字叫做Don \nHairless，它就是最开始的披得秃猫。1998年，彼得秃猫从俄国第一次来到了美国。2005年，无毛猫彼得秃猫被认定为稀有品种。</p><p><br/></p>"
+            },
+            "alisName": "",
+            "showImage": "http://p2.ycw.com/201609/08/5289780b8bb0c8b867986e988d00a804",
+            "bodyType": "中型",
+            "woolLength": "无毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "1"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "4"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "2"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "8"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "1"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "1"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "4"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "9"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "4"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/14/c50a1b51ad7d0f38b46a3a1c16a246cd",
+            "status": 1,
+            "name": "彼得秃猫"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "3",
+                "运动量": "4",
+                "耐热程度": "6",
+                "护家程度": "1",
+                "耐寒程度": "6",
+                "美容程度": "6",
+                "友善程度": "6",
+                "口水程度": "2",
+                "粘人程度": "10",
+                "掉毛程度": "1",
+                "喜叫程度": "6",
+                "可训程度": "9",
+                "饲养难度": "8",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "B",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Balinese"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "美国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "3.5~7",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "500~6000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "白色,蓝色,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M3/M3002.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>巴厘猫的养护需要根据它们不同时期身体的变化来做出一些改变，一般情况下，在猫咪6月龄以内时，主人可能需要花费较多时间和精力来照顾猫咪，主要原因为猫咪从出生到六个月大时，身体处于快速生长期，如果在饲养过程中出现一些差错可能会导致猫咪以后无法正常生活。</p><p>\n\t\t\t\n\t\t\t</p><h3>一月龄以内巴厘猫幼猫的养护</h3><p>\n\t\t\t</p><p>1.母奶是最佳选择，如果没有母奶，则需要给幼猫冲泡猫咪专用奶粉。<br/>2.母猫会用舌头刺激幼猫肛门，这样幼猫才会排泄。如果没有母猫刺激，主人必须在每次喂奶前后用湿的面纸或卫生纸刺激，让幼猫排尿排便，而且很可能要连续刺激数分钟才能排干净；必要时需要由兽医帮忙（例如两三天未排便时）。<br/>3.幼猫必须依偎母亲才能保暖，因此要额外提供暖源；而最好不要洗澡以免失温。此时的幼猫睡眠时间极长，因此如果在叫，通常是太冷、身体不舒服或肚子饿了。<br/>4.猫通常要到第三周走路才会稳，在这之前，只靠母猫的搬动。猫在二周大时会长出第一组牙齿，三周大会自己上厕所。这时的猫也会开始玩耍，四周大的猫会互\n相咬着玩，也会学习如何才不会伤害到对方。幼猫必须经由母猫或人类教导才会使用猫砂，可以将沾有猫尿的卫生纸放入猫砂，幼猫会比较容易学会使用猫砂。</p><p>\n\t\t\t\t\t\t</p><h3>二月龄到六月龄大巴厘猫的养护</h3><p>\n\t\t\t</p><p>小猫在第五周开始断奶，开始吃硬质食物，也会变得独立。这时的猫的平衡感已经发育完全，也懂得梳理毛发。这段时期是猫学习的阶段，它们必须学\n会认识自己与其它动物。当猫咪三个月大时，它们的肌肉发育完全，不过还是需要多多锻炼才能准确判断距离、高度和速度。狩猎的技巧也是在此时期学会的。所以\n幼猫最好在三个月大后才离开母亲。通常猫在六个月时升级到成猫的阶段。</p><p>\t\t\t\t\t\t</p><h3>六月龄以上巴厘猫的养护</h3><p>\n\t\t\t</p><p>六月龄以上的猫咪就不太需要主人时时刻刻地关注了，你可以让它们自己选择要想要的生活方式。不过虽然猫咪大了，不代表你就可以完全放任它们不\n管，你需要训练它们不要去不能去的地方（比如厨房垃圾桶等）、让它们不再迷恋抓沙发或其他家具、不要啃咬电线等。此外，当它们出现一些问题时，你也要及时\n寻求兽医的帮助。&nbsp;</p><p><br/></p>",
+                "饮食知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M3/M3001.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>吃出好身体并不是一句空话，想要让巴厘猫的身体更健康，日常饮食就必须科学合理。图省事的主人一般会给猫咪喂食猫粮，这完全没有问题，因为猫粮中所含的营养元素已经能满足猫咪的需求，而且干粮还可以摩擦猫咪的牙齿，预防牙结石等疾病的出现等。</p><p>\n\t\t\t</p><p>如果想要猫咪享受到更多的美食，了解猫猫需要的营养元素就显得极为重要。巴厘猫是肉食动物，肉类和鱼类都属高磷性食物，含丰富动物性蛋白质，\n但是长期只吃这些，除了会导致猫咪缺少钙质还可能会影响猫咪的某些正常生理功能。另外为防止巴厘猫便秘您可给它吃些蔬菜水果，如菠菜。</p><p>\n\t\t\t\t</p><p>理想的猫食物应包含维他命、磷、钾、钙、胺基酸和蛋白质等营养，烹调以清淡为主。猫的饮食跟人类不同，我们不可以以自己的喜好喂巴厘猫食物。</p><p><br/></p>",
+                "美容知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M3/M3009.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>巴厘猫虽然是长毛猫，但是被毛相较于其他长毛猫来说较短，所以在毛发的美容方面并不需要像其他长毛猫那样精心打理。由于猫的舌面粗糙，好似一\n把毛刷子，所以会经常用舌头舔自己，去除污垢，梳理毛发，也能一定程度上把自己打理得很好。但是不能因此就把对身体的呵护全交给猫咪自己。因为毛再软，也\n有舌头舔不到的地方，特别是长毛的品种，单靠猫咪自己很难保持毛的洁净，所以主人的帮助是必不可少的。</p><p>\n\t\t\t\t</p><p>每天的毛皮护理不仅能除去污垢、虱子，防止毛球，梳理和刷毛还有利于血液循环，促进皮肤的新陈代谢。主人定期抚摸猫咪还可以检查其身体状\n况。最主要的是这是主人和猫咪进行交流的时间。猫咪在主人的轻抚和喃喃细语下，精神也会随之安定下来。长毛猫至少每天梳理一次，巴厘猫一周一次就可以了，\n最好从小猫断奶以后开始梳理，一开始猫咪可能会讨厌这种抚摸，但只要每天循序渐进，形成习惯，猫咪也就会乐于此道了。</p><p><br/></p>"
+            },
+            "petBreedId": 279,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M3/M3004.jpg\" alt=\"\"/></p><p>巴厘猫是暹罗猫的长毛变种，在体型上和暹罗猫相似，也是瘦长体型。与其他长毛猫相比，柔软如貂皮的被毛比较短，没有形成颈\n毛。其身材修长、苗条，肌肉发育良好，这种猫毛长5厘米左右，毛色和暹罗猫完全相同。从总体上看，巴厘猫是一种体态高雅而非常显眼的猫。该品种猫的特征是\n长着一条华丽而硕大的长尾巴。它有着与暹逻猫相同的中等苗条身躯，不过全身皮毛如丝绸般柔软，毛发的长度达50毫米，属于中等长度。</p><p><br/></p>",
+                "性格特点": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M3/M3008.jpg\" alt=\"\"/></p><h3>聪明热情：</h3><p>相较于它们的祖先暹罗猫来说，巴厘猫显然更容易与人亲近，对主人热情。虽然巴厘猫也很喜欢玩，但它们并不属于很难控制的猫咪，只要主人呼唤，它们还是会乖乖过来听你的指挥，因为它们本身是很喜欢跟人类为伍的，如果它们一直独自生活，恐怕真的会患上抑郁症。</p><p>\n\t\t</p><h3>喜欢撒娇：</h3><p>一般来说猫咪性格都比较高冷，很少会主动求欢，但是大部分发现主人心情好的时候，它们就会尽情地在主人身边撒娇卖萌求抚摸，而当它们发现主人情绪低落或者生气不满时，它们则会给主人一点自己的空间。而且巴厘猫叫声柔和，天然自带求欢效果，很多人都把持不住。</p><p>\n\t\t\t\t</p><h3>好奇敏感：</h3><p>巴厘猫对某件事或某个物品产生兴趣，它们便会不依不饶地一直跟进，直到自己失去兴趣为止。同时，它们还很敏感，一点点风吹草动也都可能引起它们的注意，所以在好奇心和敏感心的双重作用下，主人可能就会发现猫咪动不动就像个侦探一样神秘兮兮地生活着。</p><p>\n\t\t\t</p><h3>超级合群：</h3><p>不像埃及猫，巴厘猫超级合群，不管是对于家中的狗狗或者是其他猫咪，巴厘猫都不会产生敌意，如果家中的狗狗或猫咪都很活跃，那么它们肯定能玩到一起去，不过主人可能就要考虑一下如何能让它们快速消停了，因为它们要是玩疯了，最后抓狂的还是主人。</p><p><br/></p>",
+                "生活习性": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M3/M3011.jpg\" alt=\"\"/></p><p>巴厘猫的叫声柔和，具有乞求的声调。比起暹罗猫更为温顺，喜好与人为伴，不喜孤独，需要得到主人足够的爱和感情投入。巴厘\n猫对主人非常忠心，有爱心，它性情讨人喜欢。还喜好别的活跃的猫或狗的陪伴，主人可以放心的在家里混养其他猫狗。可训练度高有杂技演员的跳跃本领，小步快\n走时，步态优美。</p><p>\n\t\t\t</p><p>巴厘猫活跃，好捕猎，庭院比较适合它。被毛料理简便，每周一次梳理毛发即可。巴厘猫个性活跃，它们的好奇心似乎永远也得不到满足，整天忙个不\n停，总是围绕着主人转悠。它们感情丰富，喜欢玩耍，又好说话，逮着机会就与主人交流。它们最喜欢做的一件事情，就是偎依在主人的怀里撒娇，而且巴厘猫不大\n脱毛。</p><p><br/></p>"
+            },
+            "price": "500~6000元",
+            "baseInfo": {
+                "品种介绍": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M3/M3005.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><h3>体形：</h3><p>中等身材，呈流线型。</p><p>\n\t\t\t</p><h3>头部：</h3><p>中等大小。长而呈三角形，带直线轮廓。头骨稍凸、或扁平，嘴部细腻。没有鼻或髭毛边界，鼻梁长而直。下巴中等尺寸。</p><p>\n\t\t\t</p><h3>耳朵：</h3><p>大而尖，基部宽，间距大。耳内毛发丰富。从下颌起保持V字形轮廓。猞猁尖为佳。</p><p>\n\t\t\t</p><h3>眼睛：</h3><p>\n\t\t\t</p><p>大小中等，杏仁形，眼梢略斜向鼻。颜色：深蓝。</p><p>\n\t\t\t\t\t\t\t</p><h3>颈：</h3><p>\n\t\t\t</p><p>长，细，优雅。</p><p>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t</p><h3>身体：</h3><p>\n\t\t\t</p><p>身材苗条、修长、呈流线形，为典型的东方型猫体态。骨胳纤细，肌肉紧凑，肋骨扩展，胸为圆筒形。腹部上收，但不卷起。颈部曲线舒展、清晰，与头部结合灵活，典雅。</p><p>\n\t\t\t</p><h3>四肢：</h3><p>\n\t\t\t\t</p><p>圆柱形体型协调、匀称；后肢比前肢高，呈高腰状。腿长而纤细，长度和身体成比例。小而呈椭圆形的爪，趾间有毛。</p><p>\n\t\t\t\t \n\t\t\t\t\n\t\t\t</p><h3>尾：</h3><p>\n\t\t\t\t \t\t</p><p>尾长而细，尾端尖，尾上有丰富的长饰毛，下垂。从基部到尾尖逐渐变细。</p><p>\n\t\t\t\t\t\t\t</p><h3>毛色：</h3><p>\n\t\t\t\t \t\t</p><p>银白色、巧克力色、蓝色、丁香色。</p><p>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p><h3>被毛：</h3><p>\n\t\t\t\t \t\t</p><p>中长，丝质，细腻。身体，腹部和尾部被毛较长。微有底色绒毛。所有暹罗猫的颜色都是可以接受。重点色必须一致。重点色和身体色之间要求有强烈的对比。小猫出生时为全白。1岁时成年猫的颜色才稳定下来。</p><p><br/></p>",
+                "发展起源": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M3/M3007.jpg\" alt=\"\"/></p><p>巴厘猫是著名的长毛猫，由美国人培育而成，最早出现在人们认为是纯暹罗猫血统的猫中，但它只是暹罗猫的长毛突变种。20世\n纪初，美国纽约州的贝伦•斯密斯夫人在饲养的暹罗猫后代中发现长毛突变种，当时被称为“残废的暹罗猫”，虽然1930年就参加猫展，但一直未能在展示会中\n获奖。后来经过育种学家30多年的努力，进行了一系列的选育、纯化、繁殖，终于在1963年首次被美国养猫协会承认。</p><p><br/></p>"
+            },
+            "alisName": "长毛暹罗猫、爪洼猫、巴厘岛猫",
+            "showImage": "http://p2.ycw.com/201609/12/1f4354fd0a03380d5ffc7533ff0f15a2",
+            "bodyType": "中型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "6"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "1"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "3"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "6"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "8"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "10"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "6"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "6"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "4"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "9"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "2"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/21/08fb46a74f77e0ed997ea2038e89cfd7",
+            "status": 1,
+            "name": "巴厘岛猫"
+        },
+        {
+            "attentionInfo": {},
+            "details": {
+                "体味程度": "1",
+                "运动量": "4",
+                "耐热程度": "6",
+                "护家程度": "4",
+                "耐寒程度": "7",
+                "美容程度": "4",
+                "友善程度": "9",
+                "口水程度": "3",
+                "粘人程度": "10",
+                "掉毛程度": "6",
+                "喜叫程度": "6",
+                "可训程度": "6",
+                "饲养难度": "10",
+                "关爱需求": "7"
+            },
+            "woolColor": null,
+            "fisrtWord": "B",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Ragdoll"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "美国"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "4.5~9",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "8000~15000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "渐层色,其它颜色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M10/8.jpg\" alt=\"\"/></p><p>饲养宠物猫必须要知道一下几个要点：<br/>\n\t\t1.尽管布偶猫是一种性格温顺随和的猫咪，也不代表主人可以完全放之任之，不予管理，布偶猫是五分基因五分照顾，如果不精心照顾，很容易出现所谓了的长残了的情况。<br/>2.布偶猫是严格的室内猫，不要把它们放出室外散养，外界的流浪猫狗及飞禽都有可能会伤害到它们。<br/>3.布偶猫是中长毛猫，它们不会对温度太多敏感，但也至少要为它们提供适当稳定温度的生存空间，不要太冷或太热。<br/>4.布偶猫是一种热爱主人的猫咪，它们会像小狗一样爱主人，同时也需要主人的爱。不要太冷落它们，猫咪每天都需要适当的爱抚和关爱。<br/>5.布偶猫毕竟是猫，它会好奇，它需要攀爬。因此饲养时需要注意家中的摆设，把贵重易碎物品放到猫咪够不着的地方，以避免不必要的损失。<br/>6.避免猫咪与来历不明的野生动物接触，否则寄生虫、传染病可能伤害到小猫。&nbsp;</p><p><br/></p>",
+                "美容知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M10/9.jpg\" alt=\"\"/></p><p>对于布偶猫这种长毛猫来说，定期的为它们梳理毛发是非常重要的，最好一周2~3次，至少得一周1次。梳理毛发不是光梳表\n面、背部就好的，从头到尾，包括腋下、肚子也是要梳理的，猫咪们喜欢自己舔毛来打理自己，但有些猫咪这样做反而更容易让自己的毛发打结。如果打结已经非常\n严重了，就只能求助于专业的宠物美容师剃毛解决了。</p><p>布偶猫性格非常的温顺，一般是不会非常抗拒洗澡的，只要注意在为布偶猫洗澡过程中不要用力拉扯它们，并且注意水流不要流入布偶猫的鼻子里让它们呛到水，也要注意保暖，不能让猫咪着凉。&nbsp;</p><p><br/></p>"
+            },
+            "petBreedId": 286,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M10/4.jpg\" alt=\"\"/></p><p>布偶猫是一种大型、可爱而温顺的长毛猫，它有大而美丽的蓝色的眼睛。布偶猫的颜色像暹逻猫一样，身体部分较浅，而脸部、腿\n部、尾巴和耳朵的颜色较深。在多数颜色图案中，这些末端部位都可能出现一些白色的斑纹。一只理想的布偶猫必须发育均衡，没有极端的特征。绝育过的雄性布偶\n猫可以长到20磅（接近10公斤）甚至更沉；而母猫则会相对小些。布偶猫是一个晚熟的品种，它们的毛色至少要到2岁才会足够丰满，而体格和体重则要至少4\n岁才能发育完全。</p><p><br/></p>",
+                "性格特点": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M10/6.jpg\" alt=\"\"/></p><p>布偶猫是一个非常聪明的猫咪品种，它外表美丽迷人。布偶猫性情温顺和蔼，它喜欢和其它的猫狗朋友接触，并且能将它们当为朋友。布偶猫叫声甜美轻柔，又具有丰富的感情，它喜欢主人的安抚和陪伴。</p><p>布偶猫对人非常友善，当它感觉安全舒适放松的时候，它全身就会特别松弛柔软的躺在一个地方。在嬉戏玩耍的时候，它也有非常强的忍耐性强，非常能容忍人们的玩弄。特别是小孩子的揉恰，只要不是过分的玩弄，布偶猫都能容忍。</p><p>布偶猫喜欢和人交流，不喜欢被人们忽视。在家中如果有小孩和老人，他们会相处的非常融洽。布偶猫会跟随家人，并且一起玩耍。当主人回家时，它也会在门口迎\n接主人，跟着主人走来走去。但是，如果布偶猫长期单独的留在房间，下班后主人也无法抽出时间陪它玩乐，那么时间长了，布偶猫就容易患上忧郁焦虑等心理疾\n病。&nbsp;</p><p><br/></p>",
+                "生活习性": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M10/10.jpg\" alt=\"\"/></p><p>布偶猫异常温柔，较适宜室内饲养。布偶猫喜欢安静，主人一般应为它们做绝育并提供安静的生活环境，例如配备猫抓板来适应它们的抓挠习惯等：这些是维持它们健康长寿和快乐的基本条件。</p><p>布偶猫会舔洗和梳理一身中等长度的丝状毛发。如果要给它们梳理毛发的话可以抱着用钢针排梳梳理，它们举止优雅。布偶猫善于讨好主人，总是形影不离地围着主人转，这种猫喜静，但也爱玩玩具，并喜欢参与家中的日常生活。</p><p>布偶猫是一个晚熟的品种，它们的毛色至少要到2岁才会足够丰满，而体格和体重则要至少4岁才能发育完。刚出生的幼猫全身是白色的，一周后幼猫的脸部，耳朵，尾巴开始有颜色变化，直到2岁时被毛才稳定下来，直到3~4岁才完全长成。&nbsp;</p><p><br/></p>",
+                "适养人群": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M10/11.jpg\" alt=\"\"/></p><p>&nbsp;\t</p><p>适合有孩子或者老人或者是有足够时间陪伴猫猫的自由工作者等时间充裕的人养，所以如果您是工作繁忙的上班族，没法子有太多时间陪它们的话，最好不要饲养这个品种，不然你会让它们活的很不快乐。</p><p><br/></p>"
+            },
+            "price": "8000~15000元",
+            "baseInfo": {
+                "品种介绍": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M10/5.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><h3>体型：</h3><p>身形较大，身体魁梧，身材较长，胸部宽阔，肌肉发达。</p><p>\n\t\t\t</p><h3>头部：</h3><p>呈等边三角形，双耳之间平坦，面颊顺着面形线而成为楔形。</p><p>\n\t\t\t</p><h3>耳朵：</h3><p>\n\t\t\t</p><p>中等大小，微微张开底部阔，双耳间距宽阔；耳尖浑圆而向前倾。</p><p>\n\t\t\t\t\t\t\t</p><h3>眼睛：</h3><p>\n\t\t\t</p><p>大，明亮，蓝色、椭圆形，双眼间距宽阔，微微向上扬。</p><p>\n\t\t\t</p><h3>鼻子：</h3><p>\n\t\t\t\t</p><p>中等长度的鼻子。</p><p>\n\t\t\t\t\t\t\t</p><h3>尾巴：</h3><p>\n\t\t\t\t</p><p>长尾，但要和身体成比例。柱形或软棒形，尾根为轻微的锥形。</p><p>\t\n\t\t\t\t\t</p><h3>下巴：</h3><p>\n\t\t\t\t \t\t</p><p>下巴要发育良好，强壮，并与上唇和鼻子成一直线。</p><p>\t\n\t\t\t\t\t</p><h3>四肢：</h3><p>\n\t\t\t\t \t\t</p><p>中等长度，后肢较前肢长，前肢的毛亦较后肢的短。</p><p>\t</p><h3>足掌：</h3><p>\n\t\t\t\t \t\t</p><p>比例上较大且圆，有穗成簇状。</p><p>\t\t\n\t\t\t</p><h3>尾巴：</h3><p>\n\t\t\t\t \t\t</p><p>长、成羽毛状，覆盖着蓬松的披毛。</p><p>\t\t\n\t\t\t\t\t\t</p><h3>披毛：</h3><p>\n\t\t\t\t \t\t</p><p>自然又不打结的中等长毛，形成柔软的双层披毛，面部的毛较短，而颈毛则较长。</p><p>\t\t\n\t\t\t\t\t\t</p><h3>毛色：</h3><p>\n\t\t\t\t \t\t</p><p>布偶猫被繁育成三种花色：1.双色布偶猫：躯干为淡色，脸、耳和尾为深色，胸、腹和四肢为白色。2.重点色布偶猫：躯干颜色较浅，色点较深。3.露指手套式布偶猫：和重点色布偶猫一样，其胸部、胸围、下颚和前爪是白色。毛的重点色有海豹色点、巧克力色点、蓝色和浅紫色点。</p><p>\t\t\n\t\t\t\t\t\t</p><h3>失格：</h3><p>\n\t\t\t\t \t\t</p><p>鼻子有任何破损；身体和点颜色有别于规定颜色；除了蓝眼睛外其它颜色。各种方向折尾；额外的脚趾。</p><p><br/></p>",
+                "发展起源": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M10/3.jpg\" alt=\"\"/></p><p>布偶猫的原产地是美国，又称布拉多尔猫，是猫中体型和体重最大的一种猫。它们的祖先是白色长毛猫和伯曼猫。于1960年开始繁育，1965年在美国获得认可。</p><p>布偶猫的确切来由可追溯到20世纪60年代，有位住在加州的妇女安贝可（Ann Baker）开始经营布偶猫种的培育。她的第一只育种猫叫做Josephine乔瑟芬（简称乔），它是只纯白的混种长毛猫。</p><p>原本这只猫是只野生猫，经常在安贝可家附近跑来跑去。有一次它被车子撞了，刚巧被安贝可的邻居见到，就好心地救它回家，还细心地照顾它。渐\n渐地，乔的身体也复原了。就在这段期间内，乔生下一批小猫，安贝可注意到了乔的小猫。以前乔所生的小猫，野性都很重。可是被车子撞过后，乔生下的这批小\n猫，个性变得特别的好。安贝可觉得这些小猫的个性很特别，所以她想来试验培育这种猫。安贝可把乔要回家后，到户外抓回了二只以前乔和不同公猫生下的小猫。\n而安贝可找来的种公叫做Warbucks，它有个白鼻，尾端也是白的。安贝可让它和其它母猫交配，结果生下的小猫，全都有像暹逻的重点花色。后来安帮他们\n注册为Ragdoll布偶猫，并在媒体上宣扬放送，才开始引起猫界人士的注意。这位安贝可女士在1997年过世，她在猫界历史上，就留下这支布偶猫血系，\n渐渐流传开来。&nbsp;</p><p><br/></p>"
+            },
+            "alisName": "布娃娃猫;玩偶猫",
+            "showImage": "http://p2.ycw.com/201609/08/0064ed9f1bed3415e57938428f373478",
+            "bodyType": "大型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "9"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "6"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "6"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "1"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "4"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "10"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "4"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "10"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "7"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "6"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "4"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "6"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "3"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "7"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/21/2c0c831e949eeef190a948eb04cc40e5",
+            "status": 1,
+            "name": "布偶猫"
+        },
+        {
+            "attentionInfo": {
+                "常见问题": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M9/M9003.jpg\" alt=\"\"/></p><p>\n\t\t\t\t</p><p>很多伯曼猫的饲主都反映说伯曼猫掉毛严重，其实作为长毛猫掉毛是很正常的，就像人每天都要掉30根左右的头发一样的。如果你家的猫是长毛\n的，一定要坚持每天梳毛。但是如果到了猫毛乱飞的地步就要注意了，你可以尝试先每天都梳毛，看效果如何，如果依然是很多很多的毛掉下来的话，你就要重新审\n视下你给伯曼猫的营养了。</p><p>最简单的方法就是增加伯曼猫蛋白质和维生素的摄入量。维生素A摄入量不足也会引起伯曼猫脱毛、皮肤病损、结膜炎、角膜浑浊等症状，主人可以给伯曼猫喂一些富含维生素A的食物，如动物肝脏，也可以用专门的鱼肝油胶囊给伯曼猫适当补充维生素A。</p><p>如果你家伯曼猫的肠胃不是很敏感的话，给喂一点牛奶，每周吃1个草鸡蛋黄，或者清蒸鸡胸肉+蔬菜，做法是将买来的鸡胸肉切成丁然后把洗干净的白菜剁碎了伴在鸡肉里清蒸给它们吃。 &nbsp;</p><p><br/></p>"
+            },
+            "details": {
+                "体味程度": "4",
+                "运动量": "2",
+                "耐热程度": "2",
+                "护家程度": "1",
+                "耐寒程度": "8",
+                "美容程度": "7",
+                "友善程度": "9",
+                "口水程度": "1",
+                "粘人程度": "4",
+                "掉毛程度": "7",
+                "喜叫程度": "1",
+                "可训程度": "7",
+                "饲养难度": "10",
+                "关爱需求": "1"
+            },
+            "woolColor": null,
+            "fisrtWord": "B",
+            "baseData": [
+                {
+                    "id": "1",
+                    "name": "英文名",
+                    "value": "Birman"
+                },
+                {
+                    "id": "3",
+                    "name": "原产地",
+                    "value": "缅甸"
+                },
+                {
+                    "id": "4",
+                    "name": "体重",
+                    "value": "4.5~5",
+                    "unit": "公斤"
+                },
+                {
+                    "id": "5",
+                    "name": "寿命",
+                    "value": "8~15",
+                    "unit": "年"
+                },
+                {
+                    "id": "6",
+                    "name": "价格",
+                    "value": "2000~4000",
+                    "unit": "元"
+                },
+                {
+                    "id": "14",
+                    "name": "毛色",
+                    "value": "重点色"
+                }
+            ],
+            "feedInfo": {
+                "养护知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M9/M9007.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><p>如果饲养的是短毛猫，根本无须帮其洗澡。因为猫的天性就是爱清洁，平时只须注意家庭环境卫生，猫完全会清理和装扮自己的。但伯曼猫是长毛猫，\n毛长而多，猫自己的清理能力有限，就需要人帮其清洗了。但洗澡的次数也不能太频繁，夏天大概相隔15天，冬天相隔一个月洗一次就足够了。</p><p>给伯曼猫洗澡时，先用婴儿洗澡盆准备一盆40度左右的温水，将猫慢慢地浸入水中，一边爱抚猫背一边用手将水撩上猫身。注意不要把水弄湿猫的头脸部，引起猫\n反感。将猫毛完全湿润后，可把猫抱出水盆，用稀释的宠物专用洗毛精淋在猫的身上进行搓洗。搓洗中要注意不要漏掉猫腹和腋下等地方，脸一定不要洗，泡沫完全\n搓匀后，再把猫放入水盆中清洗一遍，如果有热水器的话，可直接用花洒给猫冲洗干净。如果没有，就要多换好几盆水，尽量将猫完全冲洗干净。然后用毛巾擦干猫\n身上的水份，尽可能擦的越干越好，这样可以缩短吹干毛发的时间。</p><p>洗澡过程中要注意给猫咪保暖，避免猫猫感冒。&nbsp;</p><p><br/></p>",
+                "美容知识": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M9/M9011.jpg\" alt=\"\"/></p><p>\n\t\t\t\t</p><p>伯曼猫是长毛猫的一种，是非常爱干净的，家长要注意帮助爱猫做好护理工作，猫咪会更加喜欢你哦。<br/>1.我们要每天给伯曼猫梳理毛发，特别是在换毛的季节，每天至少要梳理两次了。<br/>2.每周对宠物猫猫的毛发进行彻底的护理一次，用毛发清洁剂。<br/>3.如果有像上面的方法为它进行护理的话，那么洗澡的次数可以减少至，夏天每月2次，冬天每月1次。偶尔给它用点护发素就ok了。<br/>注意：洗澡水要用温的；清洗剂要用宠物猫猫专用；洗完后要尽快给它弄干毛发哦。</p><p><br/></p>"
+            },
+            "petBreedId": 277,
+            "smallRace": null,
+            "petRaceId": 2,
+            "breedInfo": {
+                "形态特征及鉴别": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M9/M9002.jpg\" alt=\"\"/></p><p>波曼猫具有类似波斯猫和喜玛拉雅猫的体型，以及暹罗猫的斑点。体形比典型的波斯猫的体形长，肌肉结实，四肢中等长度，脚爪\n大而圆。头部宽圆适中，脸颊丰满，鼻子中等大小。眼睛差不多为圆形，眼角稍吊，为蓝宝石色。耳朵为暗色，中等大小，尖成圆弧形。尾巴中等长度。被毛长而\n细，且不易粘连。躯干毛色为浅色，毛的前段有海豹色和蓝色两种颜色。胸部到腹部的毛呈波浪状。颇有特色的是伯曼猫的四肢末端为白色，被称为四肢踏雪，使它\n更加高贵。前肢的白色被称为手套，后肢的白色则被称为蕾丝，蕾丝的部位延伸得很长。</p><p><br/></p>",
+                "性格特点": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M9/M9012.jpg\" alt=\"\"/></p><p>伯曼猫顺友好，是感情极为丰富的猫咪，它们对主人的感情与对其他人的感情完全不同，它们喜欢与主人玩耍，渴求主人的宠爱，\n希望能得到主人的关注和宠爱，也希望主人能抽出时间多陪陪它们。饲养伯曼猫的人可能会发现，猫咪虽然跟自己很亲密，但是对于其他人，它们确并不那么“友\n好”，想要抱一抱它们可能都会被它们直接拒绝。</p><p>当然，也有些伯曼猫天生就不怕生人，它们甚至能跟生人来个小小的互动，不过这些都并不能代表它们一下就对你产生了感情，想要成为它们心中的那个“他”，你\n还学要接受更多的考验。但是你不用担心的是，即便是胆小的伯曼猫，它们也不会对你产生敌意，因为它们天生温顺友好，只是有的猫咪需要较长的时间来适应与你\n的相处。&nbsp;</p><p><br/></p>",
+                "生活习性": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M9/m9005.jpg\" alt=\"\"/></p><p>伯曼猫叫声甜美，和波斯猫一样，当它们想要主人陪自己的时候，就会聪明地甜甜一叫，主人们只能缴械投降，立马奔向猫咪的怀\n抱。此外，伯曼猫还是典型的“处女座”猫咪，它们非常爱干净，猫砂盆没有及时清理、生活环境脏乱等都会令它们抓狂，因此主人在饲养伯曼猫的时候已经要做好\n卫生工作，否则连猫咪都会嫌弃你。</p><p>尽管伯曼猫是家养猫咪，并不热衷于跳跃及攀爬，但它们喜欢在地上活动。一旦在新的环境中感到安全，就喜欢到庭院或花园里散步。如果家中有一个小的庭院，\u007f\n你可以在给猫咪佩戴牵引绳的情况下带它们出去遛个弯，需要注意的是，当出现其他动物时，要密切关注猫咪的动态，一旦发现有要发起战争的征兆，要立刻进行人\n为干预。 &nbsp;</p><p><br/></p>"
+            },
+            "price": "2000~4000元",
+            "baseInfo": {
+                "品种介绍": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M9/m9008.jpg\" alt=\"\"/></p><p>\n\t\t\t</p><h3>头部：</h3><p>头前部向后方倾斜，稍呈凸状。面颊肌肉发达，呈圆形。脸面毛短，但颊外侧毛长，胡须密。</p><p>\n\t\t\t</p><h3>耳朵：</h3><p>中等长度。耳朵大而向前竖立，耳端稍浑圆，两耳尖间距宽，两耳根部间距适中，面颊和耳朵都呈现颇具特征的“V”字形，与头部轮廊十分协调。</p><p>\n\t\t\t</p><h3>眼睛：</h3><p>\n\t\t\t</p><p>又圆又大，看起来好像会说话般，而且间距较宽。眼睛的颜色呈清彻的蓝色，深蓝比浅蓝较为理想。</p><p>\n\t\t\t\t\t\t\t</p><h3>鼻子：</h3><p>\n\t\t\t</p><p>鼻梁又高又直，中等长度，鼻尖稍缓慢下降，略呈鹰钩鼻状。</p><p>\n\t\t\t</p><h3>四肢：</h3><p>\n\t\t\t\t</p><p>四肢粗短，骨胳发达，肌肉结实、有力；前肢直立。</p><p>\n\t\t\t\t\t\t\t</p><h3>足掌：</h3><p>\n\t\t\t\t</p><p>趾大而圆，握力大，爪短有力，爪白色，像戴了白手套般。前趾的部分称为“手套”，后趾的部分叫做“蕾丝”(Laces)，并伸至关节点。</p><p>\t\n\t\t\t\t\t</p><h3>尾巴：</h3><p>\n\t\t\t\t \t\t</p><p>尾长中等，与身体协调，尾毛浓密。</p><p>\t\n\t\t\t\t\t</p><h3>披毛：</h3><p>\n\t\t\t\t \t\t</p><p>长毛但较波斯猫稍短，不会纠结，容易梳理，毛长而厚密，毛质如丝，细密而富有光泽；颈部饰毛长，但肩胛部被毛短；胸部至下腹部被毛略呈波纹状；腹部被毛允许少量卷曲。</p><p>\t</p><h3>毛色：</h3><p>\n\t\t\t\t \t\t</p><p>朱古力重点色、海豹色重点色、浅紫重点色、蓝色重点色。体毛应是无条纹的单色，但在海豹色斑点、蓝色斑点中允许少量深色。体毛与斑点反差越明显越好。脸、耳、四肢、尾的斑点以同一色为最佳，斑点毛尖不能混入白色。四爪应为白色。</p><p><br/></p>",
+                "发展起源": "<p><img src=\"http://res.ycw.com/app/images/book/breed/cat/M9/M9006.jpg\" alt=\"\"/></p><p>伯曼猫相传是源出于缅甸，传说伯曼猫颜色的来源是这样的：在LaoTsum庙宇的守护神是一只金黄眼睛的白色长毛猫，而庙\n宇的尊贵女神Tsun-Kyan-Kse的眼睛则是深蓝色。庙宇的主持与一只猫猫Sinh为伴，在一次遇袭中去世，而在主持去世的时候，爱猫Sinh踏在\n主持的身上并面向尊贵女神，在这时候，神迹显现使白猫的毛盖上一层金色，眼睛变成蓝色，面，脚及尾巴都变成泥土颜色，但踏在主人身上的四只脚却保持原有白\n色。Sinh过了七日后便死去，把主持的灵魂带到极乐世界。</p><p>\n\t\t\t</p><p>在现代历史中记载，一对伯曼猫首次于1919年从缅甸运到法国，在运送途中，雄猫死去，只剩下母猫及其腹中小猫，自始伯曼猫在欧洲不继发\n展，于1925年在法国被确认。但在二次大战期间，全欧洲的伯曼猫只剩余两只，为了挽救这个濒危的品种，繁殖家唯有以异种交配方法，重新建立这个品种。自\n始以后，一般伯曼猫的注册必须最少有五代的纯种血统。伯曼猫于1966年被英国确认，而CFA则于1967年承认这个品种。</p><p><br/></p>"
+            },
+            "alisName": "缅甸圣猫",
+            "showImage": "http://p2.ycw.com/201609/12/b467eec45a01b3e0c48cc7eda652a09b",
+            "bodyType": "大型",
+            "woolLength": "长毛",
+            "diseaseIds": "[]",
+            "detail": [
+                {
+                    "id": "101",
+                    "name": "友善程度",
+                    "value": "9"
+                },
+                {
+                    "id": "102",
+                    "name": "喜叫程度",
+                    "value": "1"
+                },
+                {
+                    "id": "103",
+                    "name": "掉毛程度",
+                    "value": "7"
+                },
+                {
+                    "id": "104",
+                    "name": "体味程度",
+                    "value": "4"
+                },
+                {
+                    "id": "105",
+                    "name": "美容程度",
+                    "value": "7"
+                },
+                {
+                    "id": "106",
+                    "name": "饲养难度",
+                    "value": "10"
+                },
+                {
+                    "id": "107",
+                    "name": "护家程度",
+                    "value": "1"
+                },
+                {
+                    "id": "108",
+                    "name": "粘人程度",
+                    "value": "4"
+                },
+                {
+                    "id": "109",
+                    "name": "耐寒程度",
+                    "value": "8"
+                },
+                {
+                    "id": "110",
+                    "name": "耐热程度",
+                    "value": "2"
+                },
+                {
+                    "id": "111",
+                    "name": "运动量",
+                    "value": "2"
+                },
+                {
+                    "id": "112",
+                    "name": "可训程度",
+                    "value": "7"
+                },
+                {
+                    "id": "113",
+                    "name": "口水程度",
+                    "value": "1"
+                },
+                {
+                    "id": "114",
+                    "name": "关爱需求",
+                    "value": "1"
+                }
+            ],
+            "function": null,
+            "icon": "http://p2.ycw.com/201609/12/646dcab17ce8f877aa38aa8a3969a590",
+            "status": 1,
+            "name": "伯曼猫"
+        }
+    ],
+    "pageSize": 8,
+    "count": 109,
+    "total": 14
+}

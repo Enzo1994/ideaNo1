@@ -11,6 +11,9 @@
 page{
   background-color: #F2F2F2;
 }
+.cu-form-group picker[mode="multiSelector"]::after{
+  content:''
+}
 /* .form-item {
   display: flex;
   flex-wrap: nowrap;

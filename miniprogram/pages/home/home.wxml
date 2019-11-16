@@ -14,7 +14,7 @@
           <view class="swiper-item ">
             <image src="{{item.petAvatar}}"  class="pet-avatar"></image>
             <text>{{item.petName}}</text>
-            <text>宠物性别：{{item.petGender}}</text>
+            <text>宠物性别：{{item.petGender==0?'小公主':'小王子'}}</text>
             <text>宠物品种：{{item.breed}}</text>
             <text>来到家时间：{{item.meetDate}}</text>
             <text>宠物体重：{{item.weight}}</text>
