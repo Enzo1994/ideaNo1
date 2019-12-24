@@ -1,0 +1,60 @@
+<!--miniprogram/components/lebel-select/label-select.wxml-->
+<view id="labelContainer" class="label-select__container" style="transform:translateY({{translatePosition}}px)">
+  <view catchtouchstart='touchStart' bindtouchmove='touchMove' bindtouchend='touchEnd' class="label-select__slider"></view>
+  <view class="label-list__container">
+    <view>
+      <text>耍赖时间</text>
+    </view>
+    <view>
+      <text>吃饭</text>
+    </view>
+    <view>
+      <text>排泄</text>
+    </view>
+    <view>
+      <text>理发</text>
+    </view>
+    <view>
+      <text>惊悚</text>
+    </view>
+    <view>
+      <text>遛弯</text>
+    </view>
+    <view>
+      <text>耍赖时间</text>
+    </view>
+    <view>
+      <text>吃饭</text>
+    </view>
+    <view>
+      <text>排泄</text>
+    </view>
+    <view>
+      <text>理发</text>
+    </view>
+    <view>
+      <text>惊悚</text>
+    </view>
+    <view>
+      <text>遛弯</text>
+    </view>
+    <view>
+      <text>耍赖时间</text>
+    </view>
+    <view>
+      <text>吃饭</text>
+    </view>
+    <view>
+      <text>排泄</text>
+    </view>
+    <view>
+      <text>理发</text>
+    </view>
+    <view>
+      <text>惊悚</text>
+    </view>
+    <view>
+      <text>遛弯</text>
+    </view>
+  </view>
+</view>

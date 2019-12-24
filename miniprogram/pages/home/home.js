@@ -84,8 +84,9 @@ Page({
     });
   },
   addDiary: function() {
+    const currentBook = this.data.diaryBookInfo[this.data.swiperCurrentIndex]
     wx.navigateTo({
-      url: "../input-diary/input-diary?_id=" + this.data.diaryBookInfo[this.data.swiperCurrentIndex]._id
+      url: "../input-diary/input-diary?_id=" + currentBook._id + "&petName=" + currentBook.petName
     });
   },
   showDetail: function() {

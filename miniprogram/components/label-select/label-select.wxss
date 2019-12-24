@@ -1,0 +1,48 @@
+/* miniprogram/components/lebel-select/label-select.wxss */
+
+page {
+  overflow: hidden;
+}
+
+.label-select__container {
+  position: absolute;
+  bottom: -700rpx;
+  z-index: 2999;
+  width: 100%;
+  height: 90%;
+  border-radius: 50rpx;
+  box-shadow: 5rpx -5rpx 10rpx #aaa;
+  background-color: white;
+}
+
+.label-select__slider {
+  margin: 30rpx auto;
+  width: 10%;
+  height: 20rpx;
+  border-radius: 50rpx;
+  box-shadow: 4rpx 4rpx 8rpx #aaa;
+  border: 1px solid #ccc;
+}
+
+.label-list__container {
+  margin-top: 20rpx;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20rpx;
+  justify-content: space-around;
+  align-content: space-between;
+  width: 100%;
+}
+
+.label-list__container view {
+  width: 160rpx;
+  margin: 0 20rpx 20rpx 20rpx;
+  padding: 10rpx 20rpx;
+  border: 1px solid #ccc;
+  border-radius: 10rpx;
+}
+
+.label-list__container view text {
+  display: flex;
+  justify-content: center;
+}

@@ -1,9 +1,10 @@
 <!-- miniprogram/pages/input-diary/input-diary.wxml -->
+
+<p class="input-diary__date" >{{date}} {{petName}}</p>
 <form bindsubmit="formSubmit">
   <view class="input-diary__textarea">
-    <textarea name="desc" placeholder="这是一个可以自动聚焦的textarea" auto-focus />
+    <textarea name="desc" placeholder="请记录您宠物的优选时刻，配图更佳~"  />
   </view>
-
   <view class="cu-form-group">
       <view class="title">上传类型：</view>
       <view class="action">
@@ -27,3 +28,4 @@
   </view>
   <button type="primary" form-type="submit" disabled="{{submitDisabled}}">提交日记</button>
 </form>
+<label-select />

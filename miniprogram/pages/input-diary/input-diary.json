@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "label-select": "../../components/label-select/label-select"
+  }
 }

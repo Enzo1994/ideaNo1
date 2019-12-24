@@ -6,8 +6,10 @@ Page({
    * 页面的初始数据
    */
   data: {
+    date: '',
     submitDisabled: false,
     currentBookId: '',
+    petName: '',
     mediaContent: [
       // {
       //   url: 'cloud://youxin-d841c0.796f-youxin-d841c0-1251546534/4656e81f6dc57c5.jpg'
@@ -76,7 +78,7 @@ Page({
     console.log(value)
     const fileIDs = []
 
-    try{
+    try {
       for (let [key, value] of Object.entries(this.data.mediaContent)) {
         const {
           fileID
@@ -108,10 +110,10 @@ Page({
           }])
         }
       })
-    }catch(e){
+    } catch (e) {
       wx.showModal({
         title: '系统提示',
-        content: '提交失败，原因'+e,
+        content: '提交失败，原因' + e,
       })
     }
 
@@ -127,7 +129,8 @@ Page({
    */
   onLoad: function(options) {
     this.setData({
-      currentBookId: options._id
+      currentBookId: options._id,
+      petName: options.petName
     })
   },
 
@@ -135,7 +138,10 @@ Page({
    * 生命周期函数--监听页面初次渲染完成
    */
   onReady: function() {
-
+    const date = new Date();
+    this.setData({
+      date: date.getFullYear() + '/' + (date.getMonth() + 1) + '/' + date.getDate()
+    })
   },
 
   /**
