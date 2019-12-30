@@ -1,8 +1,10 @@
 <!--miniprogram/components/lebel-select/label-select.wxml-->
-<view id="labelContainer" class="label-select__container" style="transform:translateY({{translatePosition}}px)">
-  <view catchtouchstart='touchStart' bindtouchmove='touchMove' bindtouchend='touchEnd' class="label-select__slider"></view>
-  <view class="label-list__container">
-    <view>
+<view id="labelContainer" class="label-select__container" style="transform:translateY({{translatePosition}}px);transition:{{hasTransition?'transform .4s ease':''}}">
+  <view catchtouchstart='touchStart' bindtouchmove='touchMove' bindtouchend='touchEnd' class="label-select__slider"> 
+    <view class="slider-button"></view>
+  </view>
+  <view class="label-list__container" bind:tap="selectLabel">
+    <view data-info="耍赖时间">
       <text>耍赖时间</text>
     </view>
     <view>
